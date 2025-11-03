@@ -1,0 +1,9 @@
+icd,description
+K35, Acute appendicitis
+K35.2, Acute appendicitis with generalized peritonitis
+K35.3, Acute appendicitis with localized peritonitis
+K35.8, Acute appendicitis other and unspecified
+K37, Unspecified appendicitis
+K81, Cholecystitis
+K81.0, Acute cholecystitis
+K81.9, Cholecystitis unspecified

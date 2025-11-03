@@ -1,0 +1,102 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+824	241686	18459	313	0	G801.11	Deep vein thrombosis	February 2009
+3392	17728	306	2	0	G801.13	DVT - Deep vein thrombosis	February 2009
+42506	133	1	0	0	G801C00	Deep vein thrombosis of leg related to air travel	February 2009
+36568	4	0	0	0	F050.00	Embolism of central nervous system venous sinus	February 2009
+5614	12489	673	27	0	14A8100	H/O: Deep Vein Thrombosis	February 2009
+10280	1610	52	0	0	14AC.00	H/O: pulmonary embolus	February 2009
+16976	1168	43	3	0	ZV12900	[V] Personal history of pulmonary embolism	February 2009
+34687	197	1	0	0	7A09311	Trendelenburg pulmonary embolectomy	February 2009
+45740	132	3	0	0	7A09300	Open embolectomy of pulmonary artery	February 2009
+35472	58	0	0	0	7A09400	Open embolisation of pulmonary artery	February 2009
+5696	115	6	0	0	7A6B.00	Open removal of thrombus from vein	February 2009
+83512	4	0	0	0	7A6By00	Other specified open removal of thrombus from vein	February 2009
+15798	54	5	0	0	7A6Bz00	Open removal of thrombus from vein NOS	February 2009
+18144	191	0	0	0	7A6B.11	Open vein thrombectomy	February 2009
+70634	10	0	0	0	7A6B000	Open thrombectomy of vein of upper limb	February 2009
+33600	18	0	0	0	7A6B100	Open thrombectomy of vein of lower limb	February 2009
+18121	1511	31	1	0	G401000	Post operative pulmonary embolus	February 2009
+97853	4	0	0	0	Gyu8000	[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites	October 2009
+30743	100	0	0	0	G801000	Phlebitis of the femoral vein	February 2009
+54663	76	1	0	0	G801100	Phlebitis of the popliteal vein	February 2009
+15382	774	81	0	0	G801600	Thrombophlebitis of the femoral vein	February 2009
+55661	113	0	0	0	G801700	Thrombophlebitis of the popliteal vein	February 2009
+58166	10	0	0	0	G80y400	Thrombophlebitis of the common iliac vein	February 2009
+94496	5	0	0	0	G80y500	Thrombophlebitis of the internal iliac vein	February 2009
+58023	8	0	0	0	G80y600	Thrombophlebitis of the external iliac vein	February 2009
+43555	136	1	0	0	G822.00	Embolism and thrombosis of the vena cava	February 2009
+5503	275	5	0	0	G823.00	Embolism and thrombosis of the renal vein	February 2009
+54205	67	2	0	0	J420200	Thrombus of the superior mesenteric veins	February 2009
+94405	7	0	0	0	L413100	Antenatal deep vein thrombosis - delivered	February 2009
+100502	3	0	0	0	L413200	Antenatal deep vein thrombosis with antenatal complication	August 2010
+112358	2	0	0	0	L414100	Postnatal deep vein thrombosis - delivered with p/n comp	December 2017
+23588	19	3	0	0	L414200	Postnatal deep vein thrombosis with postnatal complication	February 2009
+73569	7	0	0	0	L43z.00	Obstetric pulmonary embolism NOS	February 2009
+7174	317	6	0	0	L43..00	Obstetric pulmonary embolism	February 2009
+109337	1	0	0	0	L43yz00	Other obstetric pulmonary embolism NOS	March 2015
+98639	9	0	0	0	L43zz00	Obstetric pulmonary embolism NOS	March 2010
+101944	2	0	0	0	L43z000	Obstetric pulmonary embolism NOS, unspecified	March 2011
+97367	3	0	0	0	L43z100	Obstetric pulmonary embolism NOS - delivered	August 2009
+44404	14	3	0	0	L43z400	Obstetric pulmonary embolism NOS with postnatal complication	February 2009
+68438	31	0	0	0	L43..11	Obstetric pulmonary embolus	February 2009
+49269	3	0	0	0	L432.00	Obstetric blood-clot pulmonary embolism	February 2009
+112710	3	0	0	0	L432z00	Obstetric blood-clot pulmonary embolism NOS	May 2018
+112578	4	0	0	0	L432300	Obstetric blood-clot pulmonary embolism + a/n complication	April 2018
+1224	2119	37	0	0	SP12200	Post operative deep vein thrombosis	February 2009
+38372	74	3	0	0	SP32100	Thromboembolism after infusion	February 2009
+25161	337	2	0	0	SP32200	Thrombophlebitis after infusion	February 2009
+102444	322	1	0	0	G41y100	Thromboembolic pulmonary hypertension	June 2011
+23477	336	8	0	0	G740.14	Saddle embolus	February 2009
+25478	933	14	0	0	G801.12	Deep vein thrombosis, leg	February 2009
+27284	1637	29	0	0	G801z00	Deep vein phlebitis and thrombophlebitis of the leg NOS	February 2009
+3576	28386	808	1	0	G801.00	Deep vein phlebitis and thrombophlebitis of the leg	February 2009
+70467	2	0	0	0	G80y800	Phlebitis and thrombophlebitis of the iliac vein NOS	February 2009
+38099	35	3	0	0	G80y.11	Phlebitis and/or thrombophlebitis of iliac vein	February 2009
+89444	45	0	0	0	7A6Q.00	Percutaneous removal of thrombus from vein	February 2009
+102038	4	0	0	0	7A6Qz00	Percutaneous removal of thrombus from vein NOS	April 2011
+111872	1	0	0	0	7A6Qy00	Other specified percutaneous removal of thrombus from vein	June 2017
+84367	40	0	0	0	7A6S300	Percutaneous transluminal venous thrombolysis NEC	February 2009
+97808	136	0	0	0	G822000	Thrombosis of inferior vena cava	October 2009
+100103	532	9	0	0	G824.00	Axillary vein thrombosis	July 2010
+9255	2511	39	0	0	G802000	Thrombosis of vein of leg	February 2009
+42158	346	3	0	0	G801500	Deep vein phlebitis of the leg unspecified	February 2009
+54152	2	0	0	0	G80y300	Phlebitis of the iliac vein unspecified	February 2009
+104358	5	0	0	0	7A6Ey11	Fogarty embolectomy of vein	June 2012
+32002	2057	55	0	0	G801B00	Deep vein thrombophlebitis of the leg unspecified	February 2009
+22038	5684	52	0	0	G801D00	Deep vein thrombosis of lower limb	February 2009
+48920	137	0	0	0	G801E00	Deep vein thrombosis of leg related to intravenous drug use	February 2009
+98333	14	0	0	0	7A6B200	Open thrombectomy of renal vein	January 2010
+91282	12	0	0	0	G80y700	Thrombophlebitis of the iliac vein unspecified	February 2009
+26650	445	4	0	0	G82..00	Other venous embolism and thrombosis	February 2009
+49423	15	0	0	0	780D200	Transjugular intrahepatic thrombolysis of portal vein	February 2009
+19562	373	12	0	0	ZV12800	[V] Personal history deep vein thrombosis	February 2009
+17847	1047	40	0	0	ZV12811	[V] Personal history DVT- deep vein thrombosis	February 2009
+105403	342	4	0	0	G825.00	Thrombosis of subclavian vein	December 2012
+96209	350	0	0	0	G401100	Recurrent pulmonary embolism	April 2009
+98526	90	0	0	0	G801F00	Deep vein thrombosis of peroneal vein	February 2010
+101655	4705	5	0	0	9kg..00	Deep vein thrombosis - enhanced services administration	February 2011
+26873	402	10	0	0	L413.11	DVT - deep venous thrombosis, antenatal	February 2009
+23667	374	4	0	0	L413.00	Antenatal deep vein thrombosis	February 2009
+65725	41	0	0	0	L413000	Antenatal deep vein thrombosis unspecified	February 2009
+61203	37	0	0	0	L413z00	Antenatal deep vein thrombosis NOS	February 2009
+102776	117	0	0	0	9kg0.00	DVT stage 1 service level - enhanced services administration	August 2011
+104290	82	0	0	0	9kg0.11	DVT enhanced services administration stage 1 service level	June 2012
+102777	24	0	0	0	9kg1.00	DVT stage 2 service level - enhanced services administration	August 2011
+107023	20	8	0	0	9kg2.00	DVT stage 3 service level - enhanced services administration	September 2013
+4607	407	4	0	0	L414.00	Postnatal deep vein thrombosis	February 2009
+18830	430	8	0	0	L414.11	DVT - deep venous thrombosis, postnatal	February 2009
+69921	30	0	0	0	L414000	Postnatal deep vein thrombosis unspecified	February 2009
+61204	57	0	0	0	L414z00	Postnatal deep vein thrombosis NOS	February 2009
+9701	14950	34	0	0	G401.12	Pulmonary embolus	February 2009
+1266	168630	4271	8	0	G401.00	Pulmonary embolism	February 2009
+67006	9	0	0	0	L096400	Pulmonary embolism following abortive pregnancy	February 2009
+24444	207	1	0	0	G401.11	Infarction - pulmonary	February 2009
+4717	1072	75	0	0	G402.00	Pulmonary infarct	February 2009
+104342	692	13	0	0	G801G00	Recurrent deep vein thrombosis	June 2012
+20676	362	4	0	0	G820.00	Budd - Chiari syndrome (hepatic vein thrombosis)	February 2009
+57100	77	2	0	0	G820.11	Hepatic vein thrombosis	February 2009
+106850	207	0	0	0	G826.00	Thrombosis of internal jugular vein	August 2013
+107851	13	0	0	0	G827.00	Thrombosis of external jugular vein	April 2014
+106566	110	2	0	0	8CMWA00	On deep vein thrombosis care pathway	August 2013
+110542	439	5	0	0	G801H00	Unprovoked deep vein thrombosis	February 2016
+110449	255	0	0	0	G801J00	Provoked deep vein thrombosis	January 2016

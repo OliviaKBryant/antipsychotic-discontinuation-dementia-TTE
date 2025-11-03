@@ -1,0 +1,82 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+99817	2633	245	0	0	14GB.00	History of osteoporosis	June 2010
+51891	2	2	29	0	585O.00	Quantitative ultrasound scan of heel - result osteoporotic	February 2009
+13987	85	17	1518	0	58E4.00	Forearm DXA scan result osteoporotic	February 2009
+10354	169	12	1344	0	58E5.00	Forearm DXA scan result osteopenic	February 2009
+46510	25	6	744	0	58EA.00	Heel DXA scan result osteoporotic	February 2009
+18298	76	4	1049	0	58EB.00	Heel DXA scan result osteopenic	February 2009
+42354	480	4	8849	0	58EG.00	Hip DXA scan result osteoporotic	February 2009
+39217	670	6	15359	0	58EM.00	Lumbar DXA scan result osteoporotic	February 2009
+96342	169	2	6553	0	58EV.00	Femoral neck DEXA scan result osteoporotic	April 2009
+96204	459	4	7208	0	58EW.00	Femoral neck DEXA scan result osteopenic	April 2009
+11603	26074	1029	0	0	66a..00	Osteoporosis monitoring	February 2009
+10293	6440	14	7	0	66a0.00	Initial osteoporosis assessment	February 2009
+10359	5264	14	1	0	66a1.00	Follow-up osteoporosis assessment	February 2009
+37646	1182	1	0	0	66a2.00	Osteoporosis treatment started	February 2009
+36644	86	1	0	0	66a3.00	Osteoporosis treatment stopped	February 2009
+34129	290	1	0	0	66a4.00	Osteoporosis treatment changed	February 2009
+48962	118	1	0	0	66a5.00	Osteoporosis - no treatment	February 2009
+26876	6616	41	0	0	66a6.00	Osteoporosis - dietary advice	February 2009
+38903	689	0	0	0	66a7.00	Osteoporosis - dietary assessment	February 2009
+41376	5461	6	0	0	66a8.00	Osteoporosis - exercise advice	February 2009
+26292	1453	37	0	0	66a9.00	Osteoporosis - falls prevention	February 2009
+70233	163	1	0	0	66aA.00	Osteoporosis - treatment response	February 2009
+98189	6	1	0	0	66aB.00	Osteoporosis - no treatment response	December 2009
+39596	2242	3728	0	0	66aE.00	Refer to osteoporosis specialist	February 2009
+13055	23807	42	0	0	679F.00	Health education - osteoporosis	February 2009
+101068	5065	22	0	0	8B6b.00	Osteoporosis medication prophylaxis	December 2010
+28882	2141	2264	0	0	8HTS.00	Referral to osteoporosis clinic	February 2009
+89922	860	0	0	0	8I6c.00	Osteoporosis treatment not indicated	February 2009
+18265	25051	112	0	0	9N0h.00	Seen in osteoporosis clinic	February 2009
+36796	3986	37	0	0	9Od..00	Osteoporosis monitoring administration	February 2009
+65163	98	1	0	0	9Od0.00	Attends osteoporosis monitoring	February 2009
+45274	102	0	0	0	9Od1.00	Refuses osteoporosis monitoring	February 2009
+92887	3	0	0	0	9Od2.00	Osteoporosis monitoring default	February 2009
+68122	4602	2	0	0	9Od3.00	Osteoporosis monitoring first letter	February 2009
+93455	403	0	0	0	9Od4.00	Osteoporosis monitoring second letter	February 2009
+102017	133	0	0	0	9Od5.00	Osteoporosis monitoring third letter	April 2011
+61121	191	0	0	0	9Od7.00	Osteoporosis monitoring telephone invitation	February 2009
+96779	4	0	0	0	9Od8.00	Osteoporosis monitoring deleted	April 2009
+25534	349	1	0	0	9Od9.00	Osteoporosis monitoring check done	February 2009
+102169	259	0	0	0	9hP..00	Exception reporting: osteoporosis quality indicators	April 2011
+101443	2995	0	0	0	9hP0.00	Excepted osteoporosis quality indicators: patient unsuitable	January 2011
+98433	340	3	0	0	9kj..00	Osteoporosis - enhanced services administration	February 2010
+98760	3914	0	0	0	9kj0.00	Bone sparing drug treatment offered for osteoporosis - ESA	March 2010
+277	471740	17098	330	0	N330.00	Osteoporosis	February 2009
+14967	3405	143	1	0	N330000	Osteoporosis, unspecified	February 2009
+16307	719	12	0	0	N330100	Senile osteoporosis	February 2009
+9700	1625	78	1	0	N330200	Postmenopausal osteoporosis	February 2009
+40428	184	3	0	0	N330300	Idiopathic osteoporosis	February 2009
+62702	57	0	0	0	N330400	Dissuse osteoporosis	February 2009
+24093	352	1	0	0	N330500	Drug-induced osteoporosis	February 2009
+70349	14	0	0	0	N330600	Postoophorectomy osteoporosis	February 2009
+93655	6	0	0	0	N330700	Postsurgical malabsorption osteoporosis	February 2009
+54232	15	0	0	0	N330800	Localized osteoporosis - Lequesne	February 2009
+60433	23	0	0	0	N330900	Osteoporosis in multiple myelomatosis	February 2009
+31580	15	1	0	0	N330A00	Osteoporosis in endocrine disorders	February 2009
+3346	3294	131	0	0	N330B00	Vertebral osteoporosis	February 2009
+16857	862	7	0	0	N330C00	Osteoporosis localized to spine	February 2009
+25650	88	2	0	0	N330D00	Osteoporosis due to corticosteroids	February 2009
+34798	7773	128	0	0	N330z00	Osteoporosis NOS	February 2009
+44386	354	6	0	0	N331.14	Osteoporotic vertebral collapse	February 2009
+39334	18	0	0	0	N331200	Postoophorectomy osteoporosis with pathological fracture	February 2009
+33526	85	0	0	0	N331300	Osteoporosis of disuse with pathological fracture	February 2009
+68019	3	0	0	0	N331400	Postsurgical malabsorption osteoporosis with path fracture	February 2009
+46894	48	1	0	0	N331500	Drug-induced osteoporosis with pathological fracture	February 2009
+27597	171	6	0	0	N331600	Idiopathic osteoporosis with pathological fracture	February 2009
+17377	2142	43	0	0	N331800	Osteoporosis + pathological fracture lumbar vertebrae	February 2009
+12673	1903	51	0	0	N331900	Osteoporosis + pathological fracture thoracic vertebrae	February 2009
+48772	47	2	0	0	N331A00	Osteoporosis + pathological fracture cervical vertebrae	February 2009
+38395	155	3	0	0	N331B00	Postmenopausal osteoporosis with pathological fracture	February 2009
+45736	335	28	0	0	N331H00	Collapse of cervical vertebra due to osteoporosis	February 2009
+5841	1248	27	0	0	N331J00	Collapse of lumbar vertebra due to osteoporosis	February 2009
+19048	1341	21	0	0	N331K00	Collapse of thoracic vertebra due to osteoporosis	February 2009
+4013	1033	10	0	0	N331L00	Collapse of vertebra due to osteoporosis NOS	February 2009
+11503	12570	88	0	0	N331M00	Fragility fracture due to unspecified osteoporosis	February 2009
+93705	22	1	0	0	N331M11	Minimal trauma fracture due to unspecified osteoporosis	February 2009
+36432	173	4	0	0	N374600	Osteoporotic kyphosis	February 2009
+57301	42	1	0	0	NyuB000	[X]Other osteoporosis with pathological fracture	February 2009
+41755	265	7	0	0	NyuB100	[X]Other osteoporosis	February 2009
+18825	502	15	0	0	NyuB800	[X]Unspecified osteoporosis with pathological fracture	February 2009
+15343	1797	107	1	0	PG52.00	Osteopetrosis	February 2009
+44759	14	0	0	0	PG52000	Osteopetrosis - unclassified	February 2009

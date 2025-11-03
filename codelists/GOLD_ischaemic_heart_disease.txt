@@ -1,0 +1,36 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+12804	11276	80	0	0	G33z700	Stable angina	February 2009
+1344	60259	694	11	0	G340.12	Coronary artery disease	February 2009
+1414	8655	661	2	0	G33z300	Angina on effort	February 2009
+1430	992693	42073	224	0	G33..00	Angina pectoris	February 2009
+15754	444	13	0	0	G34z.00	Other chronic ischaemic heart disease NOS	February 2009
+1655	14217	116	0	0	G340.11	Triple vessel disease of the heart	February 2009
+1676	101296	313	1	0	G3z..00	Ischaemic heart disease NOS	February 2009
+17689	682	12	0	0	G30..17	Silent myocardial infarction	February 2009
+1792	183880	3290	10	0	G3...13	IHD - Ischaemic heart disease	February 2009
+20416	2575	9	0	0	G3...12	Atherosclerotic heart disease	February 2009
+21844	493	5	0	0	G31y300	Transient myocardial ischaemia	February 2009
+22383	1113	1	0	0	G3y..00	Other specified ischaemic heart disease	February 2009
+23078	2258	16	0	0	G34y100	Chronic myocardial ischaemia	February 2009
+240	748562	11650	1653	0	G3...00	Ischaemic heart disease	February 2009
+24783	1053	1	0	0	G3...11	Arteriosclerotic heart disease	February 2009
+2491	3770	168	1	0	G30..12	Coronary thrombosis	February 2009
+25842	14657	82	0	0	G33z.00	Angina pectoris NOS	February 2009
+26863	851	8	0	0	G33z600	New onset angina	February 2009
+28138	947	4	0	0	G34..00	Other chronic ischaemic heart disease	February 2009
+28554	24083	136	1	0	G33zz00	Angina pectoris NOS	February 2009
+29421	813	27	0	0	G344.00	Silent myocardial ischaemia	February 2009
+32450	1978	140	0	0	G33z400	Ischaemic chest pain	February 2009
+34633	87	3	0	0	G34y.00	Other specified chronic ischaemic heart disease	February 2009
+35713	72	3	0	0	G34yz00	Other specified chronic ischaemic heart disease NOS	February 2009
+36609	434	1	0	0	G342.00	Atherosclerotic cardiovascular disease	February 2009
+39546	43	0	0	0	Gyu3000	[X]Other forms of angina pectoris	February 2009
+39693	155	3	0	0	G31y200	Subendocardial ischaemia	February 2009
+3999	8597	34	0	0	G340000	Single coronary vessel disease	February 2009
+47637	17	0	0	0	Gyu3300	[X]Other forms of chronic ischaemic heart disease	February 2009
+52517	2865	14	0	0	Gyu3.00	[X]Ischaemic heart diseases	February 2009
+5254	5369	21	0	0	G340100	Double coronary vessel disease	February 2009
+5413	12706	103	2	0	G340.00	Coronary atherosclerosis	February 2009
+56621	59	0	0	0	G5y2.00	Cardiovascular arteriosclerosis unspecified	February 2009
+68401	16	0	0	0	Gyu3200	[X]Other forms of acute ischaemic heart disease	February 2009
+8246	778	142	2360	0	322..00	ECG: myocardial ischaemia	February 2009

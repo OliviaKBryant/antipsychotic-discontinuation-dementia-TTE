@@ -1,0 +1,61 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+28736	174	1	0	0	G30y000	Acute atrial infarction	February 2009
+17689	682	12	0	0	G30..17	Silent myocardial infarction	February 2009
+62626	5	0	0	0	G30y100	Acute papillary muscle infarction	February 2009
+63467	80	0	0	0	G306.00	True posterior myocardial infarction	February 2009
+59189	7	0	0	0	G363.00	Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI	February 2009
+13566	781	7	0	0	G30..11	Attack - heart	February 2009
+1204	6184	301	4	0	G30..14	Heart attack	February 2009
+69474	6	0	0	0	G365.00	Rupture papillary muscle/curr comp fol acute myocard infarct	February 2009
+68357	39	0	0	0	G31y100	Microinfarction of heart	February 2009
+68748	23	0	0	0	G38z.00	Postoperative myocardial infarction, unspecified	February 2009
+106812	3	0	0	0	G383.00	Postoperative transmural myocardial infarction unspec site	August 2013
+32272	307	7	0	0	G38..00	Postoperative myocardial infarction	February 2009
+32854	101	0	0	0	G30B.00	Acute posterolateral myocardial infarction	February 2009
+59032	5	3	263	0	323Z.00	ECG: myocardial infarct NOS	February 2009
+7783	485	88	1455	0	323..00	ECG: myocardial infarction	February 2009
+55137	82	0	0	0	G311011	MI - myocardial infarction aborted	February 2009
+61072	108	6	0	0	G311000	Myocardial infarction aborted	February 2009
+46166	25	0	0	0	G35X.00	Subsequent myocardial infarction of unspecified site	February 2009
+18842	493	9	0	0	G35..00	Subsequent myocardial infarction	February 2009
+72562	12	0	0	0	G353.00	Subsequent myocardial infarction of other sites	February 2009
+99991	7	0	0	0	Gyu3600	[X]Subsequent myocardial infarction of unspecified site	June 2010
+109035	2	0	0	0	Gyu3500	[X]Subsequent myocardial infarction of other sites	January 2015
+45809	81	0	0	0	G350.00	Subsequent myocardial infarction of anterior wall	February 2009
+38609	85	1	0	0	G351.00	Subsequent myocardial infarction of inferior wall	February 2009
+36423	35	1	0	0	G36..00	Certain current complication follow acute myocardial infarct	February 2009
+24126	172	1	0	0	G360.00	Haemopericardium/current comp folow acut myocard infarct	February 2009
+59940	2	0	0	0	G364.00	Ruptur chordae tendinae/curr comp fol acute myocard infarct	February 2009
+23892	1314	5	0	0	G304.00	Posterior myocardial infarction NOS	February 2009
+37657	66	3	0	0	G362.00	Ventric septal defect/curr comp fol acut myocardal infarctn	February 2009
+30421	263	5	0	0	G30..13	Cardiac rupture following myocardial infarction (MI)	February 2009
+113358	1	0	0	0	Gyu3100	[X]Other current complicatns following acute myocard infarct	February 2019
+30330	160	0	0	0	G309.00	Acute Q-wave infarct	February 2009
+9507	1244	22	0	0	G307000	Acute non-Q wave infarction	February 2009
+46112	8	0	0	0	G380.00	Postoperative transmural myocardial infarction anterior wall	February 2009
+462	320599	12346	23	0	E200111	Panic attack	February 2009
+41835	42	1	0	0	G384.00	Postoperative subendocardial myocardial infarction	February 2009
+61670	11	0	0	0	889A.00	Diab mellit insulin-glucose infus acute myocardial infarct	February 2009
+11983	46307	254	0	0	G311500	Acute coronary syndrome	February 2009
+2491	3770	168	1	0	G30..12	Coronary thrombosis	February 2009
+13571	520	0	0	0	G30..16	Thrombosis - coronary	February 2009
+12229	41506	71	0	0	G30X000	Acute ST segment elevation myocardial infarction	February 2009
+10562	102159	191	1	0	G307100	Acute non-ST segment elevation myocardial infarction	February 2009
+40429	165	0	0	0	G301000	Acute anteroapical infarction	February 2009
+14897	7154	14	0	0	G301z00	Anterior myocardial infarction NOS	February 2009
+5387	3246	59	0	0	G301.00	Other specified anterior myocardial infarction	February 2009
+34803	462	1	0	0	G30y.00	Other acute myocardial infarction	February 2009
+29758	267	5	0	0	G30X.00	Acute transmural myocardial infarction of unspecif site	February 2009
+96838	3	0	0	0	Gyu3400	[X]Acute transmural myocardial infarction of unspecif site	May 2009
+241	312135	10984	75	0	G30..00	Acute myocardial infarction	February 2009
+14658	114550	6281	5	0	G30z.00	Acute myocardial infarction NOS	February 2009
+46017	1663	0	0	0	G30yz00	Other acute myocardial infarction NOS	February 2009
+1677	118631	1117	15	0	G30..15	MI - acute myocardial infarction	February 2009
+14898	1116	9	0	0	G305.00	Lateral myocardial infarction NOS	February 2009
+17872	1755	12	0	0	G301100	Acute anteroseptal infarction	February 2009
+8935	2841	20	0	0	G302.00	Acute inferolateral infarction	February 2009
+12139	2866	22	0	0	G300.00	Acute anterolateral infarction	February 2009
+3704	4605	195	0	0	G307.00	Acute subendocardial infarction	February 2009
+1678	21357	218	0	0	G308.00	Inferior myocardial infarction NOS	February 2009
+29643	872	8	0	0	G303.00	Acute inferoposterior infarction	February 2009
+41221	293	8	0	0	G30y200	Acute septal infarction	February 2009

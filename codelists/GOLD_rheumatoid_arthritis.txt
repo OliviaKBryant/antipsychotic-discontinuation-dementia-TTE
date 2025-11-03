@@ -1,0 +1,64 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+844	333786	24417	2181	0	N040.00	Rheumatoid arthritis	February 2009
+5723	2468	212	6	0	N042200	Rheumatoid nodule	February 2009
+6639	11877	605	66	0	14G1.00	H/O: rheumatoid arthritis	February 2009
+6916	10804	289	0	0	N040P00	Seronegative rheumatoid arthritis	February 2009
+8350	6539	277	5	0	N040T00	Flare of rheumatoid arthritis	February 2009
+9707	1315	6	0	0	N047.00	Seropositive errosive rheumatoid arthritis	February 2009
+9954	373	6	0	0	H570.00	Rheumatoid lung	February 2009
+12019	5533	93	0	0	N04X.00	Seropositive rheumatoid arthritis, unspecified	February 2009
+17412	21691	287	32	0	66H..13	Rheumatoid arthrit. monitoring	February 2009
+18155	89	6	0	0	N040Q00	Rheumatoid bursitis	February 2009
+21358	77	6	0	0	N040200	Rheumatoid arthritis of shoulder	February 2009
+23552	541	14	0	0	N041.00	Felty's syndrome	February 2009
+23834	927	33	0	0	N005.00	Adult Still's Disease	February 2009
+27603	4488	32	0	0	N04..00	Rheumatoid arthritis and other inflammatory polyarthropathy	February 2009
+28853	406	11	0	0	N04y012	Fibrosing alveolitis associated with rheumatoid arthritis	February 2009
+30548	300	4	0	0	N040N00	Rheumatoid vasculitis	February 2009
+31054	669	33	0	0	N040S00	Rheumatoid arthritis - multiple joint	February 2009
+31209	37	1	0	0	F396400	Myopathy due to rheumatoid arthritis	February 2009
+31724	227	12	0	0	N04y000	Rheumatoid lung	February 2009
+32001	229	2	0	0	N04y200	Adult-onset Still's disease	February 2009
+37431	56	1	0	0	N042z00	Rheumatoid arthropathy + visceral/systemic involvement NOS	February 2009
+41941	61	1	0	0	N040900	Rheumatoid arthritis of PIP joint of finger	February 2009
+42299	122	4	0	0	N040800	Rheumatoid arthritis of MCP joint	February 2009
+43816	50	0	0	0	G5yA.00	Rheumatoid carditis	February 2009
+44203	52	3	1	0	N040100	Other rheumatoid arthritis of spine	February 2009
+44743	36	0	0	0	N040000	Rheumatoid arthritis of cervical spine	February 2009
+46436	56	1	0	0	N042100	Rheumatoid lung disease	February 2009
+48832	157	1	0	0	N040700	Rheumatoid arthritis of wrist	February 2009
+49067	56	1	0	0	N040B00	Rheumatoid arthritis of hip	February 2009
+49227	50	5	0	0	N042.00	Other rheumatoid arthropathy + visceral/systemic involvement	February 2009
+49787	8	0	0	0	G5y8.00	Rheumatoid myocarditis	February 2009
+50863	233	6	0	0	N040D00	Rheumatoid arthritis of knee	February 2009
+51238	20	0	0	0	N040K00	Rheumatoid arthritis of 1st MTP joint	February 2009
+51239	92	1	0	0	N040F00	Rheumatoid arthritis of ankle	February 2009
+53621	216	2	0	0	N040R00	Rheumatoid nodule	February 2009
+56202	79	1	0	0	Nyu1G00	[X]Seropositive rheumatoid arthritis, unspecified	February 2009
+56838	14	0	0	0	N04y011	Caplan's syndrome	February 2009
+59738	48	0	0	0	N040500	Rheumatoid arthritis of elbow	February 2009
+62401	38	1	0	0	F371200	Polyneuropathy in rheumatoid arthritis	February 2009
+63198	25	0	0	0	N040A00	Rheumatoid arthritis of DIP joint of finger	February 2009
+63365	6	0	0	0	N040600	Rheumatoid arthritis of distal radio-ulnar joint	February 2009
+70221	53	0	0	0	Nyu1200	[X]Other specified rheumatoid arthritis	February 2009
+70658	8	0	0	0	N040H00	Rheumatoid arthritis of talonavicular joint	February 2009
+71784	16	0	0	0	N040J00	Rheumatoid arthritis of other tarsal joint	February 2009
+73619	22	0	0	0	N040G00	Rheumatoid arthritis of subtalar joint	February 2009
+93715	55	0	0	0	Nyu1100	[X]Other seropositive rheumatoid arthritis	February 2009
+99414	6	1	0	0	N040L00	Rheumatoid arthritis of lesser MTP joint	May 2010
+100187	1425	4	0	0	38DZ.00	Disease activity score in rheumatoid arthritis	July 2010
+100776	10	0	0	0	N040C00	Rheumatoid arthritis of sacro-iliac joint	November 2010
+100914	5	0	0	0	N040400	Rheumatoid arthritis of acromioclavicular joint	November 2010
+102088	3	0	0	0	7P20300	Delivery of rehabilitation for rheumatoid arthritis	April 2011
+103829	479	0	0	0	38DZ000	Disease activity score 28 joint in rheumatoid arthritis	February 2012
+105507	151085	336	0	0	66HB000	Rheumatoid arthritis annual review	December 2012
+106440	1	0	0	0	Nyu1000	[X]Rheumatoid arthritis+involvement/other organs or systems	June 2013
+107112	11	0	0	0	N040M00	Rheumatoid arthritis of IP joint of toe	October 2013
+107340	1251	1	0	0	9mM..00	Rheumatoid arthritis monitoring invitation	December 2013
+107435	19321	4	0	0	9mM0.00	Rheumatoid arthritis monitoring invitation first letter	December 2013
+107575	6829	1	0	0	9mM1.00	Rheumatoid arthritis monitoring invitation second letter	January 2014
+107606	270	0	0	0	9mM3.00	Rheumatoid arthritis monitoring verbal invitation	January 2014
+107676	3289	0	0	0	9mM2.00	Rheumatoid arthritis monitoring invitation third letter	February 2014
+107791	1	0	0	0	N040E00	Rheumatoid arthritis of tibio-fibular joint	March 2014
+107797	1347	0	0	0	9mM4.00	Rheumatoid arthritis monitoring telephone invitation	March 2014
+107963	1	0	0	0	N040300	Rheumatoid arthritis of sternoclavicular joint	April 2014

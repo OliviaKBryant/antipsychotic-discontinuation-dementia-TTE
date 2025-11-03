@@ -1,0 +1,57 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+107410	194	3	0	0	173f.00	Anxiety about breathlessness	December 2013
+636	1572598	52840	18	0	E200.00	Anxiety states	February 2009
+6939	41685	560	0	0	E200000	Anxiety state unspecified	February 2009
+655	1155202	30630	5	0	E200300	Anxiety with depression	February 2009
+4534	154551	3653	0	0	E200z00	Anxiety state NOS	February 2009
+1907	11433	710	2	0	E202.00	Phobic disorders	February 2009
+2300	19761	3037	0	0	E202000	Phobia unspecified	February 2009
+16638	4223	355	0	0	E202.11	Social phobic disorders	February 2009
+9944	5977	264	0	0	E202.12	Phobic anxiety	February 2009
+12838	7284	856	0	0	E202200	Agoraphobia without mention of panic attacks	February 2009
+14729	5022	438	0	0	E202z00	Phobic disorder NOS	February 2009
+20773	508	18	0	0	Eu05400	[X]Organic anxiety disorder	February 2009
+15220	8144	317	0	0	Eu34114	[X]Persistant anxiety depression	February 2009
+9386	15738	1103	0	0	Eu40.00	[X]Phobic anxiety disorders	February 2009
+2571	23329	1457	0	0	Eu40000	[X]Agoraphobia	February 2009
+16729	361	18	0	0	Eu40011	[X]Agoraphobia without history of panic disorder	February 2009
+14890	1635	61	0	0	Eu40012	[X]Panic disorder with agoraphobia	February 2009
+11602	7918	427	0	0	Eu40100	[X]Social phobias	February 2009
+115444	1	0	0	0	Eu40111	[X]Anthropophobia	March 2021
+42788	68	1	0	0	Eu40112	[X]Social neurosis	February 2009
+9785	3896	324	0	0	Eu40200	[X]Specific (isolated) phobias	February 2009
+67965	5	1	0	0	Eu40211	[X]Acrophobia	February 2009
+18248	885	130	0	0	Eu40212	[X]Animal phobias	February 2009
+11280	186	2	0	0	Eu40213	[X]Claustrophobia	February 2009
+12635	2656	199	0	0	Eu40214	[X]Simple phobia	February 2009
+12508	10034	175	0	0	Eu40300	[X]Needle phobia	February 2009
+27685	147	1	0	0	Eu40y00	[X]Other phobic anxiety disorders	February 2009
+34064	962	17	0	0	Eu40z00	[X]Phobic anxiety disorder, unspecified	February 2009
+7222	7449	548	0	0	Eu40z11	[X]Phobia NOS	February 2009
+67898	33	0	0	0	Eu40z12	[X]Phobic state NOS	February 2009
+5385	15657	311	0	0	Eu41.00	[X]Other anxiety disorders	February 2009
+8205	7956	232	0	0	Eu41000	[X]Panic disorder [episodic paroxysmal anxiety]	February 2009
+6408	12148	164	0	0	Eu41011	[X]Panic attack	February 2009
+4081	4309	478	2	0	Eu41012	[X]Panic state	February 2009
+10344	27706	634	0	0	Eu41100	[X]Generalized anxiety disorder	February 2009
+962	7439	312	0	0	Eu41111	[X]Anxiety neurosis	February 2009
+35825	1536	68	0	0	Eu41112	[X]Anxiety reaction	February 2009
+50191	6273	2	0	0	Eu41113	[X]Anxiety state	February 2009
+11913	54395	1973	1	0	Eu41200	[X]Mixed anxiety and depressive disorder	February 2009
+7749	11742	73	0	0	Eu41211	[X]Mild anxiety depression	February 2009
+44321	387	1	0	0	Eu41300	[X]Other mixed anxiety disorders	February 2009
+24066	284	4	0	0	Eu41y00	[X]Other specified anxiety disorders	February 2009
+28167	228	2	0	0	Eu41y11	[X]Anxiety hysteria	February 2009
+23838	12262	527	0	0	Eu41z00	[X]Anxiety disorder, unspecified	February 2009
+25638	20784	279	0	0	Eu41z11	[X]Anxiety NOS	February 2009
+66806	4	0	0	0	Eu45215	[X]Nosophobia	February 2009
+18032	577	36	0	0	Eu93000	[X]Separation anxiety disorder of childhood	February 2009
+24351	171	17	0	0	Eu93100	[X]Phobic anxiety disorder of childhood	February 2009
+29907	1529	78	0	0	Eu93200	[X]Social anxiety disorder of childhood	February 2009
+61430	9	1	0	0	Eu93y12	[X]Childhood overanxious disorder	February 2009
+1300	9147	892	1	0	F481700	Photophobia	February 2009
+6221	1335	83	0	0	E292000	Separation anxiety disorder	February 2009
+1758	62501	2431	0	0	E200400	Chronic anxiety	February 2009
+4634	14413	369	0	0	E200500	Recurrent anxiety	February 2009
+4659	66483	1962	0	0	E200200	Generalised anxiety disorder	February 2009
+17687	304	12	0	0	Eu51511	[X]Dream anxiety disorder	February 2009

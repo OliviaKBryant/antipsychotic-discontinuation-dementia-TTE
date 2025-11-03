@@ -1,0 +1,279 @@
+medcodeid	term
+103853010	hepatic fibrosis
+11267010	indian childhood cirrhosis
+113108015	congenital hypoplasia of bile duct
+114801000006118	tanner devascularisation for bleeding varices
+1216060010	oesophageal varices with bleeding
+1222437010	alper's disease
+1232261014	chronic viral hepatitis b
+123999018	congestive cirrhosis
+12456711000006114	[v]assessment for liver transplant
+12458801000006116	[v]liver transplanted
+126721013	florid cirrhosis
+127487019	chronic hepatitis
+128627011	biliary atresia
+150964016	gastric varices
+1544611000006117	fibreopt endoscop rubber band ligation of upper git varices
+161771000006119	sawaguchi roux-en-y procedure for biliary atresia
+163571000006112	rigid oesophagoscopic injection sclerotherapy oesoph varices
+1680591000006117	chronic hepatitis annual review - enhanced services admin
+1736361000000112	cystic fibrosis related cirrhosis
+1763641000006113	cirrhosis of liver due to cystic fibrosis
+1786709019	pigmentary cirrhosis of liver
+17930015	chronic viral hepatitis
+1850901000006115	reason for influenza vaccine - chronic liver disease
+211821000006111	postnecrotic cirrhosis of liver
+21289010	secondary biliary cirrhosis
+2159899016	autoimmune hepatitis
+221111000000114	cirrhosis - non alcoholic
+221941000000113	atresia of bile duct
+225661000006111	piggy back liver transplant
+226161000006113	pipe-stem portal cirrhosis
+24192017	oesophageal varices without bleeding
+2518931000006117	agenesis of bile duct
+2526441000006114	cholangitic cirrhosis
+2526451000006111	cholestatic cirrhosis
+2526461000006113	chronic nonsuppurative destructive cholangitis
+2576980018	portal cirrhosis
+2579818016	laennec's cirrhosis
+2598551000006118	icc - indian childhood cirrhosis
+2598561000006116	cirrhosis-familial with pulmonary hypertension
+267161000006118	oesophageal tamponade
+2675247013	liver disease due to cystic fibrosis
+2676200013	orthotopic transplantation of whole liver
+268812014	open operations on oesophageal varices
+268819017	open injection sclerotherapy to oesophageal varices
+268827014	open operation on oesophageal varices nos
+268885015	fibreoptic endoscopic banding of oesophageal varices
+268957016	rigid oesophagoscopic banding of oesophageal varices
+270232016	replacement of previous liver transplant
+270233014	other specified transplantation of liver
+270234015	transplantation of liver nos
+2725291000006114	esophageal varices without bleeding
+2753761000006112	mixed micro and macronodular cirrhosis
+2754711000006112	viral hepatitis a with hepatic coma
+2781011000006119	bleeding oesophageal varices
+2781021000006110	bleeding esophageal varices
+2781031000006113	esophageal varices with hemorrhage
+2781041000006115	oesophageal varices with haemorrhage
+2781061000006116	bov - bleeding oesophageal varices
+2781071000006111	esophageal varices with bleeding
+2781081000006114	bov - bleeding esophageal varices
+2786001000006114	tx - liver transplantation
+2786011000006112	hepatic transplantation
+2786021000006116	ltx - liver transplant
+2816671000006112	hepatic cirrhosis
+2816681000006110	cl - cirrhosis of liver
+2824391000006117	alpers' disease
+2824431000006111	progressive neuronal degeneration with liver cirrhosis
+286858013	viral hepatitis a with coma
+286862019	viral hepatitis b with coma
+286867013	other specified viral hepatitis with coma
+286868015	viral hepatitis c with coma
+286869011	other specified viral hepatitis with hepatic coma nos
+286876018	unspecified viral hepatitis with coma
+286879013	chronic viral hepatitis b without delta-agent
+288169017	[x]other chronic viral hepatitis
+288170016	[x]chronic viral hepatitis, unspecified
+288171017	[x]unspecified viral hepatitis with coma
+2915211000006119	cirrhosis of pancreas
+2919481000006111	viral hepatitis b with hepatic coma
+2960621000006118	esophageal varices
+2960631000006115	ov - oesophageal varices
+2960641000006113	oesophageal varix
+2960651000006110	esophageal varix
+2960661000006112	ov - esophageal varices
+300775019	oesophageal varices in diseases ec
+300776018	oesophageal varices with bleeding in diseases ec
+300779013	oesophageal varices without bleeding in diseases ec
+300784019	oesophageal varices in diseases ec nos
+300993011	[x]oesophageal varices in diseases classified elsewhere
+3010811000006111	primary biliary cholangitis
+3010831000006117	hanot's cirrhosis
+3011301000006112	arteriohepatic dysplasia
+3011321000006119	watson-alagille syndrome
+303393017	cirrhosis and chronic liver disease
+303401012	chronic active hepatitis
+303404016	autoimmune chronic active hepatitis
+303409014	chronic hepatitis unspecified
+303410016	chronic hepatitis nos
+303414013	unilobular portal cirrhosis
+303419015	diffuse nodular cirrhosis
+303420014	fatty portal cirrhosis
+303425016	capsular portal cirrhosis
+303433015	pigmentary portal cirrhosis
+303435010	toxic portal cirrhosis
+303437019	bacterial portal cirrhosis
+303438012	cardituberculous cirrhosis
+303439016	syphilitic portal cirrhosis
+303440019	zooparasitic portal cirrhosis
+303441015	infectious cirrhosis nos
+303442010	portal cirrhosis unspecified
+303452014	biliary cirrhosis of children
+303453016	biliary cirrhosis nos
+303456012	other non-alcoholic chronic liver disease
+303458013	portal fibrosis without cirrhosis
+303464018	other non-alcoholic chronic liver disease nos
+303465017	chronic liver disease nos
+303466016	liver abscess and sequelae of chronic liver disease
+303489012	liver abscess and chronic liver disease causing sequelae nos
+303515012	toxic liver disease with chronic persistent hepatitis
+303516013	toxic liver disease with chronic lobular hepatitis
+303517016	toxic liver disease with chronic active hepatitis
+303518014	toxic liver disease with fibrosis and cirrhosis of liver
+303525019	hepatic granulomas in sarcoidosis
+303614019	primary sclerosing cholangitis
+303781011	[x]other and unspecified cirrhosis of liver
+30458014	transplantation of liver
+3059491000006115	pht - portal hypertension
+31211000006119	orthotopic transplantation of liver
+314032018	congenital absence of hepatic ducts
+314033011	agenesis of hepatic ducts
+314034017	atresia of hepatic ducts
+314035016	biliary atresia nos
+3175071000006117	cph - chronic persistent hepatitis
+3206871000006111	macronodular cirrhosis
+3206891000006112	pnc - postnecrotic cirrhosis
+3206901000006111	multilobar cirrhosis
+324976011	liver transplant failure and rejection
+325081012	hepatorenal syndrome as a complication of care
+3268012	congenital absence of bile duct
+3269016	agenesis of bile duct
+3331281000006115	hrf - hepatorenal failure
+3331291000006117	hepatorenal failure
+3336411000006117	cirrhosis of lung
+3431801000006116	clh - chronic lobular hepatitis
+3507191000006112	chronic type b viral hepatitis
+3515871000006112	fibrosis of liver
+352566017	sengstaken intubation of oesophagus
+352567014	blakemore intubation of oesophagus
+352929018	exploration of liver transplant
+3532180010	liver transplant recipient
+353580016	chronic viral hepatitis b with delta-agent
+353594015	alcoholic fibrosis and sclerosis of liver
+353595019	alcoholic hepatic failure
+353613017	cirrhosis of liver nos
+353621011	laennec's cirrhosis, non-alcoholic
+353625019	hepatic sclerosis
+353627010	hepatic fibrosis with hepatic sclerosis
+3595991000006116	ligation of esophageal varices
+3607721000006115	congenital short bile duct
+3713561000006119	cardiac cirrhosis
+3713571000006114	congestive cirrhosis
+3748781000006119	ch - chronic hepatitis
+3760671000006116	congenital biliary atresia
+3760691000006115	atresia of bile ducts
+3760701000006115	ba - biliary atresia
+376141000000113	orthotopic transplantation of liver nec
+3796401000006114	fatty metamorphosis of liver
+3847441000006119	congenital atresia of extrahepatic bile duct
+3847451000006117	extrahepatic biliary atresia
+3847461000006115	ehba - extrahepatic biliary atresia
+394102015	other specified open operation on oesophageal varices
+394251013	roux-en-y procedure for biliary atresia
+396390012	multilobular portal cirrhosis
+396391011	cardiac portal cirrhosis
+396392016	juvenile portal cirrhosis
+396393014	non-alcoholic cirrhosis nos
+396394015	other sequelae of chronic liver disease
+3980471000006110	gastric varix
+4044018	biliary cirrhosis
+4407011000006114	chronic type c viral hepatitis
+451124014	chronic alcoholic hepatitis
+451442010	oesophageal varices in cirrhosis of the liver
+453265010	oesophageal varices in alcoholic cirrhosis of the liver
+456800015	oesophageal varices nos
+460651015	[v]liver transplanted
+461319017	[v]assessment for liver transplant
+4656461000006114	open operations on esophageal varices
+4656511000006112	open injection sclerotherapy to esophageal varices
+4656741000006118	fibreoptic oesophagoscopy and injection sclerotherapy of varices
+4656751000006116	fiberoptic endoscopic injection sclerotherapy to esophageal varices
+4656761000006119	fiberoptic esophagoscopy and injection sclerotherapy of varices
+4656781000006112	fibreoptic oesophagoscopy and banding of oesophageal varices
+4656791000006110	fiberoptic endoscopic banding of esophageal varices
+4656811000006114	fiberoptic esophagoscopy and banding of esophageal varices
+4657131000006113	rigid oesophagoscopy and injection sclerotherapy of varices
+4657151000006118	rigid esophagoscopy and injection sclerotherapy of varices
+4657161000006116	endoscopic injection sclerotherapy to varices of esophagus using rigid esophagoscope
+4657171000006111	rigid oesophagoscopy and banding of oesophageal varices
+4657181000006114	rigid esophagoscopic banding of esophageal varices
+4657191000006112	rigid esophagoscopy and banding of esophageal varices
+4657381000006111	balloon tamponade of oesophagus
+4657391000006114	balloon tamponade of esophageal varices
+4657401000006111	balloon tamponade of oesophageal varices
+4657411000006114	balloon tamponade of esophagus
+4661751000006118	orthotopic liver transplant
+4661761000006116	orthotopic transplantation of liver
+4661781000006114	auxiliary liver transplant
+4661791000006112	piggy-back liver transplant
+476611000006116	alcoholic cirrhosis of liver
+477604016	mixed portal cirrhosis
+4779691000006115	oesophageal varices associated with another disorder
+4779711000006117	esophageal varices associated with another disorder
+4779721000006113	oesophageal varices with bleeding, associated with another disorder
+4779741000006118	esophageal varices with bleeding, associated with another disorder
+4779751000006116	oesophageal varices without bleeding, associated with another disorder
+4779771000006114	esophageal varices without bleeding, associated with another disorder
+4787131000006111	cah - chronic active hepatitis
+4787151000006116	cah - chronic aggressive hepatitis
+4787221000006115	pipestem portal cirrhosis
+4787261000006114	zooparasitic portal cirrhosis
+4787861000006113	psc - primary sclerosing cholangitis
+48003016	oesophageal varices
+493707012	hypertrophic portal cirrhosis
+500401000006116	auxillary liver transplant
+5077141000006116	balloon tamponade of oesophagus using sengstaken-blakemore tube
+5077151000006119	blakemore intubation of esophagus
+5077161000006117	sengstaken intubation of esophagus
+5077191000006113	balloon tamponade of esophagus using sengstaken-blakemore tube
+5086651000006118	chronic viral hepatitis b with hepatitis d
+5086991000006115	laennec cirrhosis, non-alcoholic
+511611000006113	bile duct atresia
+52980015	primary biliary cirrhosis
+53033015	alagille syndrome
+5334681000006114	intrahepatic biliary atresia
+538081000000115	compensation for liver failure
+538101000000114	compensation for liver failure nos
+538121000000117	other specified compensation for liver failure
+5493041000006114	cirrhosis, nonalcoholic
+5493051000006111	cirrhosis of liver not due to alcohol
+550431000006116	childhood function cirrhosis
+5524681000006114	cirrhosis secondary to cholestasis
+553311000006111	chronic aggressive hepatitis
+557071000006112	chronic viral hepatitis c
+557081000006110	chronic viral hepatitis, unspecified
+55851000006118	xanthomatous portal cirrhosis
+57989014	portal hypertension
+5975531000006117	esophageal varices in cirrhosis of the liver
+5992721000006114	esophageal varices in alcoholic cirrhosis of the liver
+603321000006118	cryptogenic cirrhosis of liver
+660151000006116	extrahepatic atresia of bile duct
+6617771000006112	bronze cirrhosis
+6617781000006110	bronzed cirrhosis
+68294019	viral hepatitis with hepatic coma
+683211000000113	chronic hepatitis annual review
+6941931000006112	laennec's cirrhosis
+6941941000006119	pc - portal cirrhosis
+6947461000006115	alcoholic cirrhosis
+6947471000006110	alcoholic liver cirrhosis
+69895016	chronic persistent hepatitis
+7065101000006116	fiberoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
+708811000006119	fibreoptic endoscopic injection sclerotherapy oesoph varices
+731231000006114	macronodular cirrhosis of liver
+737961000006116	local ligation of oesophageal varices
+739931000006118	liver transplant with complication, without blame
+768541000006118	intrahepatic atresia of bile duct
+803961000006119	glycogenosis with hepatic cirrhosis
+820381000006112	hepatic fibrosis
+822591000006117	heterotopic transplantation of liver
+8242561000006112	cirrhosis associated with cystic fibrosis
+85441018	hepatorenal syndrome
+85961019	cirrhosis of lung
+862761000006111	oesophageal vessels ligated
+862771000006116	oesophageal varices injected
+864281000006116	liver transplant
+864291000006118	total hepatectomy
+906081000006114	[rfc] cirrhosis
+95368015	chronic lobular hepatitis
+987751000006119	oesophageal varices injected

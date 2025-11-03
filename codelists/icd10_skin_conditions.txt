@@ -1,0 +1,35 @@
+icd10_code	icd10_term
+B07	Viral warts
+B08.1	Molluscum contagiosum
+B35	Dermatophytosis
+B37	Candidiasis
+B86	Scabies
+I83	Varicose veins of lower extremities with ulcer
+L01	Impetigo
+L02	Cutaneous abscess, furuncle and carbuncle
+L03	Cellulitis
+L08.9	Local infection of the skin and subcutaneous tissue, unspecified
+L20	Atopic dermatitis
+L21	Seborrhoeic dermatitis
+L22	Diaper [napkin] dermatitis
+L23	Allergic contact dermatitis
+L24	Irritant contact dermatitis
+L25	Unspecified contact dermatitis
+L26	Exfoliative dermatitis
+L27	Dermatitis due to substances taken internally
+L28	Lichen simplex chronicus and prurigo
+L29	Pruritus
+L30	Other dermatitis
+L40	Psoriasis
+L50	Urticaria
+L89	Decubitus ulcer and pressure area
+L97	Non-pressure chronic ulcer of lower limb
+L98.9	Disorder of the skin and subcutaneous tissue, unspecified
+R21	Rash and other nonspecific skin eruption
+T63.4	Toxic effect of venom of other arthropods
+W53	Bitten by rat
+W54	Bitten or struck by dog
+W55	Bitten or struck by other mammals
+W56	Bitten by shark
+W57	Bitten or stung by nonvenomous insect and other nonvenomous arthropods
+W59	Bitten or crushed by other reptiles

@@ -1,0 +1,17 @@
+icd,description
+H25.0,senile incipient cataract
+H25.1,senile nuclear cataract
+H25.2,senile cataract morgagnian type
+H25.8,other senile cataract
+H25.9,senile cataract unspecified
+H26.0, infantile juvenile and presenile cataract
+H26.1,traumatic cataract
+H26.2,complicated cataract
+H26.3,drug-induced cataract
+H26.4,after-cataract
+H26.8,other specified cataract
+H26.9,cataract unspecified
+H28.0,diabetic cataract
+H28.1,cataract in other endocrine nutritional and metabolic diseases
+H28.2,cataract in other diseases classified elsewhere
+H28.8,other disorders of lens in diseases classified elsewhere

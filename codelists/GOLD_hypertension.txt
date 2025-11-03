@@ -1,0 +1,91 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+204	1840605	23075	2209	0	G2...00	Hypertensive disease	February 2009
+245	13388	194	4	0	G410.00	Primary pulmonary hypertension	February 2009
+351	258018	7115	336	0	G20..11	High blood pressure	February 2009
+799	4049910	17406	37	0	G20..00	Essential hypertension	February 2009
+1894	59132	116	0	0	G201.00	Benign essential hypertension	February 2009
+2666	198116	2713	16	0	14A2.00	H/O: hypertension	February 2009
+3425	54307	793	0	0	662O.00	On treatment for hypertension	February 2009
+3712	97320	721	7	0	G20z.11	Hypertension NOS	February 2009
+3979	800	41	9	0	G672.00	Hypertensive encephalopathy	February 2009
+4372	20819	214	4	0	G202.00	Systolic hypertension	February 2009
+4668	2519	64	0	0	G22..00	Hypertensive renal disease	February 2009
+6702	6907	282	4	0	F421300	Hypertensive retinopathy	February 2009
+7057	67719	228	0	0	G2z..00	Hypertensive disease NOS	February 2009
+7329	4355	24	0	0	G24..00	Secondary hypertension	February 2009
+8732	44649	241	0	0	G2...11	BP - hypertensive disease	February 2009
+10818	258207	2697	9	0	G20z.00	Essential hypertension NOS	February 2009
+11056	180926	42	0	0	8BL0.00	Patient on maximal tolerated antihypertensive therapy	February 2009
+12680	4316	1	0	0	8CR4.00	Hypertension clinical management plan	February 2009
+12948	3171	7	5	0	662H.00	Hypertension treatm.stopped	February 2009
+13188	37998	37	0	0	662G.00	Hypertensive treatm.changed	February 2009
+15106	396	13	0	0	G22z.00	Hypertensive renal disease NOS	February 2009
+15377	4828	464	0	0	G200.00	Malignant essential hypertension	February 2009
+16059	564	26	0	0	G24z.00	Secondary hypertension NOS	February 2009
+18057	7195	1	0	0	8B26.00	Antihypertensive therapy	February 2009
+18482	186568	171	0	0	662c.00	Hypertension six month review	February 2009
+18590	4870	17	0	0	662b.00	Moderate hypertension control	February 2009
+18765	1962	8	0	0	G2y..00	Other specified hypertensive disease	February 2009
+19070	947188	81	0	0	662d.00	Hypertension annual review	February 2009
+20497	1403	2	0	0	TJC7z00	Adverse reaction to antihypertensives NOS	February 2009
+21660	1203	1	0	0	TJC7.00	Adverse reaction to other antihypertensives	February 2009
+21826	9296	23	0	0	662F.00	Hypertension treatm. started	February 2009
+22333	498	5	0	0	8I3N.00	Hypertension treatment refused	February 2009
+25371	184	1	0	0	G241000	Secondary benign renovascular hypertension	February 2009
+26347	961	16	0	0	G8y3.00	Chronic peripheral venous hypertension	February 2009
+29310	637	26	1	0	G22z.11	Renal hypertension	February 2009
+30770	82	0	0	0	U60C511	[X] Adverse reaction to other antihypertensives	February 2009
+31341	381	1	0	0	G24z100	Hypertension secondary to drug	February 2009
+31387	298	11	0	0	G24z000	Secondary renovascular hypertension NOS	February 2009
+31755	120	5	0	0	G240.00	Secondary malignant hypertension	February 2009
+31816	317	14	0	0	G672.11	Hypertensive crisis	February 2009
+34065	2398	11	0	0	G41y000	Secondary pulmonary hypertension	February 2009
+34744	202	1	0	0	G244.00	Hypertension secondary to endocrine disorders	February 2009
+37086	110	2	0	0	F404200	Blind hypertensive eye	February 2009
+39649	152	11	0	0	G220.00	Malignant hypertensive renal disease	February 2009
+42229	339	0	0	0	G24zz00	Secondary hypertension NOS	February 2009
+43664	103	1	0	0	L127.00	Pre-eclampsia or eclampsia with pre-existing hypertension	February 2009
+43935	65	0	0	0	G221.00	Benign hypertensive renal disease	February 2009
+44350	106	0	0	0	U60C51A	[X] Adverse reaction to antihypertensives NOS	February 2009
+44549	28	1	0	0	L128.00	Pre-exist hypertension compl preg childbirth and puerperium	February 2009
+51635	94	0	0	0	G241z00	Secondary benign hypertension NOS	February 2009
+52621	37	4	0	0	L128200	Pre-exist 2ndry hypertens comp preg childbth and puerperium	February 2009
+55603	665	29	0	0	7Q01000	Primary pulmonary hypertension drugs Band 1	February 2009
+57288	107	1	0	0	G241.00	Secondary benign hypertension	February 2009
+59383	26	1	0	0	G240000	Secondary malignant renovascular hypertension	February 2009
+62432	18	1	0	0	L122z00	Other pre-existing hypertension in preg/childb/puerp NOS	February 2009
+63164	74	0	0	0	U60C500	[X]Oth antihyperten drug caus advers eff in therap use, NEC	February 2009
+63260	4	0	0	0	SLC6z00	Hypertensive agent poisoning NOS	February 2009
+63946	37	3	0	0	7Q01100	Primary pulmonary hypertension drugs Band 2	February 2009
+65081	21	1	0	0	7Q01200	Primary pulmonary hypertension drugs Band 3	February 2009
+66567	18	0	0	0	L122.00	Other pre-existing hypertension in preg/childbirth/puerp	February 2009
+69753	226	1	0	0	Gyu2.00	[X]Hypertensive diseases	February 2009
+72030	4	0	0	0	L122100	Other pre-existing hypertension in preg/childb/puerp - deliv	February 2009
+72226	4	0	0	0	SLC6.00	Other hypertensive agent poisoning	February 2009
+73293	9	0	0	0	G240z00	Secondary malignant hypertension NOS	February 2009
+73586	11	0	0	0	L122000	Other pre-existing hypertension in preg/childb/puerp unspec	February 2009
+83473	1008	14	0	0	G203.00	Diastolic hypertension	February 2009
+85944	4	0	0	0	7Q01.00	High cost hypertension drugs	February 2009
+90875	24	1	0	0	7Q01300	Primary pulmonary hypertension drugs Band 4	February 2009
+93055	7	0	0	0	L127z00	Pre-eclampsia or eclampsia + pre-existing hypertension NOS	February 2009
+95359	7	0	0	0	662r.00	Trial withdrawal of antihypertensive therapy	February 2009
+96743	1	0	0	0	L122300	Other pre-exist hypertension in preg/childb/puerp-not deliv	April 2009
+97533	10	0	0	0	Gyu2100	[X]Hypertension secondary to other renal disorders	August 2009
+99259	8	0	0	0	662q.00	Trial reduction of antihypertensive therapy	May 2010
+101649	1	0	0	0	7Q01y00	Other specified high cost hypertension drugs	February 2011
+102406	11757	5	0	0	662P000	Hypertension 9 month review	June 2011
+102444	322	1	0	0	G41y100	Thromboembolic pulmonary hypertension	June 2011
+102458	14	0	0	0	Gyu2000	[X]Other secondary hypertension	June 2011
+105274	3514	2	0	0	G28..00	Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)	December 2012
+105316	7307	8	0	0	G25..11	Stage 1 hypertension	December 2012
+105371	2615	2	0	0	G25..00	Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)	December 2012
+105480	201	27	0	0	G27..00	Hypertension resistant to drug therapy	December 2012
+105487	426	19	0	0	G26..11	Severe hypertension	December 2012
+105989	64	1	0	0	G26..00	Severe hypertension (Nat Inst for Health Clinical Ex 2011)	April 2013
+106279	0	1	0	0	8IA5.00	Trial withdrawal of antihypertensive therapy declined	June 2013
+107704	91	0	0	0	G20..12	Primary hypertension	February 2014
+108136	402	0	0	0	G250.00	Stage 1 hyperten (NICE 2011) without evidnce end organ damge	June 2014
+109611	49	0	0	0	661M600	Hypertension self-management plan agreed	May 2015
+109797	61	0	0	0	G251.00	Stage 1 hyperten (NICE 2011) with evidnce end organ damge	June 2015
+110631	56	0	0	0	661N600	Hypertension self-management plan review	March 2016
+112611	1	0	0	0	SyuFT00	[X]Poisoning by other antihypertensive drugs, NEC	April 2018

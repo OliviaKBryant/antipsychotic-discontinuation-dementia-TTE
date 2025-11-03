@@ -1,0 +1,34 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+23707	1372	26	0	0	G580000	Acute congestive heart failure	February 2009
+10079	1784	46	0	0	G580.12	Right heart failure	February 2009
+21837	36	4	0	0	G232.00	Hypertensive heart&renal dis wth (congestive) heart failure	February 2009
+57987	10	1	0	0	G234.00	Hyperten heart&renal dis+both(congestv)heart and renal fail	February 2009
+27884	2761	29	0	0	G580200	Decompensated cardiac failure	February 2009
+11424	261	2	0	0	G580300	Compensated cardiac failure	February 2009
+5255	2498	156	0	0	G581000	Acute left ventricular failure	February 2009
+66306	5	0	0	0	SP11111	Heart failure as a complication of care	February 2009
+5942	11582	19	0	0	G581.13	Impaired left ventricular function	February 2009
+104275	432	1	0	0	G584.00	Right ventricular failure	June 2012
+10154	723	18	0	0	G580.13	Right ventricular failure	February 2009
+21235	6940	846	0	0	1J60.00	Suspected heart failure	February 2009
+9913	12950	898	0	0	1O1..00	Heart failure confirmed	February 2009
+32898	516	49	0	0	8H2S.00	Admit heart failure emergency	February 2009
+2906	103577	3852	50	0	G580.11	Congestive cardiac failure	February 2009
+398	236207	15491	80	0	G580.00	Congestive heart failure	February 2009
+94870	123	0	0	0	G580400	Congestive heart failure due to valvular disease	February 2009
+22262	186	13	0	0	G1yz100	Rheumatic left ventricular failure	February 2009
+101137	125	0	0	0	G583.11	HFNEF - heart failure with normal ejection fraction	December 2010
+106897	858	1	0	0	G583.12	Heart failure with preserved ejection fraction	August 2013
+101138	752	2	0	0	G583.00	Heart failure with normal ejection fraction	December 2010
+27964	748	41	0	0	G582.00	Acute heart failure	February 2009
+2062	148098	8857	20	0	G58..00	Heart failure	February 2009
+4024	18500	1357	14	0	G58z.00	Heart failure NOS	February 2009
+1223	13549	471	12	0	G58..11	Cardiac failure	February 2009
+17278	1148	38	1	0	G58z.12	Cardiac failure NOS	February 2009
+884	215576	12448	27	0	G581.00	Left ventricular failure	February 2009
+32671	2004	14	0	0	G580100	Chronic congestive heart failure	February 2009
+9524	1830	23	0	0	G580.14	Biventricular failure	February 2009
+96799	1	0	0	0	G5y4z00	Post cardiac operation heart failure NOS	May 2009
+72965	13331	11	0	0	9Or3.00	Heart failure monitoring first letter	February 2009
+115338	712	1	0	0	G585.00	Heart failure with reduced ejection fraction	January 2021
+20822	193	4	0	0	Q48y100	Congenital cardiac failure	February 2009

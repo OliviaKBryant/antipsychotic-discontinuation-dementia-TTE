@@ -1,0 +1,17 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+5484	48	4	0	0	G574100	Ventricular flutter	February 2009
+22874	397	14	0	0	14AD.00	H/O ventricular fibrillation	February 2009
+19707	317	69	568	0	328..00	ECG: ventricular arrhythmia	February 2009
+29371	9	2	132	0	328Z.00	ECG: ventricular arrhythmia NOS	February 2009
+4924	1077	102	1617	0	3282.00	ECG: ventricular tachycardia	February 2009
+31286	30	3	67	0	3283.00	ECG: ventricular fibrillation	February 2009
+4802	21162	1191	57	0	G576200	Ventricular ectopic beats	February 2009
+4374	889	13	0	0	G574.00	Ventricular fibrillation and flutter	February 2009
+41916	15	0	0	0	G574z00	Ventricular fibrillation and flutter NOS	February 2009
+31690	164	3	0	0	G57yA00	Re-entry ventricular arrhythmia	February 2009
+30712	1083	52	0	0	14AP.00	History of ventricular tachycardia	February 2009
+31809	178	13	0	0	G576500	Ventricular premature depolarization	February 2009
+7794	4723	86	0	0	G571.11	Ventricular tachycardia	February 2009
+3418	7553	330	1	0	G571.00	Paroxysmal ventricular tachycardia	February 2009
+4827	1847	61	0	0	G574000	Ventricular fibrillation	February 2009
+25583	710	1	0	0	G574011	Cardiac arrest-ventricular fibrillation	February 2009

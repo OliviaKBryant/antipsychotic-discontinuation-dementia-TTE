@@ -1,0 +1,127 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+1996	540458	18162	0	0	1B17.00	Depressed	February 2009
+19439	78207	101	0	0	212S.00	Depression resolved	February 2009
+2923	10493	486	0	0	62T1.00	Puerperal depression	February 2009
+102632	894	0	0	0	6659000	Antidepressant drug treatment started	July 2011
+18702	3240	158	0	0	6G00.00	Postnatal depression counselling	February 2009
+44848	170312	315	0	0	8BK0.00	Depression management programme	February 2009
+30483	54007	9	0	0	8CAa.00	Patient given advice about management of depression	February 2009
+32841	2602	1169	0	0	8HHq.00	Referral for guided self-help for depression	February 2009
+112682	0	0	0	0	8IH5200	Referral for guided self-help for depression declined	May 2018
+12399	29580	93	0	0	9H90.00	Depression annual review	February 2009
+12122	143640	262	0	0	9H91.00	Depression medication review	February 2009
+30405	917819	5952	0	0	9H92.00	Depression interim review	February 2009
+42931	21902	3	0	0	9HA0.00	On depression register	February 2009
+48970	1841	0	0	0	9hC..00	Exception reporting: depression quality indicators	February 2009
+28970	65072	2	0	0	9hC0.00	Excepted from depression quality indicators: Patient unsuita	February 2009
+43239	52577	1	0	0	9hC1.00	Excepted from depression quality indicators: Informed dissen	February 2009
+30583	50262	70	0	0	9k4..00	Depression - enhanced services administration	February 2009
+65435	23887	1	0	0	9k40.00	Depression - enhanced service completed	February 2009
+96995	12	0	0	0	9kQ..00	On full dose long term treatment depression - enh serv admin	June 2009
+51258	22779	107	0	0	9Ov..00	Depression monitoring administration	February 2009
+71009	40042	31	0	0	9Ov0.00	Depression monitoring first letter	February 2009
+72966	12707	12	0	0	9Ov1.00	Depression monitoring second letter	February 2009
+91105	6919	10	0	0	9Ov2.00	Depression monitoring third letter	February 2009
+88644	2681	6	0	0	9Ov3.00	Depression monitoring verbal invite	February 2009
+85852	1127	0	0	0	9Ov4.00	Depression monitoring telephone invite	February 2009
+2560	6662	410	0	0	E11..12	Depressive psychoses	February 2009
+10610	58393	1091	0	0	E112.00	Single major depressive episode	February 2009
+34390	1885	18	0	0	E112000	Single major depressive episode, unspecified	February 2009
+16506	11023	191	0	0	E112100	Single major depressive episode, mild	February 2009
+5879	51557	3856	0	0	E112.11	Agitated depression	February 2009
+6546	20207	376	0	0	E112.12	Endogenous depression first episode	February 2009
+6950	83468	4699	0	0	E112.13	Endogenous depression first episode	February 2009
+595	75718	2646	0	0	E112.14	Endogenous depression	February 2009
+15155	18163	173	0	0	E112200	Single major depressive episode, moderate	February 2009
+15219	3696	43	0	0	E112300	Single major depressive episode, severe, without psychosis	February 2009
+32159	531	5	0	0	E112400	Single major depressive episode, severe, with psychosis	February 2009
+43324	324	5	0	0	E112500	Single major depressive episode, partial or unspec remission	February 2009
+57409	172	2	0	0	E112600	Single major depressive episode, in full remission	February 2009
+7011	2872	288	0	0	E112z00	Single major depressive episode NOS	February 2009
+15099	21789	763	0	0	E113.00	Recurrent major depressive episode	February 2009
+35671	743	12	0	0	E113000	Recurrent major depressive episodes, unspecified	February 2009
+29342	4485	26	0	0	E113100	Recurrent major depressive episodes, mild	February 2009
+6932	106031	5098	0	0	E113.11	Endogenous depression - recurrent	February 2009
+14709	18618	320	0	0	E113200	Recurrent major depressive episodes, moderate	February 2009
+25697	3127	33	0	0	E113300	Recurrent major depressive episodes, severe, no psychosis	February 2009
+24171	792	9	0	0	E113400	Recurrent major depressive episodes, severe, with psychosis	February 2009
+56273	239	9	0	0	E113500	Recurrent major depressive episodes,partial/unspec remission	February 2009
+55384	524	1	0	0	E113600	Recurrent major depressive episodes, in full remission	February 2009
+6482	70997	2288	0	0	E113700	Recurrent depression	February 2009
+25563	2167	11	0	0	E113z00	Recurrent major depressive episode NOS	February 2009
+10825	5206	57	0	0	E118.00	Seasonal affective disorder	February 2009
+27491	253	14	0	0	E11y200	Atypical depressive disorder	February 2009
+9183	3873	80	0	0	E11z200	Masked depression	February 2009
+8478	2254	53	0	0	E130.00	Reactive depressive psychosis	February 2009
+17770	2763	85	0	0	E130.11	Psychotic reactive depression	February 2009
+1055	53758	3100	0	0	E135.00	Agitated depression	February 2009
+655	1155202	30630	5	0	E200300	Anxiety with depression	February 2009
+1131	308306	7991	2	0	E204.00	Neurotic depression reactive type	February 2009
+2639	177755	4764	5	0	E204.11	Postnatal depression	February 2009
+36246	186	1	0	0	E290z00	Brief depressive reaction NOS	February 2009
+324	2123303	93976	94	0	E2B..00	Depressive disorder NEC	February 2009
+4323	70767	2048	2	0	E2B1.00	Chronic depression	February 2009
+24000	1729	160	0	0	Eu05300	[X]Organic mood [affective] disorders	February 2009
+20785	68	0	0	0	Eu20400	[X]Post-schizophrenic depression	February 2009
+5726	18742	648	0	0	Eu3..00	[X]Mood - affective disorders	February 2009
+4639	546878	6267	0	0	Eu32.00	[X]Depressive episode	February 2009
+11717	53463	871	0	0	Eu32000	[X]Mild depressive episode	February 2009
+9211	119355	2350	0	0	Eu32100	[X]Moderate depressive episode	February 2009
+9055	10570	146	0	0	Eu32.11	[X]Single episode of depressive reaction	February 2009
+18510	680	25	0	0	Eu32.12	[X]Single episode of psychogenic depression	February 2009
+7604	8726	138	0	0	Eu32.13	[X]Single episode of reactive depression	February 2009
+9667	32166	613	0	0	Eu32200	[X]Severe depressive episode without psychotic symptoms	February 2009
+41989	193	2	0	0	Eu32211	[X]Single episode agitated depressn w'out psychotic symptoms	February 2009
+22806	3194	31	0	0	Eu32212	[X]Single episode major depression w'out psychotic symptoms	February 2009
+59386	78	4	0	0	Eu32213	[X]Single episode vital depression w'out psychotic symptoms	February 2009
+12099	6500	86	0	0	Eu32300	[X]Severe depressive episode with psychotic symptoms	February 2009
+24117	334	20	0	0	Eu32311	[X]Single episode of major depression and psychotic symptoms	February 2009
+52678	84	4	0	0	Eu32312	[X]Single episode of psychogenic depressive psychosis	February 2009
+24112	978	12	0	0	Eu32313	[X]Single episode of psychotic depression	February 2009
+28863	227	4	0	0	Eu32314	[X]Single episode of reactive depressive psychosis	February 2009
+10667	21056	163	0	0	Eu32400	[X]Mild depression	February 2009
+98346	927	2	0	0	Eu32500	[X]Major depression, mild	January 2010
+98252	2914	16	0	0	Eu32600	[X]Major depression, moderately severe	December 2009
+98414	2967	17	0	0	Eu32700	[X]Major depression, severe without psychotic symptoms	January 2010
+98417	654	5	0	0	Eu32800	[X]Major depression, severe with psychotic symptoms	January 2010
+101054	1016	0	0	0	Eu32900	[X]Single major depr ep, severe with psych, psych in remiss	December 2010
+101153	419	1	0	0	Eu32A00	[X]Recurr major depr ep, severe with psych, psych in remiss	December 2010
+103677	114	10	0	0	Eu32B00	[X]Antenatal depression	February 2012
+6854	3869	45	0	0	Eu32y00	[X]Other depressive episodes	February 2009
+10720	493	6	0	0	Eu32y11	[X]Atypical depression	February 2009
+56609	145	1	0	0	Eu32y12	[X]Single episode of masked depression NOS	February 2009
+2970	153349	2357	0	0	Eu32z00	[X]Depressive episode, unspecified	February 2009
+543	939768	23887	1	0	Eu32z11	[X]Depression NOS	February 2009
+3291	21357	483	0	0	Eu32z12	[X]Depressive disorder NOS	February 2009
+28248	639	21	0	0	Eu32z13	[X]Prolonged single episode of reactive depression	February 2009
+5987	108125	2170	0	0	Eu32z14	[X] Reactive depression NOS	February 2009
+3292	58855	636	0	0	Eu33.00	[X]Recurrent depressive disorder	February 2009
+29784	3089	17	0	0	Eu33000	[X]Recurrent depressive disorder, current episode mild	February 2009
+29520	8529	87	0	0	Eu33100	[X]Recurrent depressive disorder, current episode moderate	February 2009
+8851	3273	38	0	0	Eu33.11	[X]Recurrent episodes of depressive reaction	February 2009
+19696	894	28	0	0	Eu33.12	[X]Recurrent episodes of psychogenic depression	February 2009
+8902	4507	78	0	0	Eu33.13	[X]Recurrent episodes of reactive depression	February 2009
+28756	153	2	0	0	Eu33.14	[X]Seasonal depressive disorder	February 2009
+33469	2104	41	0	0	Eu33200	[X]Recurr depress disorder cur epi severe without psyc sympt	February 2009
+11329	1276	20	0	0	Eu33211	[X]Endogenous depression without psychotic symptoms	February 2009
+11252	456	17	0	0	Eu33212	[X]Major depression, recurrent without psychotic symptoms	February 2009
+73991	28	0	0	0	Eu33214	[X]Vital depression, recurrent without psychotic symptoms	February 2009
+47009	1301	11	0	0	Eu33300	[X]Recurrent depress disorder cur epi severe with psyc symp	February 2009
+23731	643	28	0	0	Eu33311	[X]Endogenous depression with psychotic symptoms	February 2009
+32941	401	25	0	0	Eu33313	[X]Recurr severe episodes/major depression+psychotic symptom	February 2009
+31757	61	3	0	0	Eu33314	[X]Recurr severe episodes/psychogenic depressive psychosis	February 2009
+16861	588	19	0	0	Eu33315	[X]Recurrent severe episodes of psychotic depression	February 2009
+37764	103	7	0	0	Eu33316	[X]Recurrent severe episodes/reactive depressive psychosis	February 2009
+22116	814	2	0	0	Eu33400	[X]Recurrent depressive disorder, currently in remission	February 2009
+47731	320	3	0	0	Eu33y00	[X]Other recurrent depressive disorders	February 2009
+44300	3377	23	0	0	Eu33z00	[X]Recurrent depressive disorder, unspecified	February 2009
+36616	47	2	0	0	Eu33z11	[X]Monopolar depression NOS	February 2009
+8584	1611	19	0	0	Eu34111	[X]Depressive neurosis	February 2009
+7737	6144	21	0	0	Eu34113	[X]Neurotic depression	February 2009
+15220	8144	317	0	0	Eu34114	[X]Persistant anxiety depression	February 2009
+19054	334	1	0	0	Eu3y111	[X]Recurrent brief depressive episodes	February 2009
+11913	54395	1973	1	0	Eu41200	[X]Mixed anxiety and depressive disorder	February 2009
+7749	11742	73	0	0	Eu41211	[X]Mild anxiety depression	February 2009
+13307	7424	84	0	0	Eu53011	[X]Postnatal depression NOS	February 2009
+4979	531	11	0	0	Eu53012	[X]Postpartum depression NOS	February 2009
+29527	312	4	0	0	R007z13	[D]Postoperative depression	February 2009

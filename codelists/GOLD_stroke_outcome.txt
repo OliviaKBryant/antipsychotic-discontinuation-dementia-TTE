@@ -1,0 +1,181 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+94482,53,0,0,0,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,February 2009
+91627,124,0,0,0,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,February 2009
+96630,34,0,0,0,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified",April 2009
+92036,63,0,0,0,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,February 2009
+90572,28,0,0,0,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,February 2009
+53745,927,2,0,0,Gyu6400,[X]Other cerebral infarction,February 2009
+99367,1,0,0,0,Gyu6A00,[X]Other cerebrovascular disorders in diseases CE,May 2010
+53810,63,0,0,0,Gyu6200,[X]Other intracerebral haemorrhage,February 2009
+93459,146,0,0,0,Fyu5600,[X]Other lacunar syndromes,February 2009
+65745,15,0,0,0,Gyu6100,[X]Other subarachnoid haemorrhage,February 2009
+95347,12,1,0,0,Fyu5700,[X]Other vascular syndroms/brain in cerebrovasculr diseases,February 2009
+110337,7,0,0,0,Gyu6C00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction",December 2015
+108630,3,0,0,0,Gyu6E00,"[X]Subarachnoid haemorrh from intracranial artery, unspecif",September 2014
+108668,4,0,0,0,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,October 2014
+70536,28,0,0,0,G671000,Acute cerebrovascular insufficiency NOS,February 2009
+105520,241,8,0,0,8Hd6.00,Admission to stroke unit,January 2013
+101824,3,0,0,0,C154211,Adrenocortical haemorrhage,March 2011
+19280,529,1,0,0,G661.00,Anterior cerebral artery syndrome,February 2009
+46316,205,0,0,0,G612.00,Basal nucleus haemorrhage,February 2009
+32447,239,1,0,0,G630.00,Basilar artery occlusion,February 2009
+23942,1332,42,0,0,G650.00,Basilar artery syndrome,February 2009
+8443,1752,26,0,0,G663.00,Brain stem stroke syndrome,February 2009
+25615,1020,39,0,0,G64z000,Brainstem infarction,February 2009
+15252,441,30,0,0,G64z.11,Brainstem infarction NOS,February 2009
+62342,32,1,0,0,G615.00,Bulbar haemorrhage,February 2009
+35059,220,3,0,0,G673100,Carotico-cavernous sinus fistula,February 2009
+12634,932,7,0,0,G673200,Carotid artery dissection,February 2009
+4240,3369,112,0,0,G631.00,Carotid artery occlusion,February 2009
+2652,18700,462,0,0,G634.00,Carotid artery stenosis,February 2009
+44765,123,2,0,0,G653.00,Carotid artery syndrome hemispheric,February 2009
+100639,116,4,0,0,1M4..00,Central post-stroke pain,September 2010
+9943,411,15,0,0,G678.00,Cereb autosom dominant arteriop subcort infarcts leukoenceph,February 2009
+39344,420,2,0,0,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",February 2009
+40758,781,2,0,0,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,February 2009
+13564,2399,24,0,0,G613.00,Cerebellar haemorrhage,February 2009
+5602,11213,69,0,0,G64z.12,Cerebellar infarction,February 2009
+17322,2336,68,0,0,G664.00,Cerebellar stroke syndrome,February 2009
+10189,775,7,0,0,G674000,Cerebral amyloid angiopathy,February 2009
+8837,35282,209,0,0,G64..00,Cerebral arterial occlusion,February 2009
+22400,205,8,0,0,G674.00,Cerebral arteritis,February 2009
+11171,2140,39,0,0,G670.00,Cerebral atherosclerosis,February 2009
+15019,1590,64,0,0,G641.00,Cerebral embolism,February 2009
+34758,124,2,0,0,G641.11,Cerebral embolus,February 2009
+23671,2024,8,0,0,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,February 2009
+27975,326,0,0,0,G641000,Cerebral infarction due to embolism of cerebral arteries,February 2009
+24446,529,5,0,0,G63y100,Cerebral infarction due to embolism of precerebral arteries,February 2009
+36717,1084,12,0,0,G640000,Cerebral infarction due to thrombosis of cerebral arteries,February 2009
+3149,46593,248,0,0,G64z.00,Cerebral infarction NOS,February 2009
+16517,4181,101,0,0,G640.00,Cerebral thrombosis,February 2009
+101733,363,3,0,0,G67A.00,Cerebral vein thrombosis,February 2011
+69686,8,0,0,0,L417000,Cerebral venous thrombosis in pregnancy,February 2009
+55974,4,0,0,0,L417100,Cerebral venous thrombosis in the puerperium,February 2009
+33543,3288,4,0,0,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,February 2009
+2418,214373,1022,0,0,G6...00,Cerebrovascular disease,February 2009
+10062,4385,16,0,0,G6z..00,Cerebrovascular disease NOS,February 2009
+24385,1282,11,0,0,G671100,Chronic cerebral ischaemia,February 2009
+31595,195,2,0,0,G610.00,Cortical haemorrhage,February 2009
+5363,40224,496,0,0,G64..11,CVA - cerebral artery occlusion,February 2009
+6960,14903,448,1,0,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,February 2009
+47607,115,0,0,0,L440.11,CVA - cerebrovascular accident in the puerperium,February 2009
+6116,24321,455,0,0,G66..13,CVA - Cerebrovascular accident unspecified,February 2009
+1298,165910,3800,26,0,G66..11,CVA unspecified,February 2009
+55351,239,47,0,0,7P24200,Delivery of rehabilitation for stroke,February 2009
+42248,399,0,0,0,ZLEP.00,Discharge from stroke serv,February 2009
+22018,138,0,0,0,G673000,"Dissection of cerebral arteries, nonruptured",February 2009
+18687,4459,2,0,0,9N4X.00,DNA - Did not attend stroke clinic,February 2009
+4107,971,27,0,0,7032000,Evacuation of extradural haematoma,February 2009
+4917,6837,103,0,0,7017000,Evacuation of subdural haematoma,February 2009
+11074,34667,1,0,0,9h22.00,Excepted from stroke quality indicators: Informed dissent,February 2009
+11039,76366,2,0,0,9h21.00,Excepted from stroke quality indicators: Patient unsuitable,February 2009
+10962,3479,1,0,0,9h2..00,Exception reporting: stroke quality indicators,February 2009
+30045,57,1,0,0,G616.00,External capsule haemorrhage,February 2009
+36178,312,1,0,0,G620.00,Extradural haemorrhage - nontraumatic,February 2009
+40053,308,1,0,0,G671.00,Generalised ischaemic cerebrovascular disease NOS,February 2009
+12555,173,0,0,0,G671z00,Generalised ischaemic cerebrovascular disease NOS,February 2009
+28914,304,7,0,0,662o.00,Haemorrhagic stroke monitoring,February 2009
+55247,62,0,0,0,G65z000,Impending cerebral ischaemia,February 2009
+569,5388,192,0,0,G64..12,Infarction - cerebral,February 2009
+57495,56,0,0,0,G63..11,Infarction - precerebral,February 2009
+26424,2147,8,0,0,G64z400,Infarction of basal ganglia,February 2009
+5268,4972,269,2,0,G650.11,Insufficiency - basilar artery,February 2009
+16507,222,10,0,0,G65z100,Intermittent cerebral ischaemia,February 2009
+40338,361,6,0,0,G611.00,Internal capsule haemorrhage,February 2009
+5051,23655,273,0,0,G61..00,Intracerebral haemorrhage,February 2009
+31060,210,0,0,0,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",February 2009
+3535,2467,82,1,0,G61z.00,Intracerebral haemorrhage NOS,February 2009
+30202,1216,3,0,0,G617.00,"Intracerebral haemorrhage, intraventricular",February 2009
+57315,48,2,0,0,G618.00,"Intracerebral haemorrhage, multiple localized",February 2009
+20284,1340,19,0,0,G62z.00,Intracranial haemorrhage NOS,February 2009
+23361,527,56,2,0,G68..00,Late effects of cerebrovascular disease,February 2009
+5185,415,5,0,0,G64z111,Lateral medullary syndrome,February 2009
+9985,3646,8,0,0,G64z200,Left sided cerebral infarction,February 2009
+7780,8641,104,0,0,G667.00,Left sided CVA,February 2009
+28314,368,0,0,0,G61X000,"Left sided intracerebral haemorrhage, unspecified",February 2009
+107440,273,0,0,0,G619.00,Lobar cerebral haemorrhage,December 2013
+18689,1213,6,0,0,G660.00,Middle cerebral artery syndrome,February 2009
+57183,153,8,0,0,C315100,"Mitochond encephalopathy, lact acidosis & strokelike episode",February 2009
+32310,301,4,0,0,G675.00,Moyamoya disease,February 2009
+98642,10,1,0,0,G633.00,Multiple and bilateral precerebral arterial occlusion,March 2010
+50594,11,0,0,0,G654.00,Multiple and bilateral precerebral artery syndromes,February 2009
+37947,970,15,0,0,G676.00,Nonpyogenic venous sinus thrombosis,February 2009
+52679,48,0,0,0,L417.00,Obstetric cerebral venous thrombosis,February 2009
+57527,40,0,0,0,G677100,Occlusion and stenosis of anterior cerebral artery,February 2009
+55602,61,0,0,0,G677300,Occlusion and stenosis of cerebellar arteries,February 2009
+51759,155,0,0,0,G677000,Occlusion and stenosis of middle cerebral artery,February 2009
+65770,30,0,0,0,G677200,Occlusion and stenosis of posterior cerebral artery,February 2009
+31704,62,0,0,0,G677.00,Occlusion/stenosis cerebral arts not result cerebral infarct,February 2009
+71274,9,0,0,0,G677400,Occlusion+stenosis of multiple and bilat cerebral arteries,February 2009
+109679,216,9,248,0,5C13.00,Old cerebral infarction on imaging,May 2015
+31805,358,1,0,0,G62..00,Other and unspecified intracranial haemorrhage,February 2009
+13577,1046,8,0,0,G67..00,Other cerebrovascular disease,February 2009
+37493,495,1,0,0,G67z.00,Other cerebrovascular disease NOS,February 2009
+34117,152,3,0,0,G67y.00,Other cerebrovascular disease OS,February 2009
+51326,62,0,0,0,G63y.00,Other precerebral artery occlusion,February 2009
+51311,149,0,0,0,G6y..00,Other specified cerebrovascular disease,February 2009
+19354,417,4,0,0,G65y.00,Other transient cerebral ischaemia,February 2009
+7912,606,3,0,0,G614.00,Pontine haemorrhage,February 2009
+19260,759,2,0,0,G662.00,Posterior cerebral artery syndrome,February 2009
+45781,453,6,0,0,G63..00,Precerebral arterial occlusion,February 2009
+71585,61,0,0,0,G63z.00,Precerebral artery occlusion NOS,February 2009
+5184,213,7,0,0,G670.11,Precerebral atherosclerosis,February 2009
+108428,0,0,0,0,8OAC.00,Provision of written information about stroke,August 2014
+33499,832,1,0,0,G665.00,Pure motor lacunar syndrome,February 2009
+51767,295,2,0,0,G666.00,Pure sensory lacunar syndrome,February 2009
+104638,4,11,0,0,8IEC.00,Ref multidisciplinary stroke function improvement declined,August 2012
+56458,99,179,0,0,8HHM.00,Ref to multidisciplinary stroke function improvement service,February 2009
+18804,23357,11887,0,0,8HTQ.00,Referral to stroke clinic,February 2009
+10504,3299,4,0,0,G64z300,Right sided cerebral infarction,February 2009
+12833,7512,95,0,0,G668.00,Right sided CVA,February 2009
+19201,345,0,0,0,G61X100,"Right sided intracerebral haemorrhage, unspecified",February 2009
+31941,55,3,0,0,A94y600,Rupture of syphilitic cerebral aneurysm,February 2009
+29939,476,6,0,0,G600.00,Ruptured berry aneurysm,February 2009
+108569,226,1,0,0,2Ba2200,SCPE class predom patt C.3 infarct of middle cerebral artery,September 2014
+32959,31629,16,0,0,9N0p.00,Seen in stroke clinic,February 2009
+39403,181,4,0,0,G683.00,Sequelae of cerebral infarction,February 2009
+48149,52,0,0,0,G681.00,Sequelae of intracerebral haemorrhage,February 2009
+43451,283,5,0,0,G682.00,Sequelae of other nontraumatic intracranial haemorrhage,February 2009
+6228,576,11,0,0,G68X.00,"Sequelae of stroke,not specfd as h'morrhage or infarction",February 2009
+44740,47,2,0,0,G680.00,Sequelae of subarachnoid haemorrhage,February 2009
+51138,41,2,0,0,G68W.00,Sequelae/other + unspecified cerebrovascular diseases,February 2009
+98188,14127,19,0,0,G679.00,Small vessel cerebrovascular disease,December 2009
+63830,15,0,0,0,G63..12,Stenosis of precerebral arteries,February 2009
+2156,3984,254,2,0,G631.11,"Stenosis, carotid artery",February 2009
+13707,26612,17040,0,0,8HBJ.00,Stroke / transient ischaemic attack referral,February 2009
+1469,312413,24306,385,0,G66..00,Stroke and cerebrovascular accident unspecified,February 2009
+6155,7068,58,0,0,G64..13,Stroke due to cerebral arterial occlusion,February 2009
+18604,3066,33,0,0,G61..12,Stroke due to intracerebral haemorrhage,February 2009
+52246,69,2,0,0,13YA.00,Stroke group member,February 2009
+56279,16,0,0,0,L440.12,Stroke in the puerperium,February 2009
+104505,26,0,0,0,662M200,Stroke initial post discharge review,July 2012
+10792,124661,842,0,0,662M.00,Stroke monitoring,February 2009
+107195,15,0,0,0,661M700,Stroke self-management plan agreed,October 2013
+109743,6,0,0,0,661N700,Stroke self-management plan review,June 2015
+6253,13264,104,0,0,G66..12,Stroke unspecified,February 2009
+17326,389,3,0,0,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",February 2009
+1786,43426,1077,1,0,G60..00,Subarachnoid haemorrhage,February 2009
+42331,245,0,0,0,G603.00,Subarachnoid haemorrhage from anterior communicating artery,February 2009
+41910,95,0,0,0,G605.00,Subarachnoid haemorrhage from basilar artery,February 2009
+56007,16,0,0,0,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation,February 2009
+19412,504,1,0,0,G602.00,Subarachnoid haemorrhage from middle cerebral artery,February 2009
+9696,125,0,0,0,G604.00,Subarachnoid haemorrhage from posterior communicating artery,February 2009
+60692,13,0,0,0,G606.00,Subarachnoid haemorrhage from vertebral artery,February 2009
+23580,1884,8,0,0,G60z.00,Subarachnoid haemorrhage NOS,February 2009
+17734,5714,33,0,0,G622.00,Subdural haematoma - nontraumatic,February 2009
+4273,3035,190,0,0,G621.00,Subdural haemorrhage - nontraumatic,February 2009
+18912,6838,56,0,0,G623.00,Subdural haemorrhage NOS,February 2009
+102357,3360,387,0,0,1JA1000,Suspected cerebrovascular accident,June 2011
+102554,4155,339,0,0,1JA1011,Suspected stroke,July 2011
+4152,213,9,0,0,G631.12,"Thrombosis, carotid artery",February 2009
+504,231943,15823,8,0,G65..00,Transient cerebral ischaemia,February 2009
+1895,4327,75,0,0,G65z.00,Transient cerebral ischaemia NOS,February 2009
+15788,21114,70,0,0,G65zz00,Transient cerebral ischaemia NOS,February 2009
+1433,233460,10516,0,0,G65..12,Transient ischaemic attack,February 2009
+97122,400,2,0,0,G673300,Vertebral artery dissection,August 2009
+40847,370,3,0,0,G632.00,Vertebral artery occlusion,February 2009
+33377,267,5,0,0,G651.00,Vertebral artery syndrome,February 2009
+21118,1684,46,0,0,G651000,Vertebro-basilar artery syndrome,February 2009
+10794,2610,37,0,0,G656.00,Vertebrobasilar insufficiency,February 2009
+2417,9562,436,0,0,G65..13,Vertebro-basilar insufficiency,February 2009
+47642,78,1,0,0,G64z100,Wallenberg syndrome,February 2009

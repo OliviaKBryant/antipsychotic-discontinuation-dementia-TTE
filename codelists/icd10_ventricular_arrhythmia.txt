@@ -1,0 +1,7 @@
+ ICD10  	 Description                           
+ I47.0  	 Re-entry ventricular arrhythmia       
+ I47.2  	 Ventricular tachycardia               
+ I49.0  	 Ventricular fibrillation and flutter  
+ I49.01 	 Ventricular fibrillation              
+ I49.02 	 Ventricular flutter                   
+ I49.3  	 Ventricular premature depolarization  

@@ -1,0 +1,410 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+5742	1925	61	0	0	7K1D000	Prmy open red+int fxn prox femoral #+screw/nail+plate device	February 2009
+33624	600	11	0	0	7K1D600	Prmy open red+int fxn prox femoral #+screw/nail device alone	February 2009
+34764	124	0	0	0	7K1D700	Prmy open red+int fxn prox fem #+screw/nail+intramed device	February 2009
+105803	211	0	0	0	7K1DE00	Prim op red frac neck fem op fix us prox fem nail antirotatn	February 2013
+8719	312	4	0	0	7K1J000	Cls red+int fxn proximal femoral #+screw/nail device alone	February 2009
+53670	142	0	0	0	7K1J011	Cl red intracaps frac neck femur fix-Garden cannulated screw	February 2009
+40999	21	0	0	0	7K1J012	Cl red intracaps fract neck femur fix - Smith-Petersen nail	February 2009
+57514	54	1	0	0	7K1J013	Cls red+int fxn prox femoral #+Richard's cannulat hip screw	February 2009
+35004	175	0	0	0	7K1J500	Primary int fxn(no red) prox fem #+screw/nail device alone	February 2009
+44594	39	0	0	0	7K1J600	Primary int fxn(no red) prox fem #+scrw/nail+intramed device	February 2009
+38856	56	0	0	0	7K1J700	Primary int fxn(no red) prox fem #+screw/nail+plate device	February 2009
+55386	55	0	0	0	7K1JB00	Primary cls red+int fxn prox fem #+screw/nail device alone	February 2009
+54819	36	0	0	0	7K1JC00	Prim cls rd+int fxn prox fem #+screw/nail+intramdulry device	February 2009
+46959	15	0	0	0	7K1JD00	Primary cls red+int fxn prox fem #+screw/nail+plate device	February 2009
+6660	1934	98	0	0	7K1L400	Closed reduction of fracture of hip	February 2009
+199	90391	1120	2	0	S23B.00	Fracture of lower end of radius	February 2009
+6213	2954	7	0	0	S23C.00	Fracture of lower end of both ulna and radius	February 2009
+2225	170656	7055	8	0	S30..00	Fracture of neck of femur	February 2009
+1994	32255	2102	3	0	S30..11	Hip fracture	February 2009
+38489	208	4	1	0	S300.00	Closed fracture proximal femur, transcervical	February 2009
+69919	8	0	0	0	S300100	Closed fracture proximal femur, transepiphyseal	February 2009
+65690	7	0	0	0	S300200	Closed fracture proximal femur, midcervical section	February 2009
+52194	80	0	0	0	S300300	Closed fracture proximal femur, basicervical	February 2009
+51861	214	1	0	0	S300311	Closed fracture, base of neck of femur	February 2009
+36391	398	2	0	0	S300400	Closed fracture head of femur	February 2009
+34351	89	2	0	0	S300600	Closed fracture proximal femur, subcapital, Garden grade I	February 2009
+33957	29	1	0	0	S300700	Closed fracture proximal femur, subcapital, Garden grade II	February 2009
+36599	34	1	0	0	S300800	Closed fracture proximal femur, subcapital, Garden grade III	February 2009
+34078	58	0	0	0	S300900	Closed fracture proximal femur, subcapital, Garden grade IV	February 2009
+45779	95	0	0	0	S300A00	Closed fracture of femur, upper epiphysis	February 2009
+49209	52	1	0	0	S300y00	Closed fracture proximal femur, other transcervical	February 2009
+68229	81	0	0	0	S300y11	Closed fracture of femur, subcapital	February 2009
+62966	36	0	0	0	S300z00	Closed fracture proximal femur, transcervical, NOS	February 2009
+73981	5	0	0	0	S301.00	Open fracture proximal femur, transcervical	February 2009
+72138	2	0	0	0	S301100	Open fracture proximal femur, transepiphyseal	February 2009
+100771	7	0	0	0	S301311	Open fracture base of neck of femur	November 2010
+73210	26	0	0	0	S301400	Open fracture head, femur	February 2009
+38878	28	1	0	0	S301500	Open fracture proximal femur,subcapital, Garden grade unspec	February 2009
+60885	5	0	0	0	S301600	Open fracture proximal femur,subcapital, Garden grade I	February 2009
+67394	5	0	0	0	S301700	Open fracture proximal femur,subcapital, Garden grade II	February 2009
+23803	1	0	0	0	S301800	Open fracture proximal femur,subcapital, Garden grade III	February 2009
+51999	3	0	0	0	S301900	Open fracture proximal femur,subcapital, Garden grade IV	February 2009
+96518	4	0	0	0	S301A00	Open fracture of femur, upper epiphysis	April 2009
+68668	8	0	0	0	S301y00	Open fracture proximal femur, other transcervical	February 2009
+73234	2	0	0	0	S301y11	Open fracture of femur, subcapital	February 2009
+5301	1559	111	0	0	S302.00	Closed fracture of proximal femur, pertrochanteric	February 2009
+19387	835	8	0	0	S302011	Closed fracture of femur, greater trochanter	February 2009
+48337	74	0	0	0	S302012	Closed fracture of femur, lesser trochanter	February 2009
+45141	92	0	0	0	S302100	Closed fracture proximal femur, intertrochanteric, two part	February 2009
+29145	158	1	0	0	S302200	Closed fracture proximal femur, subtrochanteric	February 2009
+8648	2762	29	0	0	S302400	Closed fracture of femur, intertrochanteric	February 2009
+61733	41	1	0	0	S303.00	Open fracture of proximal femur, pertrochanteric	February 2009
+96644	17	0	0	0	S303011	Open fracture of femur, greater trochanter	April 2009
+101567	5	0	0	0	S303100	Open fracture proximal femur, intertrochanteric, two part	January 2011
+71282	14	0	0	0	S303200	Open fracture proximal femur, subtrochanteric	February 2009
+97971	3	0	0	0	S303300	Open fracture proximal femur, intertrochanteric, comminuted	November 2009
+39396	100	0	0	0	S303400	Open fracture of femur, intertrochanteric	February 2009
+70479	3	0	0	0	S303z00	Open fracture of proximal femur, pertrochanteric, NOS	February 2009
+28965	216	3	0	0	S304.00	Pertrochanteric fracture	February 2009
+8243	1497	6	0	0	S305.00	Subtrochanteric fracture	February 2009
+24276	520	2	0	0	S30w.00	Closed fracture of unspecified proximal femur	February 2009
+58642	30	0	0	0	S30x.00	Open fracture of unspecified proximal femur	February 2009
+18273	4542	59	0	0	S30y.00	Closed fracture of neck of femur NOS	February 2009
+10570	2733	70	0	0	S30y.11	Hip fracture NOS	February 2009
+38054	149	0	0	0	S30z.00	Open fracture of neck of femur NOS	February 2009
+24587	396	10	0	0	S4E..00	Fracture-dislocation or subluxation hip	February 2009
+40267	250	1	0	0	S4E0.00	Closed fracture-dislocation, hip joint	February 2009
+58720	5	0	0	0	S4E1.00	Open fracture-dislocation, hip joint	February 2009
+93374	25	0	0	0	S4E2.00	Closed fracture-subluxation, hip joint	February 2009
+15877	2143	53	0	0	S106.00	Closed fracture sacrum	February 2009
+72404	70	1	0	0	S106000	Closed compression fracture sacrum	February 2009
+72600	13	0	0	0	S106100	Closed vertical fracture of sacrum	February 2009
+66434	18	0	0	0	S107.00	Open fracture sacrum	February 2009
+105935	4	0	0	0	S107000	Open compression fracture sacrum	April 2013
+97354	1	0	0	0	S107100	Open vertical fracture of sacrum	August 2009
+14834	2458	98	1	0	S108.00	Closed fracture pelvis, coccyx	February 2009
+55280	20	1	0	0	S109.00	Open fracture pelvis, coccyx	February 2009
+3675	1615	40	0	0	S10B100	Fracture of sacrum	February 2009
+835	4430	169	1	0	S10B200	Fracture of coccyx	February 2009
+27922	606	1	0	0	S10B300	Fracture of ilium	February 2009
+9072	3864	39	0	0	S10B400	Fracture of acetabulum	February 2009
+2328	4971	374	2	0	S10B500	Fracture of pubis	February 2009
+8613	848	14	0	0	S10B600	Multiple fractures of lumbar spine and pelvis	February 2009
+57444	67	3	0	0	S116.00	Closed fracture of sacrum with spinal cord lesion	February 2009
+99376	3	0	0	0	S116z00	Closed fracture of sacrum with spinal cord lesion NOS	May 2010
+96473	3	0	0	0	S117.00	Open fracture of sacrum with spinal cord lesion	April 2009
+94584	2	0	0	0	S117300	Open fracture of sacrum with other spinal cord injury	February 2009
+51018	9	1	0	0	S118.00	Closed fracture of coccyx with spinal cord lesion	February 2009
+101517	2	0	0	0	S118z00	Closed fracture of coccyx with spinal cord lesion NOS	January 2011
+738	14856	831	9	0	S13..00	Fracture or disruption of pelvis	February 2009
+1591	2594	134	0	0	S130.00	Closed fracture acetabulum	February 2009
+72525	2	0	0	0	S130000	Closed fracture acetabulum, anterior lip alone	February 2009
+94649	5	0	0	0	S130100	Closed fracture acetabulum, posterior lip alone	February 2009
+73479	13	0	0	0	S130200	Closed fracture acetabulum, anterior column	February 2009
+57923	5	0	0	0	S130300	Closed fracture acetabulum, posterior column	February 2009
+69418	13	0	0	0	S130400	Closed fracture acetabulum, floor	February 2009
+98267	2	0	0	0	S130600	Closed fracture acetabulum, double column unspecified	December 2009
+59904	15	0	0	0	S130y00	Other specified closed fracture acetabulum	February 2009
+45527	94	0	0	0	S130z00	Closed fracture acetabulum NOS	February 2009
+53566	34	1	0	0	S131.00	Open fracture acetabulum	February 2009
+62562	1	0	0	0	S131y00	Other specified open fracture acetabulum	February 2009
+64777	5	0	0	0	S131z00	Open fracture acetabulum NOS	February 2009
+5302	9380	330	0	0	S132.00	Closed fracture pubis	February 2009
+7004	12671	99	0	0	S132000	Closed fracture pelvis, single pubic ramus	February 2009
+6667	5014	56	0	0	S132100	Closed fracture pelvis, multiple pubic rami - stable	February 2009
+46592	185	1	0	0	S132200	Closed fracture pelvis, multiple pubic rami - unstable	February 2009
+38895	262	2	0	0	S132y00	Other specified closed fracture pubis	February 2009
+28702	559	7	0	0	S132z00	Closed fracture pubis NOS	February 2009
+50749	62	1	0	0	S133.00	Open fracture of pubis	February 2009
+34685	170	2	0	0	S133000	Open fracture pelvis, single pubic ramus	February 2009
+51038	128	0	0	0	S133100	Open fracture pelvis, multiple pubic rami - stable	February 2009
+101447	13	0	0	0	S133200	Open fracture pelvis, multiple pubic rami - unstable	January 2011
+94127	6	0	0	0	S133y00	Other specified open fracture of pubis	February 2009
+70674	12	0	0	0	S133z00	Open fracture of pubis NOS	February 2009
+33961	263	4	0	0	S134.00	Other or multiple closed fracture of pelvis	February 2009
+40643	180	2	0	0	S134000	Closed fracture of ilium, unspecified	February 2009
+34708	269	8	0	0	S134100	Closed fracture pelvis, ischium	February 2009
+41698	178	5	0	0	S134300	Closed fracture pelvis, ischial tuberosity	February 2009
+28234	245	0	0	0	S134400	Closed fracture pelvis, anterior superior iliac spine	February 2009
+40587	211	0	0	0	S134500	Closed fracture pelvis, anterior inferior iliac spine	February 2009
+27854	972	9	0	0	S134600	Closed fracture pelvis, iliac wing	February 2009
+52470	7	0	0	0	S134700	Closed vertical fracture of ilium	February 2009
+34195	139	1	0	0	S134800	Closed fracture dislocation of sacro-iliac joint	February 2009
+11639	142	1	0	0	S134z00	Other or multiple closed fracture of pelvis NOS	February 2009
+65084	12	0	0	0	S135.00	Other or multiple open fracture of pelvis	February 2009
+96984	5	0	0	0	S135000	Open fracture of ilium, unspecified	June 2009
+108000	3	0	0	0	S135100	Open fracture pelvis, ischium	May 2014
+68763	3	0	0	0	S135300	Open fracture pelvis, ischial tuberosity	February 2009
+43448	8	0	0	0	S135400	Open fracture pelvis, anterior superior iliac spine	February 2009
+67669	30	1	0	0	S135600	Open fracture pelvis, iliac wing	February 2009
+94655	3	0	0	0	S135800	Open fracture dislocation of sacro-iliac joint	February 2009
+99203	6	0	0	0	S135y00	Other open fracture of pelvis	April 2010
+35018	2	1	0	0	S135z00	Other/multiple open fracture of pelvis NOS	February 2009
+28375	4234	29	0	0	S13y.00	Closed fracture of pelvis NOS	February 2009
+64139	76	2	0	0	S13z.00	Open fracture of pelvis NOS	February 2009
+34910	1056	15	0	0	S4J0100	Closed fracture-dislocation of pelvis	February 2009
+45011	53	0	0	0	S4J1100	Open fracture-dislocation of pelvis	February 2009
+34212	303	4	0	0	S4J2100	Closed fracture-subluxation of pelvis	February 2009
+65297	21	0	0	0	S4J3100	Open fracture-subluxation of pelvis	February 2009
+45934	162	3	0	0	SR11.00	Fractures involving thorax with lower back and pelvis	February 2009
+28110	6	0	0	0	SR16.00	Fract invol thorax with lower back and pelvis with limb(s)	February 2009
+57223	4	0	0	0	SR16000	Closed fracture inv thorax wth low back and pelvis and limbs	February 2009
+53802	14	0	0	0	Syu3400	[X]Fract of other and unspec parts of lumbar spine & pelvis	February 2009
+31933	994	44	0	0	7J41.00	Decompression of fracture of spine	February 2009
+106504	6	0	0	0	7J41000	Complex decompression of fracture of spine	August 2013
+68811	41	0	0	0	7J41100	Anterior decompression of fracture of spine	February 2009
+98016	8	0	0	0	7J41200	Posterior decompression of fracture of spine	November 2009
+88269	166	0	0	0	7J41300	Vertebroplasty of fracture of spine	February 2009
+91658	43	0	0	0	7J41400	Posterior decompression of fracture of spine NEC	February 2009
+90472	421	3	0	0	7J41500	Balloon kyphoplasty of fracture of spine	February 2009
+65606	26	0	0	0	7J41y00	Other specified decompression of fracture of spine	February 2009
+45410	66	0	0	0	7J41z00	Decompression of fracture of spine NOS	February 2009
+20744	484	11	0	0	7J42.00	Other reduction of fracture of spine	February 2009
+48159	116	1	0	0	7J42.11	Other reduction of fracture of spine and stabilisation	February 2009
+49564	20	0	0	0	7J42000	Open reduction of fracture of spine & excis facet of spine	February 2009
+34634	32	0	0	0	7J42100	Open reduction of fracture of spine NEC	February 2009
+49529	12	0	0	0	7J42200	Manipulative reduction of fracture of spine	February 2009
+63452	36	0	0	0	7J42300	Spinal extension traction for fracture of spine	February 2009
+43600	145	4	0	0	7J42400	Halo skull traction for fracture of spine	February 2009
+15622	54	0	0	0	7J42500	Spinal traction for fracture of spine NEC	February 2009
+51521	9	0	0	0	7J42600	Primary bedrest stabilisation of spinal fracture	February 2009
+46171	24	0	0	0	7J42700	Primary collar stabilisation of spinal fracture	February 2009
+71006	5	0	0	0	7J42900	Primary cast stabilisation of spinal fracture	February 2009
+98165	5	0	0	0	7J42B00	Primary other external stabilisation of spinal fracture	December 2009
+110247	3	0	0	0	7J42J00	Primary closed reduction spinal fracture alone	November 2015
+104803	1	0	0	0	7J42L00	Primary cls reduction spinal fracture+bedrest stabilisation	August 2012
+61389	1	0	0	0	7J42M00	Primary cls reduc spinal fracture+skull traction stabilisatn	February 2009
+93752	5	0	0	0	7J42y00	Other specified other reduction of fracture of spine	February 2009
+92356	29	0	0	0	7J42z00	Other reduction of fracture of spine NOS	February 2009
+20598	803	16	0	0	7J43.00	Fixation of fracture of spine	February 2009
+62489	85	0	0	0	7J43.11	Internal fixation of fracture of spine	February 2009
+28966	29	0	0	0	7J43000	Primary open reduc spinal fracture+internal fix+plate	February 2009
+34850	174	3	0	0	7J43100	Fixation of fracture of spine using Harrington rod	February 2009
+63980	6	0	0	0	7J43200	Fixation of fracture of spine and skull traction HFQ	February 2009
+63954	4	0	0	0	7J43211	Barr skull traction for fracture of spine	February 2009
+64388	25	0	0	0	7J43300	Primary open reduc spinal fracture+internal fix+wire	February 2009
+61491	13	0	0	0	7J43400	Primary open reduc spinal fracture+internal fix+rod system	February 2009
+91649	16	0	0	0	7J43700	Primary open reduc spinal fracture+other internal fix	February 2009
+73344	28	0	0	0	7J43y00	Other specified fixation of fracture of spine	February 2009
+60352	62	0	0	0	7J43z00	Fixation of fracture of spine NOS	February 2009
+16895	1265	47	0	0	N1y1.00	Fatigue fracture of vertebra	February 2009
+95674	177	6	0	0	N1y2.00	Pars interarticularis stress fracture	February 2009
+30616	369	5	0	0	N331000	Pathological fracture of thoracic vertebra	February 2009
+30352	563	12	0	0	N331100	Pathological fracture of lumbar vertebra	February 2009
+17377	2142	43	0	0	N331800	Osteoporosis + pathological fracture lumbar vertebrae	February 2009
+12673	1903	51	0	0	N331900	Osteoporosis + pathological fracture thoracic vertebrae	February 2009
+48772	47	2	0	0	N331A00	Osteoporosis + pathological fracture cervical vertebrae	February 2009
+37945	45	0	0	0	N331C00	Pathological fracture of cervical vertebra	February 2009
+8255	7335	54	0	0	S10..00	Fracture of spine without mention of spinal cord injury	February 2009
+30058	899	4	0	0	S10..11	Fracture of transverse process spine - no spinal cord lesion	February 2009
+4409	4873	179	0	0	S10..12	Fracture of vertebra without spinal cord lesion	February 2009
+11296	5349	65	0	0	S100.00	Closed fracture of cervical spine	February 2009
+15613	583	58	0	0	S100000	Closed fracture of unspecified cervical vertebra	February 2009
+5445	138	2	0	0	S100100	Closed fracture atlas	February 2009
+42561	167	2	0	0	S100111	C1 vertebra closed fracture - no spinal cord lesion	February 2009
+16277	293	23	0	0	S100200	Closed fracture axis	February 2009
+33967	350	3	0	0	S100211	C2 vertebra closed fracture without spinal cord lesion	February 2009
+60593	66	0	0	0	S100300	Closed fracture of third cervical vertebra	February 2009
+52699	39	0	0	0	S100311	C3 vertebra closed fracture without spinal cord lesion	February 2009
+41548	92	0	0	0	S100400	Closed fracture of fourth cervical vertebra	February 2009
+67358	53	0	0	0	S100411	C4 vertebra closed fracture without spinal cord lesion	February 2009
+27575	210	3	0	0	S100500	Closed fracture of fifth cervical vertebra	February 2009
+34873	116	2	0	0	S100511	C5 vertebra closed fracture without spinal cord lesion	February 2009
+27654	212	4	0	0	S100600	Closed fracture of sixth cervical vertebra	February 2009
+33503	135	1	0	0	S100611	C6 vertebra closed fracture without spinal cord lesion	February 2009
+24672	262	1	0	0	S100700	Closed fracture of seventh cervical vertebra	February 2009
+38053	201	0	0	0	S100711	C7 vertebra closed fracture without spinal cord lesion	February 2009
+98393	5	0	0	0	S100800	Closed fracture atlas, isolated arch or articular process	January 2010
+69974	6	0	0	0	S100900	Closed fracture atlas, comminuted	February 2009
+39887	314	0	0	0	S100A00	Closed fracture axis, odontoid process	February 2009
+105702	6	0	0	0	S100B00	Closed fracture axis, spondylolysis	January 2013
+42149	40	0	0	0	S100C00	Closed fracture axis, spinous process	February 2009
+94292	60	0	0	0	S100D00	Closed fracture axis, transverse process	February 2009
+95006	4	0	0	0	S100E00	Closed fracture axis, posterior arch	February 2009
+67973	19	0	0	0	S100G00	Closed fracture cervical vertebra, burst	February 2009
+53337	162	1	0	0	S100H00	Closed fracture cervical vertebra, wedge	February 2009
+95620	4	0	0	0	S100J00	Closed fracture cervical vertebra, spondylolysis	February 2009
+54299	132	0	0	0	S100K00	Closed fracture cervical vertebra, spinous process	February 2009
+64297	31	1	0	0	S100L00	Closed fracture cervical vertebra, transverse process	February 2009
+95513	7	0	0	0	S100M00	Closed fracture cervical vertebra, posterior arch	February 2009
+55346	93	0	0	0	S100x00	Multiple closed fractures of cervical vertebrae	February 2009
+41930	126	0	0	0	S100z00	Closed fracture of cervical spine not otherwise specified	February 2009
+55627	38	1	0	0	S101.00	Open fracture of cervical spine	February 2009
+101574	6	0	0	0	S101000	Open fracture of unspecified cervical vertebra	January 2011
+69645	2	0	0	0	S101100	Open fracture atlas	February 2009
+69098	8	2	0	0	S101111	C1 vertebra open fracture without spinal cord lesion	February 2009
+53976	1	0	0	0	S101200	Open fracture axis	February 2009
+97120	12	1	0	0	S101211	C2 vertebra open fracture without spinal cord lesion	August 2009
+60382	1	0	0	0	S101311	C3 vertebra open fracture without spinal cord lesion	February 2009
+24671	3	0	0	0	S101500	Open fracture of fifth cervical vertebra	February 2009
+99151	6	0	0	0	S101511	C5 vertebra open fracture without spinal cord lesion	April 2010
+65300	7	0	0	0	S101600	Open fracture of sixth cervical vertebra	February 2009
+62719	8	0	0	0	S101611	C6 vertebra open fracture without spinal cord lesion	February 2009
+59996	7	0	0	0	S101711	C7 vertebra open fracture without spinal cord lesion	February 2009
+110732	2	0	0	0	S101900	Open fracture atlas, comminuted	April 2016
+94844	2	0	0	0	S101A00	Open fracture axis, odontoid process	February 2009
+72617	2	0	0	0	S101x00	Multiple open fractures of cervical vertebrae	February 2009
+27404	6308	74	0	0	S102.00	Closed fracture thoracic vertebra	February 2009
+39816	60	0	0	0	S102000	Closed fracture thoracic vertebra, burst	February 2009
+28524	3606	56	0	0	S102100	Closed fracture thoracic vertebra, wedge	February 2009
+96659	3	0	0	0	S102200	Closed fracture thoracic vertebra, spondylolysis	April 2009
+64872	44	0	0	0	S102300	Closed fracture thoracic vertebra, spinous process	February 2009
+48886	56	0	0	0	S102400	Closed fracture thoracic vertebra, transverse process	February 2009
+99516	1	0	0	0	S102500	Closed fracture thoracic vertebra, posterior arch	May 2010
+11770	122	0	0	0	S102y00	Other specified closed fracture thoracic vertebra	February 2009
+41138	219	4	0	0	S102z00	Closed fracture thoracic vertebra not otherwise specified	February 2009
+63253	45	1	0	0	S103.00	Open fracture thoracic vertebra	February 2009
+62047	35	0	0	0	S103100	Open fracture thoracic vertebra, wedge	February 2009
+101318	1	0	0	0	S103500	Open fracture thoracic vertebra, posterior arch	January 2011
+3888	14436	316	2	0	S104.00	Closed fracture lumbar vertebra	February 2009
+42968	227	1	0	0	S104000	Closed fracture lumbar vertebra, burst	February 2009
+8266	9491	163	0	0	S104100	Closed fracture lumbar vertebra, wedge	February 2009
+61150	27	0	0	0	S104200	Closed fracture lumbar vertebra, spondylolysis	February 2009
+35096	56	0	0	0	S104300	Closed fracture lumbar vertebra, spinous process	February 2009
+29089	435	3	0	0	S104400	Closed fracture lumbar vertebra, transverse process	February 2009
+95842	7	0	0	0	S104500	Closed fracture lumbar vertebra, posterior arch	February 2009
+95585	10	0	0	0	S104600	Closed fracture lumbar vertebra, tricolumnar	February 2009
+42780	120	1	0	0	S105.00	Open fracture lumbar vertebra	February 2009
+73601	6	0	0	0	S105000	Open fracture lumbar vertebra, burst	February 2009
+65302	18	0	0	0	S105100	Open fracture lumbar vertebra, wedge	February 2009
+105695	4	0	0	0	S105400	Open fracture lumbar vertebra, transverse process	January 2013
+28133	170	1	0	0	S10A000	Fracture of first cervical vertebra	February 2009
+34403	407	4	0	0	S10A100	Fracture of second cervical vertebra	February 2009
+19189	890	15	0	0	S10A200	Multiple fractures of cervical spine	February 2009
+12406	931	22	0	0	S10B.00	Fracture of lumbar spine and pelvis	February 2009
+10990	5174	27	0	0	S10B000	Fracture of lumbar vertebra	February 2009
+3573	9867	837	5	0	S10x.00	Closed fracture of spine, unspecified,	February 2009
+66164	11	0	0	0	S10y.00	Open fracture of spine, unspecified,	February 2009
+34166	582	3	0	0	S10z.00	Fracture of spine without mention of spinal cord lesion NOS	February 2009
+32063	406	18	0	0	S11..00	Fracture of spine with spinal cord lesion	February 2009
+72324	10	0	0	0	S11..11	Fracture of transverse process of spine + spinal cord lesion	February 2009
+43786	70	0	0	0	S11..12	Fracture of vertebra with spinal cord lesion	February 2009
+52300	112	0	0	0	S110.00	Closed fracture of cervical spine with cord lesion	February 2009
+62337	8	0	0	0	S110000	Cls spinal fracture with unspec cervical cord lesion, C1-4	February 2009
+109377	3	0	0	0	S110100	Cls spinal fracture with complete cervcl cord lesion, C1-4	March 2015
+72711	10	0	0	0	S110600	Cls spinal fracture with unspec cervical cord lesion, C5-7	February 2009
+102735	7	0	0	0	S110700	Cls spinal fracture with complete cervcl cord lesion, C5-7	August 2011
+96514	2	0	0	0	S110800	Cls spinal fracture with anterior cervcl cord lesion, C5-7	April 2009
+73416	6	0	0	0	S110z00	Closed fracture of cervical spine with cord lesion NOS	February 2009
+69432	2	0	0	0	S111.00	Open fracture of cervical spine with spinal cord lesion	February 2009
+35849	115	4	0	0	S112.00	Closed fracture of thoracic spine with spinal cord lesion	February 2009
+108484	3	0	0	0	S112000	Cls spinal fracture with unspec thoracic cord lesion,T1-6	August 2014
+48958	6	0	0	0	S112100	Cls spinal fracture wth complete thoracic cord lesion,T1-6	February 2009
+43091	19	0	0	0	S112600	Cls spinal fracture with unspec thoracic cord lesion, T7-12	February 2009
+31545	7	0	0	0	S112700	Cls spinal fracture with complete thorac cord lesion, T7-12	February 2009
+102043	1	0	0	0	S112A00	Cls spinal fracture with posterior thorac cord lesion, T7-12	April 2011
+73611	15	0	0	0	S112z00	Closed fracture of thoracic spine with cord lesion NOS	February 2009
+60615	7	0	0	0	S113.00	Open fracture of thoracic spine with spinal cord lesion	February 2009
+101299	1	0	0	0	S113000	Opn spinal fracture with unspec thoracic cord lesion, T1-6	January 2011
+104755	1	0	0	0	S113A00	Opn spinal fracture with posterior thorac cord lesion, T7-12	August 2012
+44059	67	5	0	0	S114.00	Closed fracture of lumbar spine with spinal cord lesion	February 2009
+49567	8	0	0	0	S114000	Closed spinal fracture with unspecified lumbar cord lesion	February 2009
+95529	3	0	0	0	S114100	Closed spinal fracture with complete lumbar cord lesion	February 2009
+73788	7	0	0	0	S114500	Closed spinal fracture with cauda equina lesion	February 2009
+94189	0	0	0	0	S115.00	Open fracture of lumbar spine with spinal cord lesion	February 2009
+30956	56	9	0	0	S11x.00	Closed fracture of spine with spinal cord lesion unspecified	February 2009
+55195	23	0	0	0	S11z.00	Fracture of spine with spinal cord lesion NOS	February 2009
+5381	11933	164	0	0	S15..00	Fracture of thoracic vertebra	February 2009
+11277	2064	49	0	0	S150.00	Multiple fractures of thoracic spine	February 2009
+35260	249	3	0	0	S150000	Closed multiple fractures of thoracic spine	February 2009
+66322	2	0	0	0	S150100	Open multiple fracture of thoracic spine	February 2009
+94638	43	0	0	0	Syu1500	[X]Fracture of other specified cervical vertebra	February 2009
+7428	7179	176	0	0	7K1LG00	Closed reduction of fracture of shoulder	February 2009
+11222	14477	351	2	0	S220.00	Closed fracture of the proximal humerus	February 2009
+44721	812	10	0	0	S220000	Closed fracture of proximal humerus, unspecified part	February 2009
+11313	6218	59	0	0	S220100	Closed fracture proximal humerus, neck	February 2009
+33489	237	0	0	0	S220200	Closed fracture of proximal humerus, anatomical neck	February 2009
+11044	2065	25	0	0	S220300	Closed fracture proximal humerus, greater tuberosity	February 2009
+28739	883	8	0	0	S220400	Closed fracture proximal humerus, head	February 2009
+52406	105	0	0	0	S220500	Closed fracture of humerus, upper epiphysis	February 2009
+40330	145	3	0	0	S220600	Closed fracture proximal humerus, three part	February 2009
+29137	76	1	0	0	S220700	Closed fracture proximal humerus, four part	February 2009
+38353	302	0	0	0	S220z00	Closed fracture of proximal humerus not otherwise specified	February 2009
+9420	256	44	0	0	S221.00	Open fracture of the proximal humerus	February 2009
+10622	683	26	0	0	S221.11	Shoulder fracture - open	February 2009
+53688	16	0	0	0	S221000	Open fracture of proximal humerus, unspecified part	February 2009
+53622	47	0	0	0	S221100	Open fracture proximal humerus, neck	February 2009
+71207	5	0	0	0	S221200	Open fracture of proximal humerus, anatomical neck	February 2009
+48239	35	0	0	0	S221300	Open fracture proximal humerus, greater tuberosity	February 2009
+70486	13	0	0	0	S221400	Open fracture proximal humerus, head	February 2009
+59943	5	0	0	0	S221500	Open fracture of humerus, upper epiphysis	February 2009
+70604	5	0	0	0	S221600	Open fracture proximal humerus, three part	February 2009
+70653	1	0	0	0	S221700	Open fracture proximal humerus, four part	February 2009
+45275	10	0	0	0	S221z00	Open fracture of proximal humerus not otherwise specified	February 2009
+2101	5719	479	1	0	S226.00	Fracture of upper end of humerus	February 2009
+5345	5465	106	0	0	S4A..00	Fracture-dislocation or subluxation shoulder	February 2009
+8348	1787	12	0	0	S4A0.00	Closed fracture-dislocation shoulder	February 2009
+33704	481	3	0	0	S4A0000	Closed fracture-dislocation shoulder joint	February 2009
+64229	39	2	0	0	S4A1.00	Open fracture-dislocation shoulder	February 2009
+102965	7	0	0	0	S4A1000	Open fracture-dislocation shoulder joint	September 2011
+35789	221	1	0	0	S4A2.00	Closed fracture-subluxation shoulder	February 2009
+60580	94	1	0	0	S4A2000	Closed fracture-subluxation shoulder joint	February 2009
+111060	2	0	0	0	S4A3.00	Open fracture-subluxation shoulder	July 2016
+97352	2	0	0	0	Syu4200	[X]Multiple fractures of clavicle, scapula and humerus	August 2009
+52457	81	1	0	0	Syu4300	[X]Fracture of other parts of shoulder and upper arm	February 2009
+53866	434	0	0	0	Syu4400	[X]Fracture of shoulder and upper arm, unspecified	February 2009
+5951	33530	527	0	0	7K1LM00	Closed reduction of fracture of wrist	February 2009
+203	100370	10348	29	0	S234.11	Wrist fracture - closed	February 2009
+18389	1063	23	0	0	S234000	Closed fracture of forearm, lower end, unspecified	February 2009
+343	135569	7427	17	0	S234100	Closed Colles' fracture	February 2009
+52389	124	0	0	0	S234111	Smith's fracture - closed	February 2009
+1742	74883	699	1	0	S234200	Closed fracture of the distal radius, unspecified	February 2009
+9165	6698	41	4	0	S234300	Closed fracture of ulna, styloid process	February 2009
+42076	123	0	0	0	S234400	Closed fracture of ulna, lower epiphysis	February 2009
+40476	1821	5	0	0	S234500	Closed fracture distal ulna, unspecified	February 2009
+28708	4832	6	0	0	S234600	Closed fracture radius and ulna, distal	February 2009
+2862	4001	135	0	0	S234700	Closed Smith's fracture	February 2009
+40268	395	1	0	0	S234800	Closed Galeazzi fracture	February 2009
+11066	565	3	0	0	S234900	Closed volar Barton's fracture	February 2009
+53689	13	1	0	0	S234911	Closed volar Barton's fracture-dislocation	February 2009
+65636	10	0	0	0	S234912	Closed volar Barton fracture-subluxation	February 2009
+50053	68	1	0	0	S234A00	Closd dorsal Barton's fracture	February 2009
+57736	6	0	0	0	S234A11	Closed dorsal Barton's fracture-dislocation	February 2009
+107741	2	0	0	0	S234A12	Closed dorsal Barton fracture-subluxation	February 2014
+6915	9807	38	0	0	S234B00	Closed fracture radial styloid	February 2009
+44844	53	0	0	0	S234C00	Closed fracture distal radius, intra-articular, die-punch	February 2009
+19058	500	1	0	0	S234D00	Closed fracture distal radius, extra-articular, other type	February 2009
+28293	815	4	0	0	S234E00	Closed fracture distal radius, intra-articular, other type	February 2009
+10033	491	3	0	0	S234F00	Closed Barton's fracture	February 2009
+102302	12680	7	0	0	S234G00	Greenstick fracture of distal radius	June 2011
+27591	2629	17	1	0	S234z00	Closed fracture of forearm, lower end, NOS	February 2009
+27590	448	24	0	0	S235.00	Open fracture of radius and ulna, lower end	February 2009
+10022	2843	63	0	0	S235.11	Wrist fracture - open	February 2009
+60630	29	1	0	0	S235000	Open fracture of forearm, lower end, unspecified	February 2009
+6074	1650	29	0	0	S235100	Open Colles' fracture	February 2009
+98681	8	0	0	0	S235111	Smith's fracture - open	March 2010
+44924	827	4	0	0	S235200	Open fracture of the distal radius, unspecified	February 2009
+11262	101	0	0	0	S235300	Open fracture of ulna, styloid process	February 2009
+96691	3	0	0	0	S235400	Open fracture of ulna, lower epiphysis	April 2009
+49796	65	0	0	0	S235500	Open fracture distal ulna - other	February 2009
+38398	213	0	0	0	S235600	Open fracture radius and ulna, distal	February 2009
+34730	139	7	0	0	S235700	Open Smith's fracture	February 2009
+30418	43	0	0	0	S235800	Open Galeazzi fracture	February 2009
+61675	61	0	0	0	S235900	Open volar Barton's fracture	February 2009
+111858	2	0	0	0	S235A00	Open dorsal Barton's fracture	May 2017
+6380	300	2	0	0	S235B00	Open fracture radial styloid	February 2009
+104070	3	0	0	0	S235C00	Open fracture distal radius, intra-articular, die-punch	May 2012
+53698	14	0	0	0	S235D00	Open fracture distal radius, extra-articular other type	February 2009
+63588	43	0	0	0	S235E00	Open fracture distal radius, intra-articular other type	February 2009
+18301	35	1	0	0	S235F00	Open Barton's fracture	February 2009
+66774	40	0	0	0	S235z00	Open fracture of forearm, lower end, NOS	February 2009
+8056	38942	578	0	0	S242.00	Fracture at wrist and hand level	February 2009
+18614	4094	32	0	0	S4C..00	Fracture-dislocation or subluxation of wrist	February 2009
+34429	959	0	0	0	S4C0.00	Closed fracture dislocation of wrist	February 2009
+17922	423	4	0	0	S4C0000	Closed fracture-dislocation distal radio-ulnar joint	February 2009
+38408	334	10	0	0	S4C0100	Closed fracture-dislocation radiocarpal joint	February 2009
+67584	3	0	0	0	S4C0200	Closed fracture-dislocation mid carpal	February 2009
+27783	161	0	0	0	S4C0300	Closed fracture-dislocation, carpometacarpal joint	February 2009
+64435	18	0	0	0	S4C0400	Closed fracture-dislocation lunate (volar)	February 2009
+96136	8	0	0	0	S4C0500	Closed fracture-dislocation peri-lunate (dorsal)	April 2009
+55212	28	0	0	0	S4C0600	Closed fracture-dislocation peri-lunate trans-scaphoid	February 2009
+42844	47	0	0	0	S4C1.00	Open fracture dislocation wrist	February 2009
+9261	26	0	0	0	S4C1000	Open fracture-dislocation, distal radio-ulnar joint	February 2009
+49256	20	0	0	0	S4C1100	Open fracture-dislocation radiocarpal joint	February 2009
+97476	8	0	0	0	S4C1300	Open fracture-dislocation carpometacarpal joint	August 2009
+63292	5	0	0	0	S4C1600	Open fracture-dislocation peri-lunate trans-scaphoid	February 2009
+17921	253	0	0	0	S4C2.00	Closed fracture-subluxation of the wrist	February 2009
+44652	82	1	0	0	S4C2000	Closed fracture-subluxation, distal radio-ulnar jt	February 2009
+50148	17	0	0	0	S4C2100	Closed fracture-subluxation radiocarpal joint	February 2009
+103524	2	0	0	0	S4C2200	Closed fracture-subluxation mid carpal	January 2012
+68595	25	0	0	0	S4C2300	Closed fracture-subluxation, carpometacarpal joint	February 2009
+55412	3	0	0	0	S4C2400	Closed fracture-subluxation lunate (volar)	February 2009
+63712	2	0	0	0	S4C2600	Closed fracture-subluxation peri-lunate trans-scaphoid	February 2009
+100350	4	0	0	0	S4C2y00	Closed fracture-subluxation other carpal	July 2010
+59219	9	0	0	0	S4C3.00	Open fracture-subluxation of the wrist	February 2009
+60343	22	0	0	0	S4C3000	Open fracture-subluxation, distal radio-ulnar joint	February 2009
+46798	4	0	0	0	S4C3100	Open fracture-subluxation radiocarpal joint	February 2009
+94661	2	0	0	0	S4C3300	Open fracture-subluxation, carpometacarpal joint	February 2009
+68262	1	0	0	0	S4C3600	Open fracture-subluxation peri-lunate trans-scaphoid	February 2009

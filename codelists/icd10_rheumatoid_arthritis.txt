@@ -1,0 +1,15 @@
+icd,description
+m05,Seropositive rheumatoid arthritis
+m05.0,Felty syndrome
+m05.1,Rheumatoid lung disease
+m05.2,Rheumatoid vasculitis
+m05.3,Rheumatoid arthritis with involvement of other organs and systems
+m05.8,Other seropositive rheumatoid arthritis
+m05.9,"Seropositive rheumatoid arthritis, unspecified"
+m06.0,Seronegative rheumatoid arthritis
+m06.1,Adult-onset Still disease
+m06.2,Rheumatoid bursitis
+m06.3,Rheumatoid nodule
+m06.4,Inflammatory polyarthropathy
+m06.8,Other specified rheumatoid arthritis
+m06.9,"Rheumatoid arthritis, unspecified"

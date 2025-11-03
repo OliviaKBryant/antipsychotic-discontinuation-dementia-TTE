@@ -1,0 +1,53 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+5992471000006115	1	^ESCTOS599247		Osteoporosis localized to spine	309745002	453226012	32
+1485098013	20000	58EG	58EG.00	Hip DXA scan result osteoporotic	391070005	1485098013	41
+1485103010	50000	58EM	58EM.00	Lumbar DXA scan result osteoporotic	391075000	1485103010	41
+668551000000116	20000	58EV	58EV.00	Femoral neck DXA scan result osteoporotic	440100002	3013373010	41
+1485046011	40000	66a	66a..00	Osteoporosis monitoring	391017004	1485046011	1
+1485032011	10000	9Od	9Od..00	Osteoporosis monitoring administration	391003008	1485032011	37
+1485033018	500	9Od0	9Od0.00	Attends osteoporosis monitoring	391004002	1485033018	37
+1485035013	50	9Od2	9Od2.00	Osteoporosis monitoring default	391006000	1485035013	37
+1485036014	20000	9Od3	9Od3.00	Osteoporosis monitoring first letter	391007009	1485036014	37
+1485037017	700	9Od4	9Od4.00	Osteoporosis monitoring second letter	391008004	1485037017	37
+1485038010	200	9Od5	9Od5.00	Osteoporosis monitoring third letter	391009007	1485038010	37
+1485039019	50	9Od6	9Od6.00	Osteoporosis monitoring verbal invitation	391010002	1485039019	37
+1485040017	600	9Od7	9Od7.00	Osteoporosis monitoring telephone invitation	391011003	1485040017	37
+1485041018	30	9Od8	9Od8.00	Osteoporosis monitoring deleted	391012005	1485041018	37
+1485042013	900	9Od9	9Od9.00	Osteoporosis monitoring check done	391013000	1485042013	37
+1122231000000117	4000	9kj	9kj..00	Osteoporosis enhanced services administration	505141000000108	1152181000000113	37
+1715131000006113	2000	9kj0	9kj0.00	Bone sparing drug treatment offered for osteoporosis	505171000000102	1152201000000112	37
+107806013	3000000	N330	N330.00	Osteoporosis	64859006	107806013	32
+312124013	20000	N3300	N330000	Osteoporosis, unspecified	64859006	107806013	32
+30475015	6000	N3301	N330100	Senile osteoporosis	18040001	30475015	32
+54058015	10000	N3302	N330200	Postmenopausal osteoporosis	102447009	165682016	32
+786501000006117	2000	N3303	N330300	Idiopathic generalised osteoporosis	203429007	312126010	32
+625381000006110	300	N3304	N330400	Dissuse osteoporosis	53174001	88440018	32
+24883018	4000	N3305	N330500	Drug-induced osteoporosis	14651005	24883018	5
+312133010	100	N3306	N330600	Postoophorectomy osteoporosis	203433000	312133010	32
+212431000006119	20	N3307	N330700	Postsurgical malabsorption osteoporosis	203434006	312134016	32
+312138018	200	N330A	N330A00	Osteoporosis in endocrine disorders	203437004	312138018	32
+312139014	30000	N330B	N330B00	Vertebral osteoporosis	203438009	312139014	32
+453226012	6000	N330C	N330C00	Osteoporosis localised to spine	309745002	453225011	32
+1484866013	700	N330D	N330D00	Osteoporosis due to corticosteroids	390833005	1484866013	32
+312142015	30000	N330z	N330z00	Osteoporosis NOS	64859006	107806013	32
+312156018	20	N3312	N331200	Postoophorectomy osteoporosis with pathological fracture	203444008	312156018	32
+312157010	200	N3313	N331300	Osteoporosis of disuse with pathological fracture	203445009	312157010	32
+212441000006112	7	N3314	N331400	Post-surgical malabsorption osteoporosis with pathological fracture	203446005	312158017	32
+312159013	500	N3315	N331500	Drug-induced osteoporosis with pathological fracture	203447001	312159013	5
+312160015	1000	N3316	N331600	Idiopathic osteoporosis with pathological fracture	203448006	312160015	32
+40881000006116	10000	N3318	N331800	Osteoporosis with pathological fracture of lumbar vertebrae	203450003	312162011	32
+40891000006118	10000	N3319	N331900	Osteoporosis with pathological fracture of thoracic vertebrae	203451004	312163018	32
+40871000006119	200	N331A	N331A00	Osteoporosis with pathological fracture of cervical vertebrae	203452006	312164012	32
+312165013	1000	N331B	N331B00	Postmenopausal osteoporosis with pathological fracture	203453001	312165013	32
+455433012	200	N331H	N331H00	Collapse of cervical vertebra due to osteoporosis	311806008	455433012	32
+455534015	3000	N331J	N331J00	Collapse of lumbar vertebra due to osteoporosis	311890007	455534015	32
+455535019	4000	N331K	N331K00	Collapse of thoracic vertebra due to osteoporosis	311891006	455535019	32
+455536018	3000	N331L	N331L00	Collapse of vertebra due to osteoporosis	240198002	2920899019	32
+216206018	50000	N331M	N331M00	Pathological fracture due to osteoporosis	443165006	2837900019	32
+556881000000111	400	N331M-1	N331M11	Minimal trauma fracture due to unspecified osteoporosis	443165006	2837900019	32
+545121000000114	400000	N331N	N331N00	Fragility fracture	306171000000106	545121000000114	32
+557111000000111	200	N331N-1	N331N11	Minimal trauma fracture	306171000000106	557111000000111	32
+312681016	400	NyuB0	NyuB000	[X]Other osteoporosis with pathological fracture	443165006	2837900019	32
+312682011	800	NyuB1	NyuB100	[X]Other osteoporosis	64859006	107806013	32
+312683018	40	NyuB2	NyuB200	[X]Osteoporosis in other disorders classified elsewhere	64859006	107806013	32
+312689019	1000	NyuB8	NyuB800	[X]Unspecified osteoporosis with pathological fracture	443165006	2837900019	32

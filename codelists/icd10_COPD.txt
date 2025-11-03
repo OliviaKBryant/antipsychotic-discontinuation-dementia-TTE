@@ -1,0 +1,14 @@
+ICD-10 codes	Description
+J40	Bronchitis, not specified as acute or chronic
+J41.0	Simple chronic bronchitis
+J41.1	Mucopurulent chronic bronchitis
+J41.8	Mixed simple and mucopurulent chronic bronchitis
+J42	Unspecified chronic bronchitis
+J43.0	Unilateral pulmonary emphysema [MacLeod's syndrome]
+J43.1	Panlobular emphysema
+J43.2	Centrilobular emphysema
+J43.8	 Other emphysema
+J43.9	Emphysema, unspecified
+J44.0	Chronic obstructive pulmonary disease with (acute) lower respiratory infection
+J44.1	Chronic obstructive pulmonary disease with (acute) exacerbation
+J44.9	Chronic obstructive pulmonary disease, unspecified

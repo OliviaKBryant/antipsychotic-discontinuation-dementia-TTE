@@ -1,0 +1,120 @@
+medcode	description
+10194011	Panic disorder with agoraphobia AND severe panic attacks
+10199201	Moderate anxiety
+10813401	Panic disorder without agoraphobia with moderate panic attacks
+11542701	Anxiety hyperventilation
+11792401	Mild anxiety
+12092980	Noise phobia
+12102001	Panic disorder without agoraphobia with mild panic attacks
+12102530	Panic disorder
+12290890	Episodic paroxysmal anxiety disorder
+12313210	Animal phobia
+12333030	Phobia of going out
+13243501	Panic
+13369601	Severe anxiety (panic)
+13494701	Free-floating anxiety
+14504015	Panic disorder with agoraphobia AND moderate panic attacks
+14887170	C/O - panic attack
+14909501	Panic disorder with agoraphobia AND mild panic attacks
+18062610	Psycho-education - anxiety
+18085110	Recurrent panic attacks
+18093310	Symptoms of agoraphobia
+18611810	Breathlessness causing anxiety
+19764910	Mixed anxiety and depressive reaction
+19825011	Anticipatory anxiety; mild
+22281010	Education about anxiety
+231012	Separation anxiety
+23355710	Patient given advice about management of anxiety
+25363780	Anxiety reaction
+25498950	O/E - panic attack
+26183610	Referral for psychological management of anxiety
+26523510	Signposting to Anxiety UK
+26729710	Complaining of panic attack
+26959680	Counselling for anxiety
+28712020	Social phobia inventory score
+29496001	Chronic anxiety
+29496101	Recurrent anxiety
+29499201	Agoraphobia with panic attacks
+29499401	Social phobia; fear of eating in public
+29499501	Social phobia; fear of public speaking
+29499601	Social phobia; fear of public washing
+29517350	Phobia of choking
+29672301	Childhood phobic anxiety disorder
+30068100	Referral for guided self-help for anxiety
+30136880	Adjustment disorder with anxiety
+30431860	Management of anxiety
+33475016	Claustrophobia
+33904401	Panic attack
+33905701	Anxiety about treatment
+33905901	Anxiety about loss of control
+33906001	Anxiety about resuming sexual relations
+33906501	Anxiety about not coping with parenthood
+33906801	Anxiety about making mistakes
+33906901	Anxiety about altered body image
+34266501	Anxiety management training
+34471110	Severe major depressive disorder co-occurrent with anxiety single episode
+34471160	Moderate major depressive disorder co-occurrent with anxiety single episode
+34471180	Mild major depressive disorder co-occurrent with anxiety single episode
+34697501	Situational panic attack
+34697601	Non-situational panic attack
+34698001	Anxiety depression
+34698301	Anxiety hysteria
+36462590	Recurrent mild major depressive disorder co-occurrent with anxiety
+36462650	Recurrent moderate major depressive disorder co-occurrent with anxiety
+36462660	Recurrent severe major depressive disorder co-occurrent with anxiety
+36471700	Recurrent major depressive disorder co-occurrent with anxiety in full remission
+36474310	Recurrent major depressive disorder in partial remission co-occurrent with anxiety
+36731013	Generalized anxiety disorder
+36998701	Anxiety and fear
+36999401	Anxiety about body function or health
+36999501	Anxiety about health
+37001501	Anxiety about social functioning
+37001701	Anxiety about behaviour or performance
+37004901	Flying phobia
+40695801	School phobia
+41453701	Anxiety about choking
+41453801	Anxiety about swallowing
+41453901	Anxiety about collapsing
+41454001	Anxiety about shaking
+41454101	Anxiety about sweating
+41454201	Anxiety about dying
+41454801	Anxiety about becoming fat
+41455101	Anxiety about fainting
+41455201	Anxiety about having a heart attack
+41455601	Anxiety about appearing ridiculous
+41455701	Anxiety about saying the wrong thing
+41697501	Performance anxiety
+41882601	Examination phobia
+42761017	Social anxiety disorder
+44151201	Separation anxiety disorder
+44208601	Anxiety attack
+45690501	Phobia counselling
+45691701	Anxiety counselling
+45727601	Phonophobia
+48115401	Generalised anxiety disorder
+48115501	GAD - Generalized anxiety disorder
+48115601	GAD - Generalised anxiety disorder
+48587001	Cancer phobia
+50840801	Anxiety about blushing
+59111011	Anticipatory anxiety
+59365100	Anxiety about lethargy
+59408015	Panic disorder with agoraphobia
+61145016	Anticipatory anxiety; moderate
+65032014	Dental phobia
+66053100	Stranger anxiety
+81133019	Anxiety
+85114100	Phonophobia
+85135100	School phobia
+85324100	Phobic anxiety
+88237100	Phobic state
+88238100	Agoraphobia
+88239100	Other phobias
+89686017	Panic disorder without agoraphobia with panic attacks in partial remission
+90268015	Zoophobia
+90724016	Simple phobia
+90969100	[RFC] Anxiety management
+93213100	Needle phobia
+94086016	Panic disorder without agoraphobia
+97986013	Acrophobia
+98888100	Agoraphobia
+99162100	Needle phobia

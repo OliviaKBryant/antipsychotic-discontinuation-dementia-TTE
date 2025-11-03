@@ -1,0 +1,61 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+36695	409	4	0	0	C10D.00	Diabetes mellitus autosomal dominant type 2	February 2009
+85660	8150	149	0	0	66An.00	Diabetes type 1 review	February 2009
+83532	173760	550	0	0	66Ao.00	Diabetes type 2 review	February 2009
+69043	59	0	0	0	ZC2C900	Dietary advice for type I diabetes	February 2009
+25041	607	1	0	0	ZC2CA00	Dietary advice for type II diabetes	February 2009
+34450	888	15	0	0	C10FK00	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	February 2009
+1407	20002	139	0	0	C10FJ00	Insulin treated Type 2 diabetes mellitus	February 2009
+1549	154889	3114	2	0	C10E.00	Type 1 diabetes mellitus	February 2009
+35288	560	38	0	0	C10E800	Type 1 diabetes mellitus - poor control	February 2009
+109628	2	0	0	0	C10P011	Type 1 diabetes mellitus in remission	May 2015
+18642	14	0	0	0	C10EH00	Type 1 diabetes mellitus with arthropathy	February 2009
+49554	24	0	0	0	C10EF00	Type 1 diabetes mellitus with diabetic cataract	February 2009
+22871	99	4	0	0	C10EP00	Type 1 diabetes mellitus with exudative maculopathy	February 2009
+69993	22	0	0	0	C10E600	Type 1 diabetes mellitus with gangrene	February 2009
+55239	726	10	0	0	C10EQ00	Type 1 diabetes mellitus with gastroparesis	February 2009
+39070	131	3	0	0	C10EE00	Type 1 diabetes mellitus with hypoglycaemic coma	February 2009
+10692	9338	129	0	0	C10EM00	Type 1 diabetes mellitus with ketoacidosis	February 2009
+40837	346	32	0	0	C10EN00	Type 1 diabetes mellitus with ketoacidotic coma	February 2009
+68105	16	0	0	0	C10EB00	Type 1 diabetes mellitus with mononeuropathy	February 2009
+47650	51	0	0	0	C10E300	Type 1 diabetes mellitus with multiple complications	February 2009
+10418	586	10	0	0	C10ED00	Type 1 diabetes mellitus with nephropathy	February 2009
+42831	32	1	0	0	C10E200	Type 1 diabetes mellitus with neurological complications	February 2009
+18230	3	1	0	0	C108J12	Type 1 diabetes mellitus with neuropathic arthropathy	February 2009
+47649	36	2	0	0	C10E100	Type 1 diabetes mellitus with ophthalmic complications	February 2009
+93468	8	0	0	0	C10EG00	Type 1 diabetes mellitus with peripheral angiopathy	February 2009
+30294	660	7	0	0	C10EL00	Type 1 diabetes mellitus with persistent microalbuminuria	February 2009
+30323	772	5	0	0	C10EK00	Type 1 diabetes mellitus with persistent proteinuria	February 2009
+46301	41	0	0	0	C10EC00	Type 1 diabetes mellitus with polyneuropathy	February 2009
+21983	5	0	0	0	C108012	Type 1 diabetes mellitus with renal complications	February 2009
+18387	769	18	0	0	C10E700	Type 1 diabetes mellitus with retinopathy	February 2009
+18683	71	1	0	0	C10E500	Type 1 diabetes mellitus with ulcer	February 2009
+69676	74	1	0	0	C10EA00	Type 1 diabetes mellitus without complication	February 2009
+104453	301	0	0	0	66At011	Type 1 diabetic dietary review	June 2012
+758	1518425	17297	21	0	C10F.00	Type 2 diabetes mellitus	February 2009
+25627	1960	93	0	0	C10F700	Type 2 diabetes mellitus - poor control	February 2009
+110611	213	0	0	0	C10P111	Type 2 diabetes mellitus in remission	March 2016
+49869	1	0	0	0	C109G12	Type 2 diabetes mellitus with arthropathy	February 2009
+44779	11	1	0	0	C109E12	Type 2 diabetes mellitus with diabetic cataract	February 2009
+25591	297	5	0	0	C10FQ00	Type 2 diabetes mellitus with exudative maculopathy	February 2009
+12736	79	5	0	0	C10F500	Type 2 diabetes mellitus with gangrene	February 2009
+63690	387	7	0	0	C10FR00	Type 2 diabetes mellitus with gastroparesis	February 2009
+46917	161	3	0	0	C10FD00	Type 2 diabetes mellitus with hypoglycaemic coma	February 2009
+32627	1345	54	0	0	C10FN00	Type 2 diabetes mellitus with ketoacidosis	February 2009
+51756	42	1	0	0	C10FP00	Type 2 diabetes mellitus with ketoacidotic coma	February 2009
+62674	86	0	0	0	C10FA00	Type 2 diabetes mellitus with mononeuropathy	February 2009
+65267	53	2	0	0	C10F300	Type 2 diabetes mellitus with multiple complications	February 2009
+12640	2510	73	0	0	C10FC00	Type 2 diabetes mellitus with nephropathy	February 2009
+34268	209	2	0	0	C10F200	Type 2 diabetes mellitus with neurological complications	February 2009
+35385	285	7	0	0	C10FH00	Type 2 diabetes mellitus with neuropathic arthropathy	February 2009
+47321	124	1	0	0	C10F100	Type 2 diabetes mellitus with ophthalmic complications	February 2009
+37806	217	3	0	0	C10FF00	Type 2 diabetes mellitus with peripheral angiopathy	February 2009
+18390	12199	64	0	0	C10FM00	Type 2 diabetes mellitus with persistent microalbuminuria	February 2009
+26054	6414	62	3	0	C10FL00	Type 2 diabetes mellitus with persistent proteinuria	February 2009
+18425	329	6	0	0	C10FB00	Type 2 diabetes mellitus with polyneuropathy	February 2009
+18209	24	2	0	0	C109012	Type 2 diabetes mellitus with renal complications	February 2009
+18496	2668	48	2	0	C10F600	Type 2 diabetes mellitus with retinopathy	February 2009
+49074	181	5	0	0	C10F400	Type 2 diabetes mellitus with ulcer	February 2009
+47954	1040	6	0	0	C10F900	Type 2 diabetes mellitus without complication	February 2009
+102611	414	0	0	0	66At111	Type 2 diabetic dietary review	July 2011
+43921	69	2	0	0	C10E400	Unstable type 1 diabetes mellitus	February 2009

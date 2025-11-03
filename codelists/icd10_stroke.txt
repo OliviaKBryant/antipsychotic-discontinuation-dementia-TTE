@@ -1,0 +1,37 @@
+icd	description
+I60	subarachnoid haemorrhage
+I60.0	subarachnoid haemorrhage from carotid siphon and bifurcation
+I60.1	subarachnoid haemorrhage from middle cerebral artery
+I60.2	subarachnoid haemorrhage from anterior communicating artery
+I60.3	subarachnoid haemorrhage from posterior communicating artery
+I60.4	subarachnoid haemorrhage from basilar artery
+I60.5	subarachnoid haemorrhage from vertebral artery
+I60.6	subarachnoid haemorrhage from other intracranial arteries
+I60.7	subarachnoid haemorrhage from intracranial artery, unspecified
+I60.8	other subarachnoid haemorrhage
+I60.9	subarachnoid haemorrhage, unspecified
+I61	intracerebral haemorrhage
+I61.0	intracerebral haemorrhage in hemisphere, subcortical
+I61.1	intracerebral haemorrhage in hemisphere, cortical
+I61.2	intracerebral haemorrhage in hemisphere, unspecified
+I61.3	intracerebral haemorrhage in brain stem
+I61.4	intracerebral haemorrhage in cerebellum
+I61.5	intracerebral haemorrhage, intraventricular
+I61.6	intracerebral haemorrhage, multiple localized
+I61.8	other intracerebral haemorrhage
+I61.9	intracerebral haemorrhage, unspecified
+I62	other nontraumatic intracranial haemorrhage
+I62.0	subdural haemorrhage (acute)(nontraumatic)
+I62.1	nontraumatic extradural haemorrhage
+I62.9	intracranial haemorrhage (nontraumatic), unspecified
+I63	cerebral infarction
+I63.0	cerebral infarction due to thrombosis of precerebral arteries
+I63.1	cerebral infarction due to embolism of precerebral arteries
+I63.2	cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+I63.3	cerebral infarction due to thrombosis of cerebral arteries
+I63.4	cerebral infarction due to embolism of cerebral arteries
+I63.5	cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+I63.6	cerebral infarction due to cerebral venous thrombosis, nonpyogenic
+I63.8	other cerebral infarction
+I63.9	cerebral infarction, unspecified
+I64	stroke, not specified as haemorrhage or infarction

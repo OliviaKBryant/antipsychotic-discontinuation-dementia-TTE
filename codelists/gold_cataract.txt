@@ -1,0 +1,108 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+63640	10	0	0	0	F461B11	Morgagni cataract	February 2009
+100770	1	0	0	0	C10EF12	Insulin dependent diabetes mellitus with diabetic cataract	November 2010
+17545	7	1	0	0	C108F11	Type I diabetes mellitus with diabetic cataract	February 2009
+110400	1	0	0	0	C108F12	Type 1 diabetes mellitus with diabetic cataract	December 2015
+18089	1151	223	0	0	P331000	Capsular cataract	February 2009
+299	2917	178	0	0	P330.00	Congenital cataract, unspecified	February 2009
+96385	7	0	0	0	P332.00	Cortical and zonular cataract	April 2009
+70700	19	0	0	0	P33y.00	Other specified congenital cataract or lens anomaly	February 2009
+7793	7996	133	0	0	F460700	Nuclear cataract	February 2009
+58078	30	1	0	0	F460z00	Nonsenile cataract NOS	February 2009
+90279	8	0	0	0	P33yz00	Other congenital cataract or lens anomaly NOS	February 2009
+48228	219	3	0	0	F463.00	Cataract secondary to ocular disease	February 2009
+101939	3	0	0	0	FyuE000	[X]Other senile cataract	March 2011
+44260	20	2	0	0	C108F00	Insulin dependent diabetes mellitus with diabetic cataract	February 2009
+29770	606	125	0	0	F461z00	Senile cataract NOS	February 2009
+42452	112	22	0	0	F4K2D00	Vitreous syndrome following cataract surgery	February 2009
+49297	9	0	0	0	FyuE400	[X]Cataract in other diseases classified elsewhere	February 2009
+58120	23	1	0	0	F464400	Drug induced cataract	February 2009
+94348	1475	13	0	0	8LC0.00	Cataract operation planned	February 2009
+26097	31	0	0	0	F461300	Punctate cataract	February 2009
+44487	45	1	0	0	F465z00	After cataract NOS	February 2009
+94474	4	0	0	0	F460x00	Combined nonsenile cataract	February 2009
+44794	125	1	0	0	F460000	Unspecified infantile cataract	February 2009
+69278	32	0	0	0	C109E00	Non-insulin depend diabetes mellitus with diabetic cataract	February 2009
+11941	1618	1451	0	0	8HTV.00	Referral to cataract clinic	February 2009
+4148	2548	110	0	0	P33..00	Congenital cataract and lens anomalies	February 2009
+62188	13	0	0	0	F463000	Unspecified cataracta complicata	February 2009
+50932	13	2	0	0	F461200	Coronary cataract	February 2009
+50638	107	0	0	0	F462z00	Traumatic cataract NOS	February 2009
+9931	14649	1238	0	0	2BT1.00	O/E - Left cataract present	February 2009
+94430	23	1	0	0	F464z00	Cataract due to other disorder NOS	February 2009
+70403	4	0	0	0	F460y00	Other nonsenile cataract	February 2009
+15589	393	23	0	0	F46yz00	Other cataract NOS	February 2009
+70201	24	2	0	0	FyuE100	[X]Other specified cataract	February 2009
+99424	2	0	0	0	P33y100	Congenital membranous cataract	May 2010
+63491	61	2	0	0	F460100	Unspecified juvenile cataract	February 2009
+45926	209	6	0	0	P33z.00	Congenital cataract or lens anomaly NOS	February 2009
+10010	9374	426	0	0	F461.00	Senile cataract	February 2009
+48192	15	4	0	0	C109E11	Type II diabetes mellitus with diabetic cataract	February 2009
+4358	570	47	0	0	F46y.00	Other cataract	February 2009
+38641	512	13	0	0	7266100	Discission of cataract	February 2009
+44294	96	1	0	0	F46z000	Immature cortical cataract	February 2009
+88738	31	1	0	0	P331z00	Capsular or subcapsular cataract NOS	February 2009
+66093	15	0	0	0	F464600	Radiation induced cataract	February 2009
+57805	57	1	0	0	F460200	Unspecified presenile cataract	February 2009
+6547	15072	1311	0	0	2BT0.00	O/E - Right cataract present	February 2009
+103508	34501	7	0	0	7267600	Cataract extraction and insertion of intraocular lens	January 2012
+98962	8	0	0	0	P332z00	Cortical or zonular cataract NOS	April 2010
+71623	3	0	0	0	P334z00	Total or subtotal congenital cataract NOS	February 2009
+61325	46	0	0	0	F463300	Cataract with neovascularization	February 2009
+5325	110	1	0	0	F461700	Posterior subcapsular polar senile cataract	February 2009
+26850	21	2	0	0	F465300	After-cataract with vision obscured	February 2009
+47566	1111	18	0	0	F461000	Unspecified senile cataract	February 2009
+46169	17	0	0	0	F463z00	Cataract secondary to ocular disorder NOS	February 2009
+44779	11	1	0	0	C109E12	Type 2 diabetes mellitus with diabetic cataract	February 2009
+54130	52	1	0	0	F463200	Cataract in eye inflammatory disorder	February 2009
+6876	566	5	0	0	F461900	Nuclear senile cataract	February 2009
+73419	10	0	0	0	F462200	Total traumatic cataract	February 2009
+6317	26838	1720	0	0	F46z.00	Cataract NOS	February 2009
+10659	1762	113	5	0	F464000	Diabetic cataract	February 2009
+33482	140	14	0	0	F465.00	After cataract	February 2009
+114694	2	0	0	0	F464700	Cataract due to other physical inflammation	February 2020
+41668	77	3	0	0	F460.00	Infantile, juvenile and presenile cataracts	February 2009
+59125	45	0	0	0	F460300	Anterior subcapsular polar cataract	February 2009
+4242	392	0	0	0	F460400	Posterior subcapsular polar cataract	February 2009
+44982	249	6	0	0	C10FE00	Type 2 diabetes mellitus with diabetic cataract	February 2009
+89585	6	1	0	0	F465200	Other after cataract with vision normal	February 2009
+60425	46	0	0	0	P332000	Cortical cataract - congenital	February 2009
+1622	88444	33844	0	0	22E5.00	O/E - cataract present	February 2009
+92358	8	0	0	0	F461600	Anterior subcapsular polar senile cataract	February 2009
+104553	92	1	0	0	F4B4B00	Keratopathy following cataract surgery	July 2012
+19371	70	3	0	0	F463400	Cataract in degenerative disorder	February 2009
+22022	112	4	0	0	F461800	Cortical senile cataract	February 2009
+49085	33	0	0	0	F461y00	Other senile cataract	February 2009
+23883	381	1	0	0	7263011	Needling of lens for cataract	February 2009
+39081	6	0	0	0	P334000	Total congenital cataract	February 2009
+45952	3	0	0	0	F464100	Tetanic cataract	February 2009
+703	113350	9448	1	0	F466.00	Bilateral cataracts	February 2009
+71291	19	0	0	0	F464.00	Cataract due to other disorder	February 2009
+7257	5156	44	0	0	F460500	Cortical cataract	February 2009
+49554	24	0	0	0	C10EF00	Type 1 diabetes mellitus with diabetic cataract	February 2009
+51162	61	1	0	0	F461B00	Hypermature cataract	February 2009
+3897	1844	78	0	0	F462.00	Traumatic cataract	February 2009
+63212	49	1	0	0	P333.00	Nuclear cataract - congenital	February 2009
+4260	91378	1202	0	0	7264.11	Intracapsular extraction of cataract	February 2009
+11255	3298	69	0	0	P331100	Subcapsular cataract	February 2009
+11767	4164	2953	0	0	8H5H.00	Referral for cataract extraction	February 2009
+63429	16	1	0	0	P332100	Zonular cataract	February 2009
+59914	77	4	0	0	P331.00	Capsular and subcapsular cataract	February 2009
+5361	115358	1271	0	0	7266.11	Other extraction of cataract	February 2009
+296	530965	93992	17	0	F46..00	Cataract	February 2009
+105971	18	0	0	0	F4B4C00	Bullous aphakic keratopathy following cataract surgery	April 2013
+93727	161	1	0	0	C10FE11	Type II diabetes mellitus with diabetic cataract	February 2009
+4459	1327	103	0	0	ZV45611	[V]State following cataract extraction	February 2009
+33793	66	4	0	0	F461A00	Total, mature senile cataract	February 2009
+64196	368	0	0	0	2BT..00	Cataract observation	February 2009
+23631	1042	263	0	0	F461500	Immature cataract NOS	February 2009
+114648	1	0	0	0	P334100	Subtotal congenital cataract	January 2020
+60883	14	1	0	0	F464200	Myotonic cataract	February 2009
+24467	83	2	0	0	F465000	Unspecified secondary cataract	February 2009
+45190	114	2	0	0	F460600	Lamellar zonular cataract	February 2009
+62605	35	0	0	0	F462000	Unspecified traumatic cataract	February 2009
+6330	41842	671	0	0	7263.12	Extracapsular extraction of cataract	February 2009
+70257	14	0	0	0	F461x00	Combined senile cataract	February 2009
+48148	69	3	0	0	F461400	Incipient cataract NOS	February 2009
+27898	246	1	0	0	P33y000	Blue dot cataract	February 2009
+58625	9	0	0	0	F464300	Cataract associated with other syndromes	February 2009

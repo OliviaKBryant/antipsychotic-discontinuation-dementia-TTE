@@ -1,0 +1,26 @@
+code	description
+ J10.0      	 Influenza due to other identified influenza virus with pneumonia  
+ J11.0      	 Influenza due to unidentified influenza virus with pneumonia      
+ J12        	" Viral pneumonia, not elsewhere classified                         "
+ J13        	 Pneumonia due to streptococcus pneumoniae                         
+ J14        	 Pneumonia due to haemophilus influenzae                           
+ J15        	" Bacterial pneumonias, not elsewhere classified                    "
+ J15.0      	 Pneumonia due to klebsiella pneumoniae                            
+ J15.1      	 Pneumonia due to pseudomonas                                      
+ J15.2      	 Pneumonia due to staphylococcus                                   
+ J15.3      	 Pneumonia due to streptococcus group B                            
+ J15.4      	 Pneumonia due to other streptococci                               
+ J15.5      	 Pneumonia due to e coli                                           
+ J15.6      	 Pneumonia due to other gram-negative bacteria                     
+ J15.8      	 Other bacterial pneumonia                                         
+ J15.9      	" Bacterial pneumonia, unspecified                                  "
+ J16        	" Pneumonia due to other infectious organisms, not elsewhere classified "
+ J16.0      	 Chlamydial pneumonia                                              
+ J16.8      	 Pneumonia due to other specified infectious organisms             
+ J17.0      	 Pneumonia in bacterial diseases classified elsewhere              
+ J18        	" Pneumonia, organism unspecified                                   "
+ J18.0      	" Bronchopneumonia, unspecified                                     "
+ J18.1      	" Lobar pneumonia, unspecified                                      "
+ J18.8      	" Other pneumonia, organism unspecified                             "
+ J18.9      	" Pneumonia, unspecified                                            "
+ J85.1      	 Abscess of lung with pneumonia                                    

@@ -1,0 +1,17 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+1664	569205	24070	103	0	G573000	Atrial fibrillation	February 2009
+2212	200993	14108	9	0	G573.00	Atrial fibrillation and flutter	February 2009
+23437	2120	38	0	0	G573z00	Atrial fibrillation and flutter NOS	February 2009
+1757	27615	1193	0	0	G573100	Atrial flutter	February 2009
+3757	10271	1227	120103	0	3272.00	ECG: atrial fibrillation	February 2009
+6345	22420	1277	8	0	14AN.00	H/O: atrial fibrillation	February 2009
+9479	164	3	0	0	7936A00	Implant intravenous pacemaker for atrial fibrillation	February 2009
+35127	251	0	0	0	G573300	Non-rheumatic atrial fibrillation	February 2009
+1268	95840	3258	3	0	G573200	Paroxysmal atrial fibrillation	February 2009
+107472	468	8	0	0	G573600	Paroxysmal atrial flutter	December 2013
+86416	707	0	0	0	793M300	Perc translum ablat conduct sys heart for atrial flutter NEC	February 2009
+84152	1605	2	0	0	793M100	Perc transluminal ablation of atrial wall for atrial flutter	February 2009
+96277	454	3	0	0	G573400	Permanent atrial fibrillation	April 2009
+96076	801	7	0	0	G573500	Persistent atrial fibrillation	February 2009
+6771	2053	341	6488	0	3273.00	ECG: atrial flutter	February 2009
+93460	1488	85	0	0	14AR.00	History of atrial flutter	February 2009

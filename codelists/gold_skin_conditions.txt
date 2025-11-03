@@ -1,0 +1,609 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+11209	16758	105	0	0	R021000	[D]Exanthem	February 2009
+16734	645	17	16	0	R153300	[D]Positive culture findings in wound	February 2009
+472	498555	10855	15	0	R021.00	[D]Rash and other nonspecific skin eruption	February 2009
+149	1348697	53472	273	0	R021z00	[D]Rash and other nonspecific skin eruption NOS	February 2009
+44243	3041	17	0	0	M094000	[X]Abscess of axilla	February 2009
+30161	1397	54	0	0	M093.00	[X]Abscess of buttock	February 2009
+30172	581	12	0	0	M090.00	[X]Abscess of face	February 2009
+37379	700	8	0	0	M091.00	[X]Abscess of neck	February 2009
+111176	4	0	0	0	U127200	[X]Bit/stung by nven insct+nven arthrop sch ins/pub adm area	August 2016
+92287	13	0	0	0	U127000	[X]Bit/stung by n'venom insect+oth n'venom arthrop occ home	February 2009
+10620	4775	132	0	0	U124.11	[X]Bite from dog	February 2009
+10131	7828	103	0	0	U120.11	[X]Bite from human	February 2009
+17763	3834	23	0	0	U127.11	[X]Bite from insect	February 2009
+18814	1600	20	0	0	U124.00	[X]Bitten or struck by dog	February 2009
+111325	1	0	0	0	U124300	[X]Bitten or struck by dog occurrnce at sport/athletic area	September 2016
+58685	45	0	0	0	U124000	[X]Bitten or struck by dog, occurrence at home	February 2009
+94723	9	0	0	0	U124y00	[X]Bitten or struck by dog, occurrence at oth specif place	February 2009
+73501	18	0	0	0	U124z00	[X]Bitten or struck by dog, occurrence at unspecified place	February 2009
+72031	7	0	0	0	U124700	[X]Bitten or struck by dog, occurrence on farm	February 2009
+65593	15	0	0	0	U124400	[X]Bitten or struck by dog, occurrence on street / highway	February 2009
+58026	9	1	0	0	U124200	[X]Bitten/struck by dog occ at sch oth instit/pub adm area	February 2009
+111109	1	0	0	0	U124100	[X]Bitten/struck by dog occurrnce in residential institut'n	July 2016
+28114	3083	9	0	0	U127.00	[X]Bitten/stung by nonvenom insect+oth nonvenom arthropods	February 2009
+105063	1	0	0	0	U127100	[X]Bittn/stung by nven insct+oth nven arthrop occ resid inst	October 2012
+29345	690	17	0	0	M084.00	[X]Cellulitis of breast	February 2009
+5605	1282	16	0	0	M080.00	[X]Cellulitis of finger and toe	February 2009
+1315	3230	45	0	0	M081.00	[X]Cellulitis of other parts of limb	February 2009
+30260	686	6	0	0	M08y.00	[X]Cellulitis of other sites	February 2009
+9233	534	26	0	0	M080.13	[X]Cellulitis of thumb	February 2009
+22764	7266	63	0	0	Myu2200	[X]Exacerbation of eczema	February 2009
+112348	1	0	0	0	U120600	[X]Hit strck kick twist bit/scr anoth pers indust/cnstr area	December 2017
+56940	14	0	0	0	U120y00	[X]Hit strck kick twist bit/scr anoth pers oth specif place	February 2009
+62824	21	0	0	0	U120z00	[X]Hit strck kick twist bit/scr anoth pers oth unspecif plce	February 2009
+31028	10	0	0	0	U120300	[X]Hit strck kick twist bit/scrtch anoth pers sprt/athl area	February 2009
+103153	5	0	0	0	U120400	[X]Hit strck kick twist bittn/scrtch anoth pers street/h'way	October 2011
+43197	183	2	0	0	U120200	[X]Hit strck kick twst bit/scr prs sch oth inst/pub adm area	February 2009
+48805	12	1	0	0	U120100	[X]Hit struck kick twist bit/scratch anoth pers resid instit	February 2009
+109535	4	0	0	0	U120700	[X]Hit struck kick twist bitten/scratch anoth pers occ farm	April 2015
+59088	14	0	0	0	U120000	[X]Hit struck kick twist bitten/scratch anoth pers occ home	February 2009
+52122	716	1	0	0	Myu0.00	[X]Infections of the skin and subcutaneous tissue	February 2009
+6193	7441	334	0	0	M092200	[X]Perineal abscess	February 2009
+28475	301	4	0	0	SD61400	Abrasion of ankle, infected	February 2009
+22182	316	4	0	0	SD21200	Abrasion of axilla, infected	February 2009
+38826	196	7	0	0	SD11200	Abrasion of breast, infected	February 2009
+12288	848	23	0	0	SD31000	Abrasion of elbow, infected	February 2009
+12614	288	4	0	0	SD01000	Abrasion of face, infected	February 2009
+10589	1749	30	0	0	SD71000	Abrasion of foot, infected	February 2009
+6914	389	5	0	0	SD11800	Abrasion of groin, infected	February 2009
+12525	1170	15	1	0	SD61200	Abrasion of knee, infected	February 2009
+28338	205	5	0	0	SD11900	Abrasion of perineum, infected	February 2009
+7792	4623	52	0	0	SD71100	Abrasion of toe, infected	February 2009
+17061	229	8	0	0	SD21300	Abrasion of upper arm, infected	February 2009
+24029	392	3	0	0	SD11D00	Abrasion of vagina, infected	February 2009
+12767	4774	39	0	0	SD51.00	Abrasion or friction burn of finger, infected	February 2009
+8439	1830	34	0	0	SD41.00	Abrasion or friction burn of hand, infected	February 2009
+12405	573	31	0	0	SD01.00	Abrasion or friction burn of head, infected	February 2009
+22289	177	2	1	0	SD71.11	Abrasion or friction burn of heel, infected	February 2009
+7054	1181	13	0	0	SD61.11	Abrasion or friction burn of leg, infected	February 2009
+11493	833	8	0	0	SD31.00	Abrasion or friction burn of lower arm, infected	February 2009
+7485	3132	25	0	0	SD61.00	Abrasion or friction burn of lower limb, infected	February 2009
+7142	409	2	0	0	SD21.00	Abrasion or friction burn of shoulder/upper arm, infected	February 2009
+20778	1893	60	0	0	SD71.12	Abrasion or friction burn of toenail, infected	February 2009
+14865	3107	62	0	0	SD91.00	Abrasion or friction burn, infected, NOS	February 2009
+5965	243435	6712	4	0	M03z100	Abscess NOS	February 2009
+4336	7044	528	0	0	J54..00	Abscess of anal and rectal regions	February 2009
+16969	2262	67	0	0	F506.00	Abscess of external ear	February 2009
+5950	9630	252	0	0	K424011	Abscess of labia	February 2009
+16362	612	21	0	0	J085000	Abscess of lip	February 2009
+9626	2219	131	0	0	J083200	Abscess of oral soft tissue unspecified	February 2009
+21296	532	16	1	0	M03y011	Abscess of scalp	February 2009
+8713	5191	232	2	0	K284000	Abscess of scrotum	February 2009
+4187	7599	377	1	0	K424000	Abscess of vulva	February 2009
+9556	6144	413	0	0	K310.11	Abscess, breast, non puerperal	February 2009
+20144	1333	155	1	0	F501111	Abscess, external ear	February 2009
+12524	1325	11	0	0	TE56200	Accidentally stung by jelly fish	February 2009
+33659	387	6	0	0	K403100	Acute pelvic cellulitis	February 2009
+5869	32620	430	0	0	M114.00	Allergic (intrinsic) eczema	February 2009
+334	21929	447	7	0	M128.00	Allergic contact dermatitis	February 2009
+13401	14465	65	0	0	SN59100	Allergic reaction to insect bite	February 2009
+13408	11735	100	0	0	SN59200	Allergic reaction to wasp sting	February 2009
+6400	49930	1214	0	0	M280.00	Allergic urticaria	February 2009
+1979	19550	872	2	0	J53..00	Anal fissure and fistula	February 2009
+15002	10486	41	0	0	J085411	Angular cheilitis	February 2009
+6609	21972	332	0	0	TE6..11	Animal bites	February 2009
+16000	854	72	0	0	J54z.00	Ano-rectal abscess NOS	February 2009
+62790	105	2	0	0	J544.00	Ano-rectal fissure abscess	February 2009
+11624	8789	301	0	0	M271300	Arterial leg ulcer	February 2009
+3860	18759	893	1	0	TLxy000	Assault by bite of human being	February 2009
+3442	299520	649	7	0	AB04.11	Athlete's foot	February 2009
+13223	11953	134	0	0	M11..00	Atopic dermatitis and related conditions	February 2009
+6180	12674	65	0	0	M11z.00	Atopic dermatitis NOS	February 2009
+1741	2248043	25352	5	0	M111.00	Atopic dermatitis/eczema	February 2009
+49675	1723	3	0	0	9NM5.00	Attending leg ulcer clinic	February 2009
+22194	1598	8	0	0	M244111	Barbers' rash	February 2009
+14995	11683	301	3	0	M270.11	Bed sore	February 2009
+3242	10956	614	2	0	SD...19	Bee sting	February 2009
+7247	3811	37	0	0	SD...12	Bee sting without reaction	February 2009
+27500	997	14	0	0	TE63z00	Bite of animal, except arthropod, NOS	February 2009
+28471	913	0	0	0	TE64.00	Bite of nonvenomous arthropod	February 2009
+12041	828	12	0	0	TE62.00	Bite of nonvenomous snakes and lizards	February 2009
+2252	16649	2542	2	0	TE63.00	Bite of other animal except arthropod	February 2009
+41732	334	4	0	0	TE63200	Bite of rodent, except rats	February 2009
+16089	126	2	0	0	SD13200	Blister of breast, infected	February 2009
+16568	1827	16	0	0	SD53.00	Blister of finger, infected	February 2009
+8378	5061	46	0	0	SD73.00	Blister of foot and toe, infected	February 2009
+21236	914	6	0	0	SD73000	Blister of foot, infected	February 2009
+9481	1217	22	0	0	SD43.00	Blister of hand, infected	February 2009
+21388	139	1	0	0	SD03.00	Blister of head, infected	February 2009
+27780	402	3	0	0	SD73.11	Blister of heel, infected	February 2009
+28078	792	8	0	0	SD63.11	Blister of leg, infected	February 2009
+32232	140	2	0	0	SD33.00	Blister of lower arm, infected	February 2009
+11335	1216	13	0	0	SD63.00	Blister of lower limb, infected	February 2009
+16151	727	12	0	0	SD73100	Blister of toe, infected	February 2009
+12245	13317	352	11	0	SD93.00	Blister, infected, NOS	February 2009
+17224	2296	24	0	0	H1y1011	Boil in nose	February 2009
+5910	226859	1494	3	0	M01z.00	Boil NOS	February 2009
+15332	620	12	0	0	M012300	Boil of abdominal wall	February 2009
+181	21150	433	6	0	M013100	Boil of axilla	February 2009
+15242	1292	41	0	0	M012200	Boil of back	February 2009
+14993	1645	43	1	0	M012100	Boil of breast	February 2009
+15427	6604	152	1	0	M015.00	Boil of buttock	February 2009
+15306	449	7	1	0	M012000	Boil of chest wall	February 2009
+1255	8247	75	2	0	M010000	Boil of ear	February 2009
+16687	159	6	0	0	M013300	Boil of elbow	February 2009
+15192	8352	94	1	0	M010.00	Boil of face	February 2009
+16291	524	17	0	0	M014200	Boil of finger	February 2009
+18961	667	18	0	0	M015100	Boil of gluteal region	February 2009
+14868	5745	108	1	0	M012600	Boil of groin	February 2009
+27912	2031	4	0	0	M016.00	Boil of leg (excluding foot)	February 2009
+15246	1431	38	1	0	M016z00	Boil of leg (excluding foot) NOS	February 2009
+14987	2931	46	3	0	M011.00	Boil of neck	February 2009
+20322	975	5	0	0	M01y.00	Boil of other specified site	February 2009
+20998	535	18	0	0	M012700	Boil of perineum	February 2009
+17101	1441	23	0	0	K284100	Boil of scrotum	February 2009
+16533	2103	32	1	0	M016100	Boil of thigh	February 2009
+10281	327	2	0	0	M014100	Boil of thumb	February 2009
+16296	2394	5	0	0	M012.00	Boil of trunk	February 2009
+5835	1556	42	8	0	M012400	Boil of umbilicus	February 2009
+48047	1843	0	0	0	M013.00	Boil of upper arm and forearm	February 2009
+7519	4561	26	0	0	K424111	Boil of vulva	February 2009
+9880	9501	273	0	0	M145000	Bullous pemphigoid	February 2009
+4703	4090024	60372	1	0	1D14.00	C/O: a rash	February 2009
+5784	326870	3175	9	0	1D15.00	C/O: itching	February 2009
+3678	65038	506	3	0	AB22000	Candidal balanitis	February 2009
+8391	87993	81	0	0	AB23000	Candidal intertrigo	February 2009
+8075	4744	22	0	0	AB23300	Candidal paronychia	February 2009
+641	18654	419	5	0	M00..00	Carbuncle	February 2009
+6844	28274	222	0	0	TE63000	Cat bite	February 2009
+27933	251	4	0	0	J54..11	Cellulitis - anus or rectum	February 2009
+309	315086	17036	170	0	M03z.00	Cellulitis and abscess NOS	February 2009
+12167	991	5	0	0	M03zz00	Cellulitis and abscess NOS	February 2009
+4973	1450	147	1	0	M032300	Cellulitis and abscess of abdominal wall	February 2009
+10974	3709	143	1	0	M036400	Cellulitis and abscess of ankle	February 2009
+3461	9400	437	4	0	M033.00	Cellulitis and abscess of arm	February 2009
+1772	16671	991	6	0	M033100	Cellulitis and abscess of axilla	February 2009
+1874	1489	160	2	0	M032200	Cellulitis and abscess of back	February 2009
+16176	5442	408	6	0	M032100	Cellulitis and abscess of breast	February 2009
+2897	9219	860	8	0	M035.00	Cellulitis and abscess of buttock	February 2009
+2658	500	53	1	0	M030011	Cellulitis and abscess of cheek	February 2009
+24401	522	5	0	0	M030000	Cellulitis and abscess of cheek (external)	February 2009
+4394	525	42	2	0	M032000	Cellulitis and abscess of chest wall	February 2009
+25081	8130	14	1	0	M02z.00	Cellulitis and abscess of digit NOS	February 2009
+3998	19670	726	2	0	M030.00	Cellulitis and abscess of face	February 2009
+4779	20574	547	1	0	M020.00	Cellulitis and abscess of finger	February 2009
+5697	5711	29	0	0	M02..00	Cellulitis and abscess of finger and toe	February 2009
+26071	548	6	0	0	M020z00	Cellulitis and abscess of finger NOS	February 2009
+3527	7939	299	1	0	M020000	Cellulitis and abscess of finger unspecified	February 2009
+31148	11790	18	0	0	M037.00	Cellulitis and abscess of foot excluding toe	February 2009
+29113	942	10	0	0	M037z00	Cellulitis and abscess of foot NOS	February 2009
+2089	11888	664	7	0	M037000	Cellulitis and abscess of foot unspecified	February 2009
+27903	733	15	0	0	M033400	Cellulitis and abscess of forearm	February 2009
+1923	8910	587	4	0	M032600	Cellulitis and abscess of groin	February 2009
+1415	5553	620	5	0	M034.11	Cellulitis and abscess of hand	February 2009
+23604	587	9	0	0	M034z00	Cellulitis and abscess of hand NOS	February 2009
+2914	3397	327	2	0	M034000	Cellulitis and abscess of hand unspecified	February 2009
+2216	5858	689	17	0	M036200	Cellulitis and abscess of knee	February 2009
+10326	24103	1078	38	0	M036.11	Cellulitis and abscess of leg	February 2009
+7865	15029	134	0	0	M036.00	Cellulitis and abscess of leg excluding foot	February 2009
+680	89954	2463	8	0	M036z00	Cellulitis and abscess of leg NOS	February 2009
+25890	7357	52	0	0	M036300	Cellulitis and abscess of lower leg	February 2009
+2711	3703	322	1	0	M031.00	Cellulitis and abscess of neck	February 2009
+10485	13352	264	1	0	M030111	Cellulitis and abscess of nose	February 2009
+21580	559	0	0	0	M030100	Cellulitis and abscess of nose (external)	February 2009
+4400	1648	195	0	0	M032700	Cellulitis and abscess of perineum	February 2009
+2847	2798	267	3	0	M036100	Cellulitis and abscess of thigh	February 2009
+3960	23588	335	1	0	M021.00	Cellulitis and abscess of toe	February 2009
+20384	531	3	0	0	M021z00	Cellulitis and abscess of toe NOS	February 2009
+3363	6555	264	0	0	M021000	Cellulitis and abscess of toe unspecified	February 2009
+27717	2135	11	0	0	M032.00	Cellulitis and abscess of trunk	February 2009
+14937	13297	477	54	0	M032400	Cellulitis and abscess of umbilicus	February 2009
+7328	953	95	0	0	M037200	Cellulitis in diabetic foot	February 2009
+4207	945037	9441	8	0	M03z000	Cellulitis NOS	February 2009
+31534	1505	8	0	0	M086.00	Cellulitis of ankle	February 2009
+9648	4549	31	0	0	M088.00	Cellulitis of arm	February 2009
+17226	1051	17	0	0	M08A.00	Cellulitis of axilla	February 2009
+205	6835	81	0	0	M038.00	Cellulitis of external ear	February 2009
+7821	7627	92	0	0	F4D1400	Cellulitis of eyelid	February 2009
+16011	4420	152	0	0	F4D0.11	Cellulitis of eyelids	February 2009
+7972	1625	18	0	0	M082.00	Cellulitis of face	February 2009
+27681	2212	11	0	0	M030600	Cellulitis of face	February 2009
+5228	1673	157	2	0	J083000	Cellulitis of floor of mouth	February 2009
+7684	10612	125	0	0	M08B.00	Cellulitis of foot	February 2009
+6368	69054	624	4	0	M085.00	Cellulitis of leg	February 2009
+17562	1264	7	0	0	J085100	Cellulitis of lip	February 2009
+28181	176	5	0	0	M089.00	Cellulitis of neck	February 2009
+16304	1274	29	0	0	K272300	Cellulitis of penis	February 2009
+4456	2241	99	0	0	K284300	Cellulitis of scrotum	February 2009
+115489	0	1	0	0	K280200	Cellulitis of seminal vesicle	April 2021
+94868	859	4	0	0	M08C.00	Cellulitis of toe	February 2009
+25039	234	1	0	0	M083.00	Cellulitis of trunk	February 2009
+8852	7455	104	0	0	F501112	Cellulitis, external ear	February 2009
+16831	7376	111	0	0	J085700	Cheilitis	February 2009
+2547	54597	509	2	0	SN15.00	Chilblains	February 2009
+7548	22339	1632	0	0	F500300	Chondrodermatitis nodularis helicis	February 2009
+24294	64	6	0	0	K404000	Chronic female pelvic cellulitis	February 2009
+10053	4943	156	0	0	M087.00	Chronic paronychia	February 2009
+9180	28197	1469	0	0	M27..00	Chronic skin ulcer	February 2009
+3929	113225	5712	504	0	M27z.00	Chronic skin ulcer NOS	February 2009
+59750	14	0	0	0	M057.00	Chronic symmetrical impetigo	February 2009
+1427	296378	5422	0	0	M12..11	Contact dermatitis	February 2009
+6399	50630	239	0	0	M12..00	Contact dermatitis and other eczemas	February 2009
+5448	10331	68	0	0	M12z.00	Contact dermatitis NOS	February 2009
+2192	11425	231	9	0	M12zz00	Contact dermatitis NOS	February 2009
+5391	32586	486	0	0	M12..12	Contact eczema	February 2009
+6295	40876	87	0	0	M118011	Cradle cap	February 2009
+6152	12089	348	0	0	M09..00	Cutaneous abscess	February 2009
+6833	95895	1003	0	0	M08..00	Cutaneous cellulitis	February 2009
+7621	21678	1695	0	0	K42y400	Cyst of labium	February 2009
+2699	11675	930	2	0	K57y000	Cyst of vulva	February 2009
+6862	13298	181	1	0	M270.00	Decubitus (pressure) ulcer	February 2009
+6933	8216	173	0	0	M184.00	Dermatitis artefacta	February 2009
+3524	6610	394	1	0	M140.00	Dermatitis herpetiformis	February 2009
+488	691045	12496	27	0	M12z000	Dermatitis NOS	February 2009
+6396	86677	1281	0	0	M1...11	Dermatitis/dermatoses	February 2009
+6807	106312	402	35	0	AB0..00	Dermatophytosis including tinea or ringworm	February 2009
+366	219383	3342	551	0	AB01.00	Dermatophytosis of nail	February 2009
+425	18572	1466	3	0	M2y4600	Dermoid cyst of skin	February 2009
+4684	56245	505	0	0	M119.00	Discoid eczema	February 2009
+1095	35178	524	2	0	M12z111	Discoid eczema	February 2009
+388	195613	12620	17	0	TE60.00	Dog bite	February 2009
+2488	78427	1577	1	0	7G25111	Drainage of abscess NEC	February 2009
+10893	1133	12	0	0	7G25112	Drainage of boil of skin NEC	February 2009
+16668	861	10	0	0	7G25012	Drainage of boil of skin of head or neck	February 2009
+15603	5304	176	0	0	773A000	Drainage of ischiorectal abscess	February 2009
+3916	27027	496	0	0	773A100	Drainage of perianal abscess	February 2009
+22204	162857	71	1265	0	Z1B2300	Dressing of skin ulcer	February 2009
+15506	35856	21	0	0	7G2E500	Dressing of skin ulcer NEC	February 2009
+6654	486072	552	2	0	81H1.00	Dressing of ulcer	February 2009
+5395	4019	89	0	0	A540.00	Eczema herpeticum - Kaposi's varicelliform eruption	February 2009
+230	2243194	29776	32	0	M12z100	Eczema NOS	February 2009
+382	266841	430	116	0	AC74.00	Enterobiasis - threadworm	February 2009
+25403	119	1	0	0	M2y7.00	Eosinophilic cellulitis [Wells]	February 2009
+1402	104451	5940	37	0	M2y4500	Epidermal cyst	February 2009
+1156	26050	463	0	0	A35..00	Erysipelas	February 2009
+27616	88	1	0	0	F501411	Erysipelas - otitis externa	February 2009
+4630	6525	56	0	0	A390.11	Erythrasma	February 2009
+1981	18533	954	6	0	M215000	Excessive granulation tissue	February 2009
+122	161413	6082	59	0	7G03700	Excision of sebaceous cyst NEC	February 2009
+3896	24379	957	5	0	7G03B00	Excision of sebaceous cyst of head or neck	February 2009
+16493	2080	24	0	0	M020100	Finger pulp abscess	February 2009
+598	17442	1271	4	0	J531.00	Fistula-in-ano	February 2009
+2676	19671	28	1	0	SD...14	Flea bites	February 2009
+1240	149333	796	0	0	M113.00	Flexural eczema	February 2009
+16914	2058	140	0	0	M2W..00	Follicular cyst of skin & subcutaneous tissue, unspecif	February 2009
+1367	435573	3704	8	0	M244.00	Folliculitis	February 2009
+3209	30135	290	0	0	M244100	Folliculitis (sycosis) barbae	February 2009
+11474	1328	44	0	0	M240S00	Folliculitis decalvans	February 2009
+15683	5749	44	0	0	M244z00	Folliculitis NOS	February 2009
+16892	403	8	0	0	M21y500	Folliculitis ulerythematosa reticulata	February 2009
+5057	38274	2137	34	0	M271.11	Foot ulcer	February 2009
+17788	28439	6	0	0	7G2EB00	Four layer compression bandaging for skin ulcer	February 2009
+1675	463104	2792	797	0	AB0..11	Fungal infection of skin	February 2009
+5854	456966	3329	174	0	AB01.13	Fungal nail infection	February 2009
+1356	289119	3548	97	0	M01..00	Furuncle - boil	February 2009
+9186	3708	41	1	0	K424200	Furuncle of vulva	February 2009
+3252	154356	15872	0	0	N224.00	Ganglion and cyst of synovium, tendon and bursa	February 2009
+102515	1965	12	0	0	M1y2.00	Gravitational eczema	June 2011
+3193	62826	3505	0	0	M161600	Guttate psoriasis	February 2009
+10072	7335	109	6	0	M24..00	Hair and hair follicle diseases	February 2009
+3699	66037	1034	0	0	M12z300	Hand eczema	February 2009
+17131	725	10	0	0	A54x300	Herpesviral vesicular dermatitis	February 2009
+5371	35379	1555	1	0	M25y100	Hidradenitis	February 2009
+2896	44153	1848	6	0	M25y111	Hidradenitis suppurativa	February 2009
+7244	13568	213	0	0	M28z.11	Hives	February 2009
+943	1015883	2008	23	0	M05..00	Impetigo	February 2009
+8458	122	0	0	0	M053.00	Impetigo circinata	February 2009
+10017	2094	22	0	0	M051.00	Impetigo contagiosa bullosa	February 2009
+73731	12	0	0	0	M052.00	Impetigo contagiosa gyrata	February 2009
+20278	1857	3	0	0	M050.00	Impetigo contagiosa unspecified	February 2009
+16999	1213	9	0	0	M056.00	Impetigo follicularis	February 2009
+25686	1125	5	0	0	M143.00	Impetigo herpetiformis	February 2009
+24604	36	0	0	0	M054.00	Impetigo neonatorum	February 2009
+14934	64537	135	0	0	M05z.00	Impetigo NOS	February 2009
+50721	320	0	0	0	M055.00	Impetigo simplex	February 2009
+95904	12842	37	4	0	7G25700	Incision and drainage of abscess	February 2009
+17082	713	13	0	0	7G25311	Incision of boil of skin NEC	February 2009
+610	361799	3359	0	0	M112.00	Infantile eczema	February 2009
+3580	4347	23	0	0	M118.00	Infantile seborrhoeic dermatitis	February 2009
+986	42260	524	2	0	M07z.14	Infected dermatitis	February 2009
+1424	226891	2187	7	0	M12z200	Infected eczema	February 2009
+6373	330447	578	4	0	M07z.11	Infected insect bite	February 2009
+2007	332836	13427	8	0	M0z..11	Infected sebaceous cyst	February 2009
+16558	3733	66	2	0	M07z.12	Infected skin ulcer	February 2009
+12704	8674	217	6	0	G835.00	Infected varicose ulcer	February 2009
+12278	1892	22	0	0	L443.12	Infection - perineal wound	February 2009
+16528	567	26	0	0	SP33100	Infection after injection	February 2009
+20405	535	9	0	0	SP33300	Infection after vaccination	February 2009
+549	49409	3089	28	0	M07yz13	Infection finger	February 2009
+8785	40026	372	0	0	M07z200	Infection finger	February 2009
+7150	22513	392	0	0	M07z000	Infection foot	February 2009
+3777	76734	2585	31	0	M07yz11	Infection toe	February 2009
+6085	77178	961	5	0	M07z100	Infection toe	February 2009
+6728	26457	248	0	0	M102.00	Infectious eczematoid dermatitis	February 2009
+100147	1140	6	0	0	2F1C.00	Inflammation of skin	July 2010
+1247	275713	3465	16	0	TE64000	Insect bite NOS	February 2009
+37120	177	3	0	0	SD80200	Insect bite of eyelids and periocular area	February 2009
+5469	24899	313	1	0	SD95.00	Insect bite, nonvenomous, infected, NOS	February 2009
+52856	6	0	0	0	SD15300	Insect bite, nonvenomous, of abdominal wall, infected	February 2009
+113684	1	0	0	0	SD15600	Insect bite, nonvenomous, of anus, infected	May 2019
+98643	3	0	0	0	SD15400	Insect bite, nonvenomous, of back, infected	March 2010
+70355	15	0	0	0	SD15200	Insect bite, nonvenomous, of breast, infected	February 2009
+97984	11	0	0	0	SD15500	Insect bite, nonvenomous, of buttock, infected	November 2009
+73671	8	0	0	0	SD15100	Insect bite, nonvenomous, of chest wall, infected	February 2009
+60579	36	0	0	0	SD35000	Insect bite, nonvenomous, of elbow, infected	February 2009
+49090	70	0	0	0	SD05000	Insect bite, nonvenomous, of face, infected	February 2009
+24811	263	6	0	0	SD55.00	Insect bite, nonvenomous, of finger, infected	February 2009
+12129	490	7	0	0	SD54.00	Insect bite, nonvenomous, of finger, without infection	February 2009
+115263	1	0	0	0	SD15700	Insect bite, nonvenomous, of flank, infected	January 2021
+24182	333	0	0	0	SD75.00	Insect bite, nonvenomous, of foot and toe, infected	February 2009
+61174	33	0	0	0	SD35100	Insect bite, nonvenomous, of forearm, infected	February 2009
+95063	3	0	0	0	SD15800	Insect bite, nonvenomous, of groin, infected	February 2009
+28147	614	6	0	0	SD45.00	Insect bite, nonvenomous, of hand, infected	February 2009
+17349	1755	7	0	0	SD44.00	Insect bite, nonvenomous, of hand, without infection	February 2009
+17577	414	3	0	0	SD05.00	Insect bite, nonvenomous, of head, infected	February 2009
+36663	16	0	0	0	SD05z00	Insect bite, nonvenomous, of head, infected, NOS	February 2009
+17271	2485	9	0	0	SD04.00	Insect bite, nonvenomous, of head, without infection	February 2009
+73282	4	0	0	0	SD65000	Insect bite, nonvenomous, of hip, infected	February 2009
+112575	1	0	0	0	SD15000	Insect bite, nonvenomous, of interscapular region, infected	April 2018
+17534	786	3	0	0	SD35.00	Insect bite, nonvenomous, of lower arm, infected	February 2009
+70512	17	0	0	0	SD35z00	Insect bite, nonvenomous, of lower arm, infected, NOS	February 2009
+6561	2640	6	0	0	SD34.00	Insect bite, nonvenomous, of lower arm, without infection	February 2009
+17125	2792	14	0	0	SD65.00	Insect bite, nonvenomous, of lower limb, infected	February 2009
+6568	8370	17	0	0	SD64.00	Insect bite, nonvenomous, of lower limb, without infection	February 2009
+64159	7	0	0	0	SD05100	Insect bite, nonvenomous, of neck, infected	February 2009
+71975	8	0	0	0	SD15A00	Insect bite, nonvenomous, of penis, infected	February 2009
+23727	1	0	0	0	SD15900	Insect bite, nonvenomous, of perineum, infected	February 2009
+58936	8	0	0	0	SD05200	Insect bite, nonvenomous, of scalp, infected	February 2009
+16781	332	1	0	0	SD25.00	Insect bite, nonvenomous, of shoulder/upper arm, infected	February 2009
+20477	378	1	0	0	SD15.00	Insect bite, nonvenomous, of trunk, infected	February 2009
+71891	5	0	0	0	SD15z00	Insect bite, nonvenomous, of trunk, infected, NOS	February 2009
+16818	2371	5	0	0	SD14.00	Insect bite, nonvenomous, of trunk, without infection	February 2009
+59331	3	0	0	0	SD15D00	Insect bite, nonvenomous, of vagina, infected	February 2009
+90858	2	0	0	0	SD15C00	Insect bite, nonvenomous, of vulva, infected	February 2009
+55387	8	2	0	0	SD35200	Insect bite, nonvenomous, of wrist, infected	February 2009
+17348	1452	4	0	0	SD24.00	Insect bite, nonvenomous, shoulder/upp arm, no infection	February 2009
+14672	54966	902	1	0	SD94.00	Insect bite, nonvenomous, without mention of infection NOS	February 2009
+6858	77011	136	1	0	SD...16	Insect bites - non venomous	February 2009
+1988	358276	1011	3	0	M15y100	Intertrigo	February 2009
+25247	60	0	0	0	J545.00	Intrasphincteric abscess	February 2009
+9335	8621	56	0	0	M129.00	Irritant contact dermatitis	February 2009
+594	12118	1288	0	0	J541.00	Ischiorectal abscess	February 2009
+2311	243828	3634	15	0	M18z.12	Itch	February 2009
+3154	74856	8010	4	0	M214.00	Keloid scar	February 2009
+20415	1161	30	0	0	7738500	Laying open perianal abscess	February 2009
+104180	2758	187	0	0	38C4.00	Leg ulcer assessment	June 2012
+65862	750	26	0	0	8CT1.00	Leg ulcer compression therapy finished	February 2009
+62265	1952	28	0	0	8CV2.00	Leg ulcer compression therapy started	February 2009
+1216	471745	14981	848	0	M271.13	Leg ulcer NOS	February 2009
+104037	39292	2944	0	0	2JX..00	Lesion	May 2012
+1621	96127	3886	5	0	M170.00	Lichen planus	February 2009
+633	94198	4773	2	0	M210200	Lichen sclerosus et atrophicus	February 2009
+4257	4569	479	0	0	J085800	Lip ulcer	February 2009
+11720	9838	212	0	0	M2y0500	Lipodermatosclerosis	February 2009
+21073	8014	17	0	0	M07y.00	Local infection of skin or subcutaneous tissue OS	February 2009
+3128	333544	4021	70	0	M07z.00	Local infection skin/subcut tissue NOS	February 2009
+31413	530	19	0	0	J083300	Ludwig's angina	February 2009
+3718	10308	305	0	0	G862.00	Lymphangitis	February 2009
+8801	16483	67	0	0	M271400	Mixed venous and arterial leg ulcer	February 2009
+151	378927	4595	3	0	A780.00	Molluscum contagiosum	February 2009
+62308	10	0	0	0	TE63100	Moray eel bite	February 2009
+1308	20605	620	36	0	M01z000	Multiple boils	February 2009
+2693	66260	57	2	0	M110.00	Napkin dermatitis	February 2009
+1685	310786	518	18	0	M110.13	Nappy rash	February 2009
+6346	75171	39	0	0	AB23012	Nappy rash - candidal	February 2009
+22862	636	4	0	0	H1y1A00	Nasal furuncle	February 2009
+4175	5034	123	0	0	M183100	Neurodermatitis circumscripta	February 2009
+10920	9390	628	0	0	26C4.00	Nipple eczema	February 2009
+5041	205968	686	24	0	A57z.11	Non specific viral rash	February 2009
+104293	1254	64	0	0	M273.00	Non-healing leg ulcer	June 2012
+3928	25193	336	0	0	M271.00	Non-pressure ulcer lower limb	February 2009
+37533	45	0	0	0	TE64z00	Nonvenomous arthropod bite NOS	February 2009
+3868	3568	35	0	0	M1y0.00	Nummular dermatitis	February 2009
+4083	163441	3388	3	0	2I14.00	O/E - a rash	February 2009
+1243	228242	3788	3	0	2227.11	O/E - allergic rash	February 2009
+22641	1904	62	0	0	2G48.00	O/E - ankle ulcer	February 2009
+7518	7016	272	0	0	2FO..00	O/E - discoid rash	February 2009
+9104	14176	375	0	0	2FU..00	O/E - erythematous rash	February 2009
+21083	907	198	0	0	2FD2000	O/E - eyebrow cyst present	February 2009
+13292	33804	338	0	0	2G64.00	O/E - infected toe	February 2009
+4277	190685	3292	1	0	2227.12	O/E - itchy rash	February 2009
+8709	13450	757	0	0	2G55.00	O/E - Left foot ulcer	February 2009
+6146	18090	180	0	0	2F6..11	O/E - pompholyx	February 2009
+6337	249357	5215	14	0	2227.00	O/E - rash present	February 2009
+7093	16169	1059	2	0	2G54.00	O/E - Right foot ulcer	February 2009
+6258	6423	788	12	0	2FD2100	O/E - scalp cyst present	February 2009
+10014	37884	554	0	0	2FW0.00	O/E - scalp rash	February 2009
+17171	3728	580	0	0	2FI..00	O/E - sinus in skin	February 2009
+323	308220	39025	366	0	2FD..00	O/E - skin cyst	February 2009
+16338	2398	45	0	0	2FDZ.00	O/E - skin cyst NOS	February 2009
+6207	35951	2049	1	0	2FF..00	O/E - skin ulcer	February 2009
+1727	7308	709	6	0	2FF2.00	O/E - skin ulcer present	February 2009
+14822	15585	74	0	0	22L4.00	O/E - Wound infected	February 2009
+495	199220	4128	116	0	N213300	Olecranon bursitis	February 2009
+5328	66645	527	0	0	AB01.11	Onychomycosis	February 2009
+4748	1618	68	1	0	J083.00	Oral cellulitis and abscess	February 2009
+19944	862	44	0	0	J083z00	Oral cellulitis and abscess NOS	February 2009
+2026	727	43	0	0	J083400	Oral fistula	February 2009
+15336	94	3	0	0	J083100	Oral soft tissue cellulitis unspecified	February 2009
+4328	31054	1392	0	0	F4G0100	Orbital cellulitis	February 2009
+6354	1034	26	0	0	J083500	Oroantral fistula	February 2009
+17032	3504	123	0	0	K424.00	Other abscess of vulva	February 2009
+16536	31632	329	0	0	M03..00	Other cellulitis and abscess	February 2009
+24867	7297	22	0	0	M07..00	Other local infections of skin and subcutaneous tissue	February 2009
+19125	2721	18	0	0	M2z..00	Other skin and subcutaneous tissue disease NOS	February 2009
+14687	13491	521	11	0	M2yz.00	Other skin and subcutaneous tissue disease NOS	February 2009
+8899	2466	11	0	0	M07yz00	Other spec local skin/subc infection NOS	February 2009
+14972	4145	144	3	0	M03y.00	Other specified cellulitis and abscess	February 2009
+6848	6273	72	1	0	M0y..00	Other specified infections of skin or subcutaneous tissue	February 2009
+14680	30233	911	4	0	M2y4z00	Other specified skin disorder NOS	February 2009
+12028	2051	91	0	0	N243.00	Panniculitis unspecified	February 2009
+30982	149	0	0	0	K405100	Pelvic cellulitis unspecified	February 2009
+48227	57	1	0	0	J543.00	Pelvi-rectal abscess	February 2009
+2646	15019	853	5	0	M145.00	Pemphigoid	February 2009
+29591	866	33	0	0	K272000	Penile abscess	February 2009
+17537	1271	35	0	0	K272100	Penile boil	February 2009
+1203	112847	8725	17	0	J540.00	Perianal abscess	February 2009
+5830	38555	654	8	0	M180.11	Perianal itch	February 2009
+30042	483	5	0	0	M244400	Perifolliculitis	February 2009
+16448	1276	10	0	0	M244700	Perifolliculitis of scalp	February 2009
+47105	1077	19	0	0	M153600	Periocular dermatitis	February 2009
+3304	73394	857	0	0	M153500	Perioral dermatitis	February 2009
+25156	91	2	0	0	H1y2100	Pharynx or nasopharynx cellulitis	February 2009
+4739	9535	239	0	0	M127300	Photodermatitis	February 2009
+8901	15583	567	9	0	M262100	Pilar cyst	February 2009
+5441	4869	103	814	0	M262200	Pilar cyst of scalp	February 2009
+1420	42646	4307	5	0	M060.00	Pilonidal cyst with abscess	February 2009
+33891	585	18	0	0	M061.00	Pilonidal cyst with no abscess	February 2009
+1488	43652	1241	0	0	773B.00	Pilonidal sinus operations	February 2009
+26075	9423	256	0	0	M062.00	Pilonidal sinus with abscess	February 2009
+1109	12753	1980	14	0	M063.00	Pilonidal sinus without abscess	February 2009
+5077	92580	7395	2	0	M06..00	Pilonidal sinus/cyst	February 2009
+5429	24264	2934	10	0	M06z.00	Pilonidal sinus/cyst NOS	February 2009
+8502	9211	51	0	0	M07y400	Pitted keratolysis	February 2009
+362	159337	483	0	0	M163.00	Pityriasis rosea	February 2009
+1070	192868	1199	4	0	AB10.00	Pityriasis versicolor	February 2009
+5700	278692	9016	59	0	A781400	Plain wart	February 2009
+1578	129332	1651	0	0	M252100	Pompholyx unspecified	February 2009
+6956	71366	1042	16	0	SK03.00	Post-traumatic wound infection NEC	February 2009
+29843	725	55	0	0	P444.00	Preauricular cyst	February 2009
+4929	106328	2232	100	0	M270.13	Pressure sore	February 2009
+35329	372	27	0	0	ZQ39.12	Pressure ulcer assessment	February 2009
+4793	47696	117	0	0	M251.00	Prickly heat - miliaria	February 2009
+1075	22988	732	3	0	M182.00	Prurigo	February 2009
+9284	11233	323	0	0	M183000	Prurigo nodularis (Hyde's disease)	February 2009
+1920	94697	1425	6	0	M18..00	Pruritus and related conditions	February 2009
+1317	275192	4992	23	0	M180.00	Pruritus ani	February 2009
+1829	318095	8648	84	0	M18z.00	Pruritus NOS	February 2009
+991	124222	4578	36	0	M181.11	Pruritus vulvae	February 2009
+6613	1599	42	0	0	M24y000	Pseudofolliculitis barbae	February 2009
+1562	1473	29	0	0	J552C12	Psoas abscess	February 2009
+3733	109765	3228	0	0	M16..00	Psoriasis and similar disorders	February 2009
+172	503136	16671	0	0	M161z00	Psoriasis NOS	February 2009
+162	441061	24561	23	0	M161000	Psoriasis unspecified	February 2009
+8867	364	4	0	0	M020500	Pulp space infection of finger/thumb	February 2009
+14734	1843	55	0	0	M070.11	Purulent dermatitis	February 2009
+5000	10981	215	0	0	M102.11	Pustular eczema	February 2009
+9531	2197	49	1	0	M244300	Pustular folliculitis	February 2009
+4231	14174	677	0	0	M161D00	Pustular psoriasis	February 2009
+11226	3033	100	0	0	M070200	Pyoderma gangrenosum	February 2009
+12716	1910	66	0	0	TE61.00	Rat bite	February 2009
+9056	1510	101	1	0	J546.00	Rectal abscess	February 2009
+15202	1584	129	0	0	J531300	Rectal fistula	February 2009
+6202	47867	1289	15	0	M01z.11	Recurrent boils	February 2009
+104565	414	12	0	0	M274.00	Recurrent leg ulcer	July 2012
+19395	1927	1990	0	0	8HTh.00	Referral to leg ulcer clinic	February 2009
+3582	10537	697	0	0	M153100	Rhinophyma	February 2009
+1614	202969	734	15	0	AB0..12	Ringworm	February 2009
+970	280896	4234	9	0	M153.00	Rosacea	February 2009
+2430	396046	1224	8	0	AD30.00	Scabies	February 2009
+5535	9780	231	2	0	M073.00	Scalp infection	February 2009
+5250	112940	1165	2	0	1D15.11	Scalp itchy	February 2009
+11761	46616	444	0	0	M16y000	Scalp psoriasis	February 2009
+7611	8654	63	2	0	SD90.11	Scratch NOS	February 2009
+4687	12062	434	5	0	TE6y800	Scratched by cat	February 2009
+12207	30886	1058	0	0	M262.12	Sebaceous cyst	February 2009
+681	512792	50568	536	0	M262.00	Sebaceous cyst - wen	February 2009
+5568	7256	268	0	0	K30y000	Sebaceous cyst of breast	February 2009
+18915	2770	71	0	0	M262211	Sebaceous cyst of scalp	February 2009
+6114	8999	409	0	0	K28yF00	Sebaceous cyst of scrotum	February 2009
+17065	9502	469	0	0	M26..00	Sebaceous gland diseases	February 2009
+3453	74439	688	2	0	M244.11	Seborrhoea capitis	February 2009
+359	387556	3509	1	0	M101.00	Seborrhoeic dermatitis	February 2009
+7425	101942	530	0	0	M101.11	Seborrhoeic dermatitis capitis	February 2009
+653	172222	1997	2	0	M101.12	Seborrhoeic eczema	February 2009
+85835	32758	17	0	0	9N0t.00	Seen in primary care leg ulcer clinic	February 2009
+6638	112052	606	1	0	M07z.13	Septic spots	February 2009
+36050	78	7	0	0	TE63300	Shark bite	February 2009
+9006	7896	183	0	0	M095.00	Skin abscess	February 2009
+16110	38065	200	2	0	M0z..00	Skin and subcut tissue infection NOS	February 2009
+1836	114263	28767	1364	0	Mz...00	Skin and subcutaneous tissue disease NOS	February 2009
+11208	102004	1833	9	0	M....00	Skin and subcutaneous tissue diseases	February 2009
+4495	875148	5102	79	0	M0...00	Skin and subcutaneous tissue infections	February 2009
+14719	8353	274	1	0	M1z..00	Skin and subcutaneous tissue inflammatory disorders NOS	February 2009
+1139	1421373	202335	423	0	M2yz.11	Skin lesion	February 2009
+6093	474729	63429	25	0	M2z0.00	Skin lesion	February 2009
+8339	4148	315	0	0	M2yA.00	Skin sinus	February 2009
+12536	1035	26	0	0	SD57.00	Splinter of finger, without major open wound, infected	February 2009
+24036	501	21	0	0	SD47.00	Splinter of hand, without major open wound, infected	February 2009
+10371	2114	25	0	0	M15y012	Staphylococcal scalded skin syndrome	February 2009
+8669	17697	801	1	0	TE5..11	Sting	February 2009
+33359	126	23	0	0	J542.00	Submucous ano-rectal abscess	February 2009
+25768	565	3	0	0	SD5z.00	Superficial injury of finger NOS, infected	February 2009
+12764	20543	8	0	0	7G2EC00	Three layer compression bandage for skin ulcer	February 2009
+98288	3778	4	0	0	SD99.00	Tick bite, infected	December 2009
+98152	15063	18	0	0	SD98.00	Tick bite, without infection	December 2009
+1027	155616	639	1	0	AB0..13	Tinea	February 2009
+22868	12073	157	0	0	AB00011	Tinea capitis	February 2009
+5435	54985	193	2	0	AB05.12	Tinea corporis	February 2009
+747	164499	453	1	0	AB03.12	Tinea cruris	February 2009
+1030	134881	464	2	0	AB04.12	Tinea pedis	February 2009
+3522	18240	319	3	0	TE53100	Toxic reaction to wasp sting	February 2009
+5790	5387	44	1	0	M271600	Traumatic leg ulcer	February 2009
+17787	57546	5	275	0	7G2EA00	Two layer compression bandage for skin ulcer	February 2009
+3930	24131	1282	0	0	M272.00	Ulcer of skin	February 2009
+1272	767157	19462	12	0	M28..00	Urticaria	February 2009
+1217	298279	4471	2	0	G831.11	Varicose eczema	February 2009
+5983	34753	310	0	0	G831.00	Varicose veins of the leg with eczema	February 2009
+1913	43487	2149	20	0	G830.00	Varicose veins of the leg with ulcer	February 2009
+11264	17722	428	0	0	G837.00	Venous ulcer of leg	February 2009
+5855	43972	369	6	0	M271500	Venous ulcer of leg	February 2009
+1010	549367	12333	8	0	A781100	Verruca plantaris	February 2009
+4307	433373	6063	5	0	A781.11	Verrucae - warts	February 2009
+219	558352	29020	419	0	A781.00	Viral warts	February 2009
+1453	193874	1049	4	0	7G09111	Wart treated with liquid nitrogen	February 2009
+650	95771	2088	16	0	8BAZ.11	Wart treatment	February 2009
+4053	37264	2711	1	0	SD...1A	Wasp sting	February 2009
+7217	8118	68	0	0	SD...18	Wasp sting without reaction	February 2009
+3457	41467	217	2	0	M020112	Whitlow	February 2009
+19894	153	88	457146	0	4I1F.00	Wound microscopy, culture and sensitivities	February 2009
+8185	1830	27	0	0	U120.00	[X]Hit struck kicked twistd bitten/scratchd by anoth person	February 2009
+72872	84	0	0	0	SD65z00	Insect bite, nonvenomous, of lower limb, infected, NOS	February 2009
+98659	7	0	0	0	SD14800	Insect bite, nonvenomous, of groin	March 2010
+68205	2	0	0	0	SD14B11	Insect bite, nonvenomous, of scrotum, without infection	February 2009
+68389	15	1	0	0	SD74100	Insect bite, nonvenomous, of toe	February 2009
+104896	7	0	0	0	SD64000	Insect bite, nonvenomous, of hip	August 2012
+47254	27	0	0	0	SD14700	Insect bite, nonvenomous, of flank	February 2009
+48864	9	1	0	0	SD75100	Insect bite, nonvenomous, of toe, infected	February 2009
+40526	33	0	0	0	SD14300	Insect bite, nonvenomous, of abdominal wall	February 2009
+54651	35	0	0	0	SD14400	Insect bite, nonvenomous, of back	February 2009
+43788	46	0	0	0	SD34000	Insect bite, nonvenomous, of elbow	February 2009
+112635	1	0	0	0	SD25100	Insect bite, nonvenomous, of interscapular region, infected	April 2018
+17926	112	2	0	0	SD80211	Insect bite of eyelid	February 2009
+52183	12	1	0	0	SD14A00	Insect bite, nonvenomous, of penis	February 2009
+42739	48	0	0	0	SD04200	Insect bite, nonvenomous, of scalp	February 2009
+50764	86	1	0	0	SD75000	Insect bite, nonvenomous, of foot, infected	February 2009
+51044	21	0	0	0	SD14500	Insect bite, nonvenomous, of buttock	February 2009
+48892	163	0	0	0	SD34100	Insect bite, nonvenomous, of forearm	February 2009
+48862	20	0	0	0	SD65200	Insect bite, nonvenomous, of knee, infected	February 2009
+93299	2	0	0	0	SD24100	Insect bite, nonvenomous, of interscapular region	February 2009
+45703	128	0	0	0	SD64400	Insect bite, nonvenomous, of ankle	February 2009
+48947	49	2	0	0	SD34200	Insect bite, nonvenomous, of wrist	February 2009
+43391	95	0	0	0	SD65400	Insect bite, nonvenomous, of ankle, infected	February 2009
+99034	6	0	0	0	SD25z00	Insect bite, nonvenomous, shoulder/upper arm, infected, NOS	April 2010
+48956	197	0	0	0	SD65300	Insect bite, nonvenomous, of lower leg, infected	February 2009
+60609	1	0	0	0	SD15B11	Insect bite, nonvenomous, of scrotum, infected	February 2009
+64281	7	0	0	0	SD74z00	Insect bite, nonvenomous, of foot/toe, without infection NOS	February 2009
+64039	25	0	0	0	SD64200	Insect bite, nonvenomous, of knee	February 2009
+48696	51	0	0	0	SD64z00	Insect bite, nonvenomous, lower limb, without infection NOS	February 2009
+73084	16	0	0	0	SD04.11	Insect bite, nonvenomous, of head, without infection	February 2009
+109554	1	0	0	0	SD14000	Insect bite, nonvenomous, of interscapular region	April 2015
+44785	13	0	0	0	SD14z00	Insect bite, nonvenomous, of trunk, without infection, NOS	February 2009
+38559	202	3	0	0	SD65.11	Insect bite, nonvenomous, of leg, infected	February 2009
+49401	3	0	0	0	SD75.11	Insect bite, nonvenomous, of heel, infected	February 2009
+65800	7	0	0	0	SD74011	Insect bite, nonvenomous, of heel, without infection	February 2009
+36138	264	3	0	0	SD04000	Insect bite, nonvenomous, of face	February 2009
+68876	12	0	0	0	SD14200	Insect bite, nonvenomous, of breast	February 2009
+29846	567	0	0	0	SD64300	Insect bite, nonvenomous, lower leg	February 2009
+24597	854	2	0	0	SD74.00	Insect bite, nonvenomous, of foot and toe, without infection	February 2009
+113641	2	0	0	0	SD75z00	Insect bite, nonvenomous, of foot and toe, infected, NOS	April 2019
+41751	5	0	0	0	SD25200	Insect bite, nonvenomous, of axilla, infected	February 2009
+111025	9	0	0	0	SD05.11	Insect bite, nonvenomous, of head, infected	July 2016
+57269	63	0	0	0	SD04100	Insect bite, nonvenomous, of neck	February 2009
+65711	34	0	0	0	SD14100	Insect bite, nonvenomous, of chest wall	February 2009
+36596	138	0	0	0	SD24300	Insect bite, nonvenomous, of upper arm	February 2009
+21917	229	1	0	0	SD64.11	Insect bite, nonvenomous, of leg, without infection	February 2009
+24367	12	0	0	0	SD24z00	Insect bite, nonvenomous, shoulder/upp arm,no infection NOS	February 2009
+52367	59	0	0	0	SD65100	Insect bite, nonvenomous, of thigh, infected	February 2009
+109432	2	0	0	0	SD14B00	Insect bite, nonvenomous, of scrotum and testis	March 2015
+58763	23	0	0	0	SD04z00	Insect bite, nonvenomous, of head, without infection NOS	February 2009
+50496	90	3	0	0	SD64100	Insect bite, nonvenomous, of thigh	February 2009
+112457	3	0	0	0	SD15B12	Insect bite, nonvenomous, of testis, infected	January 2018
+64284	26	0	0	0	SD24000	Insect bite, nonvenomous, of shoulder	February 2009
+51149	96	0	0	0	SD74000	Insect bite, nonvenomous, of foot	February 2009
+103148	6	0	0	0	SD34z00	Insect bite, nonvenomous, lower arm, without infection NOS	October 2011
+68381	10	0	0	0	SD24200	Insect bite, nonvenomous, of axilla	February 2009
+49931	36	0	0	0	SD25300	Insect bite, nonvenomous, of upper arm, infected	February 2009
+115208	1	0	0	0	SD14600	Insect bite, nonvenomous, of anus	October 2020
+57743	22	0	0	0	A272100	Pasteurella septic infection (cat or dog bite)	February 2009

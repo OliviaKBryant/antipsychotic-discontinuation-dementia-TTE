@@ -1,0 +1,23 @@
+﻿covariates,GOLD,Aurum,HES
+stroke,1,1,1
+stroke history,1,1,1
+fracture,1,1,1
+pneumonia,,,1
+smi,1,1,1
+depression,1,1,
+anxiety,1,1,
+diabetes,1,1,1
+hypertension,1,1,1
+MI,1,1,1
+COPD,1,1,1
+osteoporosis,1,1,1
+ischaemic heart disease,1,1,1
+angina,1,1,1
+chronic kidney disease,1,1,1
+heart failure,1,1,1
+ventricular arrhythmia,1,1,1
+rheumatoid arthritis,1,1,1
+cancer,1,1,1
+atrial fibrillation,1,1,1
+venous thromboembolism,1,1,1
+liver disease,1,1,1

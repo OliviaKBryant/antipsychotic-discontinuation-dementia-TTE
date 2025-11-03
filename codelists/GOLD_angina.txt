@@ -1,0 +1,34 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+28554	24083	136	1	0	G33zz00	Angina pectoris NOS	February 2009
+12804	11276	80	0	0	G33z700	Stable angina	February 2009
+4656	6287	1516	0	0	G311.11	Crescendo angina	February 2009
+20095	2537	208	0	0	G330.00	Angina decubitus	February 2009
+9276	3562	25	0	0	G31y000	Acute coronary insufficiency	February 2009
+11048	173	22	0	0	G331.11	Variant angina pectoris	February 2009
+29300	5298	135	0	0	662K300	Angina control - worsening	February 2009
+34328	193	20	0	0	G311300	Refractory angina	February 2009
+17307	2529	203	0	0	G311200	Angina at rest	February 2009
+13185	60795	1300	5	0	662K.00	Angina control	February 2009
+29902	65	1	0	0	G330z00	Angina decubitus NOS	February 2009
+32450	1978	140	0	0	G33z400	Ischaemic chest pain	February 2009
+18125	411	20	0	0	G330000	Nocturnal angina	February 2009
+1414	8655	661	2	0	G33z300	Angina on effort	February 2009
+15349	1908	28	0	0	662Kz00	Angina control NOS	February 2009
+14782	2963	6	0	0	662K200	Angina control - improving	February 2009
+61072	108	6	0	0	G311000	Myocardial infarction aborted	February 2009
+19655	878	70	0	0	G311.14	Angina at rest	February 2009
+11983	46307	254	0	0	G311500	Acute coronary syndrome	February 2009
+12986	1175	21	0	0	G331.00	Prinzmetal's angina	February 2009
+7696	101	0	0	0	G33z200	Syncope anginosa	February 2009
+57062	303	13	0	0	14AJ.00	H/O: Angina in last year	February 2009
+1430	992693	42073	224	0	G33..00	Angina pectoris	February 2009
+9555	315	2	0	0	G33z500	Post infarct angina	February 2009
+19542	84666	30	0	0	662K000	Angina control - good	February 2009
+45960	154	0	0	0	8B27.00	Antianginal therapy	February 2009
+1431	40616	6406	3	0	G311.13	Unstable angina	February 2009
+26863	851	8	0	0	G33z600	New onset angina	February 2009
+6336	33522	920	0	0	14A5.00	H/O: angina pectoris	February 2009
+15373	3482	70	0	0	662K100	Angina control - poor	February 2009
+25842	14657	82	0	0	G33z.00	Angina pectoris NOS	February 2009
+7347	35856	1679	0	0	G311100	Unstable angina	February 2009
+18118	4156	592	0	0	G311400	Worsening angina	February 2009

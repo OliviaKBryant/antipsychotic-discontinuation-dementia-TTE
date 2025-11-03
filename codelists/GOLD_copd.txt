@@ -1,0 +1,86 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+45777	12231	3	0	0	8CR1.00	Chronic obstructive pulmonary disease clini management plan	February 2009
+19003	52169	13	1	0	66Ye.00	Emergency COPD admission since last appointment	February 2009
+102685	14510	5	0	0	66YB000	Chronic obstructive pulmonary disease 3 monthly review	August 2011
+5710	127282	1456	2	0	H3z..00	Chronic obstructive airways disease NOS	February 2009
+9876	42205	365	50	0	H38..00	Severe chronic obstructive pulmonary disease	February 2009
+26018	4897	10	0	0	66YS.00	Chronic obstructive pulmonary disease monitoring by nurse	February 2009
+68066	36	0	0	0	H31yz00	Other chronic bronchitis NOS	February 2009
+103494	3348	84	0	0	14B3.12	History of chronic obstructive pulmonary disease	January 2012
+99536	21	0	0	0	H320300	Bullous emphysema with collapse	May 2010
+109774	290	0	0	0	66YB200	Telehealth chronic obstructive pulmonary disease monitoring	June 2015
+19106	32992	5	0	0	66Yd.00	COPD accident and emergency attendance since last visit	February 2009
+23492	129	3	0	0	H320z00	Chronic bullous emphysema NOS	February 2009
+46578	60	0	0	0	H321.00	Panlobular emphysema	February 2009
+33450	1990	9	0	0	H32z.00	Emphysema NOS	February 2009
+106637	1006	1	0	0	9Nk7000	Seen in chronic obstructive pulmonary disease clinic	August 2013
+27819	1378	6	0	0	H312.00	Obstructive chronic bronchitis	February 2009
+96931	3048	35	0	0	14OX.00	At risk of chronic obstructive pulmonary diseas exacerbation	June 2009
+12166	5023	18	2	0	H3y..00	Other specified chronic obstructive airways disease	February 2009
+38074	33278	4	0	0	9Oi4.00	Chronic obstructive pulmonary disease monitor phone invite	February 2009
+103007	14092	7	0	0	66YB100	Chronic obstructive pulmonary disease 6 monthly review	September 2011
+34202	147217	1038	0	0	9Oi1.00	Chronic obstructive pulmonary disease monitoring 2nd letter	February 2009
+42313	40378	2	0	0	679V.00	Health education - chronic obstructive pulmonary disease	February 2009
+60188	24	0	0	0	H320200	Giant bullous emphysema	February 2009
+37371	5428	107	0	0	66YD.00	Chronic obstructive pulmonary disease monitoring due	February 2009
+56860	33	0	0	0	H320000	Segmental bullous emphysema	February 2009
+18476	46265	473	0	0	66YL.11	COPD follow-up	February 2009
+24248	39	0	0	0	H313.00	Mixed simple and mucopurulent chronic bronchitis	February 2009
+70787	6	0	0	0	H32y100	Atrophic (senile) emphysema	February 2009
+40788	133	2	1	0	H32y.00	Other emphysema	February 2009
+794	75164	2075	31	0	H32..00	Emphysema	February 2009
+11150	420	0	0	0	H311.00	Mucopurulent chronic bronchitis	February 2009
+105457	2723	2	0	0	8CMW500	Chronic obstructive pulmonary disease care pathway	December 2012
+61513	72	1	0	0	H311z00	Mucopurulent chronic bronchitis NOS	February 2009
+26125	330	5	0	0	H312300	Bronchiolitis obliterans	February 2009
+66043	37	0	0	0	H31y.00	Other chronic bronchitis	February 2009
+28755	500401	3616	0	0	9Oi0.00	Chronic obstructive pulmonary disease monitoring 1st letter	February 2009
+10802	99138	276	119	0	H37..00	Moderate chronic obstructive pulmonary disease	February 2009
+59263	19	1	0	0	H32y111	Acute interstitial emphysema	February 2009
+61118	77	0	0	0	H310z00	Simple chronic bronchitis NOS	February 2009
+5798	4721	56	0	0	H312000	Chronic asthmatic bronchitis	February 2009
+66058	39	0	0	0	Hyu3000	[X]Other emphysema	February 2009
+63479	38	0	0	0	H32y200	MacLeod's unilateral emphysema	February 2009
+37959	7	0	0	0	H311100	Fetid chronic bronchitis	February 2009
+3243	35506	777	32	0	H31..00	Chronic bronchitis	February 2009
+106650	93	0	0	0	H583200	Eosinophilic bronchitis	August 2013
+46036	4249	6	0	0	66Yi.00	Multiple COPD emergency hospital admissions	February 2009
+10980	532	1	0	0	H322.00	Centrilobular emphysema	February 2009
+111668	1	0	0	0	H32yz11	Sawyer - Jones syndrome	February 2017
+18621	102519	463	0	0	66YL.00	Chronic obstructive pulmonary disease follow-up	February 2009
+104985	52	0	0	0	9NgP.00	On chronic obstructive pulmonary disease supprtv cre pathway	September 2012
+45998	693	16	0	0	66YT.00	Chronic obstructive pulmonary disease monitoring by doctor	February 2009
+45771	3547	0	0	0	66Yh.00	Chronic obstructive pulmonary disease does not disturb sleep	February 2009
+5909	647	18	0	0	H312011	Chronic wheezy bronchitis	February 2009
+64721	8	0	0	0	H464000	Chronic emphysema due to chemical fumes	February 2009
+9520	363686	2782	0	0	66YB.00	Chronic obstructive pulmonary disease monitoring	February 2009
+92955	9	0	0	0	H32y000	Acute vesicular emphysema	February 2009
+25603	1128	0	0	0	H310.00	Simple chronic bronchitis	February 2009
+42258	11391	6	0	0	9Oi3.00	Chronic obstructive pulmonary disease monitoring verb invite	February 2009
+28743	384474	15	5	0	66Yf.00	Number of COPD exacerbations in past year	February 2009
+4084	1529	23	32634	0	663K.00	Airways obstructn irreversible	February 2009
+18792	27320	169	0	0	9Oi..00	Chronic obstructive pulmonary disease monitoring admin	February 2009
+15157	4316	100	4	0	H31z.00	Chronic bronchitis NOS	February 2009
+40159	79	1	0	0	H311000	Purulent chronic bronchitis	February 2009
+67040	19	0	0	0	H3y..11	Other specified chronic obstructive pulmonary disease	February 2009
+109958	2815	21	0	0	H3B..00	Asthma-chronic obstructive pulmonary disease overlap syndrom	July 2015
+68662	26	0	0	0	H320100	Zonal bullous emphysema	February 2009
+14798	1680	45	5	0	H312100	Emphysematous bronchitis	February 2009
+15626	1768	46	0	0	H310000	Chronic catarrhal bronchitis	February 2009
+26306	921	28	1	0	H320.00	Chronic bullous emphysema	February 2009
+1446	308869	4772	5	0	H312200	Acute exacerbation of chronic obstructive airways disease	February 2009
+10863	101432	227	69	0	H36..00	Mild chronic obstructive pulmonary disease	February 2009
+7884	94433	787	0	0	H3y1.00	Chron obstruct pulmonary dis wth acute exacerbation, unspec	February 2009
+63216	7	0	0	0	H464100	Obliterative bronchiolitis due to chemical fumes	February 2009
+34215	69627	500	0	0	9Oi2.00	Chronic obstructive pulmonary disease monitoring 3rd letter	February 2009
+16410	113	2	0	0	H32yz00	Other emphysema NOS	February 2009
+44525	1035	0	0	0	H312z00	Obstructive chronic bronchitis NOS	February 2009
+93568	4118	68	10	0	H39..00	Very severe chronic obstructive pulmonary disease	February 2009
+104710	57	0	0	0	9NgP.11	On COPD (chr obstruc pulmonary disease) supportv cre pathway	August 2012
+21061	6527	43	0	0	H3y0.00	Chronic obstruct pulmonary dis with acute lower resp infectn	February 2009
+104608	364	0	0	0	H3A..00	End stage chronic obstructive airways disease	July 2012
+18501	322631	503	0	0	66YI.00	COPD self-management plan given	February 2009
+45089	70	1	0	0	H31y100	Chronic tracheobronchitis	February 2009
+37247	2077	16	0	0	H3z..11	Chronic obstructive pulmonary disease NOS	February 2009
+11287	1237652	1058	1	0	66YM.00	Chronic obstructive pulmonary disease annual review	February 2009
+65733	65	0	0	0	Hyu3100	[X]Other specified chronic obstructive pulmonary disease	February 2009

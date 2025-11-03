@@ -1,0 +1,4 @@
+code	description
+M82	Osteoporosis in diseases classified elsewhere
+M81	Osteoporosis without pathological fracture
+M80	Osteoporosis with pathological fracture

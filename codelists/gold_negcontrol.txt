@@ -1,0 +1,55 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+10830	35557	146	0	0	7700.00	Emergency excision of appendix	February 2009
+23344	254	10	0	0	7700000	Emergency excision of abnormal appendix and drainage HFQ	February 2009
+33826	22056	1	0	0	7700z00	Emergency excision of appendix NOS	February 2009
+60360	102	0	0	0	7700y00	Other specified emergency excision of appendix	February 2009
+7832	6744	16	0	0	7700300	Emergency appendicectomy NEC	February 2009
+33538	1016	2	0	0	7700100	Emergency excision of abnormal appendix NEC	February 2009
+3141	197234	413	1	0	7700.11	Emergency appendicectomy	February 2009
+9206	1550	4	0	0	7700400	Endoscopic emergency appendicectomy	February 2009
+2394	751	12	0	0	7702000	Drainage of abscess of appendix	February 2009
+1999	2673	132	0	0	J200.00	Acute appendicitis with peritonitis	February 2009
+16040	734	6	0	0	J201.00	Acute appendicitis with appendix abscess	February 2009
+104496	26	0	0	0	J203.00	Acute appendicitis with generalised peritonitis	July 2012
+29890	37	2	0	0	7702100	Drainage of appendix NEC	February 2009
+17014	1907	18	0	0	J20z100	Acute gangrenous appendicitis	February 2009
+4130	3365	277	1	0	J201.12	Appendix abscess	February 2009
+3472	260	45	1	0	J222.00	Relapsing appendicitis	February 2009
+15393	171	16	0	0	J223.00	Recurrent appendicitis	February 2009
+104722	24	0	0	0	J204.00	Acute appendicitis with localised peritonitis	August 2012
+29882	145	9	0	0	J202.00	Acute appendicitis without peritonitis	February 2009
+52383	126	2	0	0	Jyu2000	[X]Other appendicitis	February 2009
+35406	1017	6	0	0	J22..00	Other appendicitis	February 2009
+25856	2512	27	0	0	J21..00	Appendicitis, unqualified	February 2009
+37817	519	1	0	0	J22z.00	Other appendicitis NOS	February 2009
+422	473305	8585	67	0	7701z11	Appendicectomy NEC	February 2009
+698	53928	8994	14	0	J20..00	Acute appendicitis	February 2009
+15490	4525	81	0	0	J20z.00	Acute appendicitis NOS	February 2009
+63208	144	6	0	0	J640000	Gallbladder calculus with acute cholecystitis +no obstruct	February 2009
+48587	45	0	0	0	J640100	Gallbladder calculus with acute cholecystitis + obstruction	February 2009
+34683	333	2	0	0	J643.00	Bile duct calculus with acute cholecystitis	February 2009
+96679	5	0	0	0	J643z00	Bile duct calculus + acute cholecystitis - obstruct NOS	April 2009
+39025	9	0	0	0	J643000	Bile duct calculus + acute cholecystitis and no obstruction	February 2009
+31650	38	0	0	0	J643100	Bile duct calculus + acute cholecystitis and obstruction	February 2009
+72904	7	0	0	0	J650100	Acute angiocholecystitis	February 2009
+71134	113	0	0	0	J641z00	Gallbladder calculus with other cholecystitis - obstruct NOS	February 2009
+47536	16	0	0	0	J641100	Gallbladder calculus with other cholecystitis + obstruct	February 2009
+49202	96	2	0	0	J641000	Gallbladder calculus with other cholecystitis +no obstruct	February 2009
+49106	301	2	0	0	J641.00	Gallbladder calculus with other cholecystitis	February 2009
+26889	150	4	0	0	J644.00	Bile duct calculus with other cholecystitis	February 2009
+44649	16	0	0	0	J644100	Bile duct calculus + other cholecystitis and obstruction	February 2009
+61298	14	0	0	0	J644z00	Bile duct calculus + other cholecystitis - obstruction NOS	February 2009
+107004	5	0	0	0	J644000	Bile duct calculus + other cholecystitis and no obstruction	September 2013
+44922	94	1	0	0	J650.11	Abscess of gallbladder	February 2009
+46248	62	1	0	0	J650200	Acute emphysematous cholecystitis	February 2009
+35046	740	17	9	0	J640.00	Gallbladder calculus with acute cholecystitis	February 2009
+64132	45	1	0	0	J640z00	Gallbladder calculus with acute cholecystitis - obst NOS	February 2009
+15735	2268	73	0	0	J650z00	Acute cholecystitis NOS	February 2009
+44605	403	6	0	0	J650000	Acute cholecystitis unspecified	February 2009
+505	89619	4813	23	0	J650.00	Acute cholecystitis	February 2009
+41018	177	2	0	0	J650400	Acute gangrenous cholecystitis	February 2009
+932	1222	49	0	0	J650.12	Empyema of gallbladder	February 2009
+45172	2346	12	0	0	J651.00	Other cholecystitis	February 2009
+1924	23900	2459	10	0	J651z00	Cholecystitis NOS	February 2009
+101538	41	2	0	0	Jyu8100	[X]Other cholecystitis	January 2011
+38289	20	0	0	0	J650300	Acute suppurative cholecystitis	February 2009

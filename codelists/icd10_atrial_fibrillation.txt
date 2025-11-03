@@ -1,0 +1,5 @@
+icd,description
+i48,Paroxysmal atrial fibrillation
+i48.1,Persistent atrial fibrillation
+i48.2,Chronic atrial fibrillation
+i48.9,"Atrial fibrillation and atrial flutter, unspecified"

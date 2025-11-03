@@ -1,0 +1,3 @@
+code	description
+I20.0	unstable angina
+I24.0	coronary thrombosis not resulting in myocardial infarction

@@ -1,0 +1,8 @@
+ ICD10  	 Description                                                   
+ I26    	 Pulmonary Embolism                                            
+ I26.0  	 Pulmonary Embolism with mention of acute cor pulmonale        
+ I26.9  	 Pulmonary Embolism without mention of acute cor pulmonale     
+ I80.1  	 Phlebitis and thrombophlebitis of femoral vein                
+ I80.2  	 Phlebitis and thrombophlebitis of other deep vessels of lower extremities 
+ I80.3  	" Phlebitis and thrombophlebitis of lower extremities, unspecified "
+ I82    	 Other venous embolism and thrombosis                          
